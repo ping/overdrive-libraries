@@ -1,0 +1,2105 @@
+{
+"features": [
+{
+"geometry": {
+"coordinates": [
+34.050399,
+-118.254322
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Los Angeles Public Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+33.951113,
+-118.249739
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Alma Reaves Woods - Watts Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.110341,
+-118.25851
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Atwater Village Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.146519,
+-118.434097
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Sherman Oaks - Martin Pollard Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.079617,
+-118.25851
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Edendale Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.256695,
+-118.418533
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Pacoima Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.037079,
+-118.42791
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Palms- Rancho Park Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.228848,
+-118.444427
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Panorama City Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.122054,
+-118.293589
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Los Feliz Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+33.994164,
+-118.463531
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Venice - Abbott Kinney Memorial Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.179401,
+-118.430733
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Van Nuys Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.003265,
+-118.28894
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Vermont Square Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.05029,
+-118.211726
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Malabar Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.009762,
+-118.258614
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Vernon - Leon H. Washington Jr. Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.005017,
+-118.433835
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Mar Vista Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.045719,
+-118.444016
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "West Los Angeles Regional Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.10885,
+-118.223423
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Cypress Park Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+33.990383,
+-118.328661
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Angeles Mesa Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.089519,
+-118.331584
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "John C. Fremont Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.16588,
+-118.363726
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "North Hollywood - Amelia Earhart Regional Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.05029,
+-118.211726
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Benjamin Franklin Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.079517,
+-118.176629
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "El Sereno Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.078346,
+-118.547546
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Palisades Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.231529,
+-118.344696
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Sun Valley Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.061706,
+-118.278974
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Felipe de Neve Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.047607,
+-118.292267
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Pico Union Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.059792,
+-118.310844
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Pio Pico - Koreatown Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+33.934566,
+-118.361221
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Playa Vista Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+33.80717,
+-118.307575
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Harbor City - Harbor Gateway Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.23868,
+-118.480557
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Mid-Valley Regional Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.065674,
+-118.434181
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Westwood Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.107254,
+-118.368881
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Will and Ariel Durant Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.076061,
+-118.310753
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Wilshire Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+33.990383,
+-118.328661
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Hyde Park - Miriam Matthews Branch Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.096306,
+-118.498074
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Donald Bruce Kaufman - Brentwood Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.112316,
+-118.261223
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Silver Lake Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.079617,
+-118.25851
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Echo Park Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.240044,
+-118.51559
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Northridge Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.302376,
+-118.36957
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Lake View Terrace Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.071737,
+-118.353231
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Fairfax Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.305901,
+-118.210312
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Sunland - Tujunga Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.342201,
+-118.357468
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Sylmar Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.101218,
+-118.325739
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Frances Howard Goldwyn - Hollywood Regional Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.198945,
+-118.597305
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Canoga Park Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.280739,
+-118.557343
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Porter Ranch Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.420334,
+-119.710749
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Central Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+33.965799,
+-118.273127
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Mark Twain Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.052254,
+-118.385269
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Robertson Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+34.020287,
+-118.200188
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "Robert Louis Stevenson Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+33.743298,
+-118.274284
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 54827,
+"collection-ebooks": 284668,
+"collection-total": 346289,
+"library-link": "http://www.lapl.org",
+"library-name": "San Pedro Regional Library",
+"marker-size": "large",
+"marker-symbol": "marker",
+"overdrive-link": "https://lapl.overdrive.com",
+"overdrive-name": "Los Angeles Public Library"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.8517,
+174.764991
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Auckland Libraries",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.881975,
+174.775655
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Epsom Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.99191,
+174.879684
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Manukau Library and Research Centre Te Paerangi",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.94146,
+174.7858
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "M\u0101ngere Bridge Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.772252,
+174.547623
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Kumeu Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.898322,
+174.854514
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Panmure Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-37.06373,
+174.94283
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Sir Edmund Hillary Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.635975,
+174.747238
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Whangaparaoa Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-37.0341,
+174.86814
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Te Matariki Clendon Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.296579,
+174.522028
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Wellsford War Memorial Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.867118,
+174.738987
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Grey Lynn Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.881056,
+174.799946
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Remuera Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.909158,
+174.756818
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Mt. Roskill Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.94497,
+174.846146
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "\u014ct\u0101huhu Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.831924,
+174.797845
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Devonport Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.89412,
+174.93308
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Howick Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.96838,
+174.79729
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "M\u0101ngere Town Centre Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-37.02044,
+174.89711
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Manurewa Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-37.20228,
+174.90431
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Pukekohe Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.86424,
+174.60278
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "R\u0101nui Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.586846,
+174.694479
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "\u014crewa Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.788941,
+174.773834
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Takapuna Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.939224,
+174.655426
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Titirangi Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.397846,
+174.666449
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Warkworth Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.87049,
+174.71001
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Pt. Chevalier Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.884031,
+174.734285
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Mt Albert Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.89425,
+174.695076
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Avondale Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.924379,
+174.701924
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Blockhouse Bay Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.780927,
+174.722836
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Glenfield Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.933702,
+174.914167
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Botany Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.420929,
+174.722489
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Mahurangi East Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.243546,
+175.467474
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Great Barrier Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.676054,
+174.450936
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Helensville Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.98031,
+174.85508
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Papatoetoe Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.82461,
+174.60812
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Massey Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.96135,
+174.87188
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "\u014ctara Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.800991,
+174.747049
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Northcote Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.84194,
+174.652046
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Te Atat\u016b Peninsula Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-37.24794,
+174.72883
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Waiuku Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.781139,
+175.007658
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "http://www.aucklandlibraries.govt.nz/",
+"library-name": "Waiheke Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.923202,
+174.784236
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Onehunga Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.850981,
+174.857878
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "St. Heliers Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.812566,
+174.726404
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Birkenhead Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.725411,
+174.694759
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Albany Village Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.911012,
+174.649806
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Glen Eden Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.714927,
+174.747065
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "East Coast Bays Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.90016,
+174.90824
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Highland Park Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.9667,
+174.82564
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "M\u0101ngere East Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.90863,
+174.6835
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "New Lynn War Memorial Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+},
+{
+"geometry": {
+"coordinates": [
+-36.91307,
+174.87204
+],
+"type": "Point"
+},
+"properties": {
+"collection-audiobooks": 43088,
+"collection-ebooks": 202237,
+"collection-total": 245325,
+"library-link": "https://www.aucklandlibraries.govt.nz",
+"library-name": "Pakuranga Library",
+"marker-size": "medium",
+"marker-symbol": "marker",
+"overdrive-link": "https://auckland.overdrive.com",
+"overdrive-name": "Auckland Libraries"
+},
+"type": "Feature"
+}
+],
+"type": "FeatureCollection"
+}
