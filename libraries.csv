@@ -1,1011 +1,1208 @@
 ﻿"Overdrive Link","Overdrive Name","Collection Size","No. of Audiobooks","No. of Ebooks","No. of Videos","No. of Magazines"
-https://lapl.overdrive.com,"Los Angeles Public Library",347356,54969,285539,6294,554
-https://auckland.overdrive.com,"Auckland Libraries",246050,43475,202575,0,0
-https://sno-isle.overdrive.com,"Sno-Isle Libraries",227431,58104,169196,130,0
-https://clevnet.overdrive.com,"CLEVNET",206957,38526,163952,3949,530
-https://nlb.overdrive.com,"National Library Board Singapore",204840,21797,182739,304,0
-https://nypl.overdrive.com,"New York Public Library",185963,36744,148542,677,0
-https://kcls.overdrive.com,"King County Library System",184903,40803,143152,948,0
-https://toronto.overdrive.com,"Toronto Public Library",184773,26419,155890,1963,498
-https://hclib.overdrive.com,"Hennepin County Library",182262,25345,154372,2545,0
-https://ohdbks.overdrive.com,"The Ohio Digital Library",175528,31789,140301,2794,642
-https://indypl.overdrive.com,"Indianapolis Public Library",174213,37011,135161,2040,0
-https://hcplc.overdrive.com,"Hillsborough County Public Library Cooperative",170658,23611,146620,427,0
-https://livebrary.overdrive.com,"Livebrary.com",166724,37065,129240,419,0
-https://brooklyn.overdrive.com,"Brooklyn Public Library",159267,29272,128940,1055,0
-https://cincinnatilibrary.overdrive.com,"Public Library of Cincinnati and Hamilton County",154856,32857,116812,5187,0
-https://lasvegas.overdrive.com,"Las Vegas-Clark County Library District",153278,39438,113208,112,517
-https://spl.overdrive.com,"Seattle Public Library",151894,35202,115743,949,0
-https://ppld.overdrive.com,"Pikes Peak Library District",146540,30533,115835,171,0
-https://nashville.overdrive.com,"Nashville Public Library",143334,30827,111312,1195,0
-https://phoenix.overdrive.com,"Greater Phoenix Digital Library",142537,32497,108147,1710,183
-https://multcolib.overdrive.com,"Multnomah County Library",139012,35592,103420,0,0
-https://metrolibrary.overdrive.com,"Metropolitan Library System",137029,33642,103387,0,0
-https://ocls.overdrive.com,"Orange County Library System",132761,23595,108198,968,0
-https://clc.overdrive.com,"Digital Downloads Collaboration",131271,27360,103910,1,0
-https://ccpl.overdrive.com,"Cuyahoga County Public Library",123322,29146,93240,936,0
-https://sfpl.overdrive.com,"San Francisco Public Library",121233,19829,101402,2,0
-https://saclibrary.overdrive.com,"Sacramento Public Library",120833,30436,87843,2554,0
-https://ebr.overdrive.com,"East Baton Rouge Parish Library",112867,27484,83591,1792,0
-https://arapahoe.overdrive.com,"Arapahoe Library District",107530,22224,85264,42,0
-https://lcls.overdrive.com,"Lee County Library System",107058,24093,82223,742,0
-https://acla.overdrive.com,"Carnegie Library of Pittsburgh",104014,19920,83153,750,191
-https://mcpl.overdrive.com,"Mid-Continent Public Library",102306,23244,77395,1667,0
-https://austinlibrary.overdrive.com,"Austin Public Library",101493,23476,76194,1823,0
-https://army.overdrive.com,"Army MWR Libraries",101069,25805,71951,3313,0
-https://bpl.overdrive.com,"Boston Public Library",97772,20675,77012,85,0
-https://calgary.overdrive.com,"Calgary Public Library",97642,18462,79180,0,0
-https://evpl.overdrive.com,"Evansville Vanderburgh Public Library",97092,17385,79641,64,0
-https://reads.overdrive.com,"Tennessee READS",95515,21430,70928,3157,0
-https://lacountylibrary.overdrive.com,"LA County Library",92187,22558,69629,0,0
-https://epl.overdrive.com,"Edmonton Public Library",91948,21518,70228,202,0
-https://hcpl.overdrive.com,"Harris County Public Library",91661,18072,72981,541,66
-https://kyunbound.overdrive.com,"Kentucky Libraries Unbound",90047,16969,70909,1764,405
-https://riezone.overdrive.com,"Ocean State Libraries eZone",87736,18670,68361,705,0
-https://toledo.overdrive.com,"Toledo-Lucas County Public Library",85760,22493,62079,1188,0
-https://odmc.overdrive.com,"Ontario Library Service Consortium",85402,15599,69635,168,0
-https://hawaii.overdrive.com,"Hawaii State Public Library System",85259,15794,69465,0,0
-https://wplc.overdrive.com,"Wisconsin Public Library Consortium",83910,20758,62606,546,0
-https://hpl.overdrive.com,"Hamilton Public Library",81253,13273,67509,0,471
-https://cals.overdrive.com,"Central Arkansas Library System",80383,16291,64092,0,0
-https://mydlib.overdrive.com,"My Digital Library",79350,18284,59838,855,372
-https://broward.overdrive.com,"Broward County Library",78394,17042,60689,663,0
-https://sanantonio.overdrive.com,"San Antonio Public Library",77401,18803,56777,1336,485
-https://piercecounty.overdrive.com,"Pierce County Library System",77194,20556,56638,0,0
-https://lsw.overdrive.com,"Libraries Southwest Consortium",77066,14117,62831,118,0
-https://slcl.overdrive.com,"St. Louis County Library",75240,10400,64237,603,0
-https://scld.overdrive.com,"Spokane County Library District",74687,22937,51750,0,0
-https://goldcoast.overdrive.com,"City of Gold Coast Libraries",74200,11672,59875,2653,0
-https://dayton.overdrive.com,"Dayton Metro Library",73850,19657,53401,792,0
-https://markham.overdrive.com,"Markham Public Library",71392,11417,59102,873,0
-https://henrico.overdrive.com,"Henrico County Public Library",70834,9419,61415,0,0
-https://wvdeli.overdrive.com,"West Virginia Downloadable Entertainment Library Initiative",69722,13736,54758,1228,0
-https://timberland.overdrive.com,"Timberland Regional Library",69390,20133,48693,564,0
-https://wccls.overdrive.com,"Washington County Cooperative Library Services",67853,16671,51182,0,0
-https://cabq.overdrive.com,"Albuquerque Bernalillo County Library System",67594,19899,47431,264,0
-https://pioneerok.overdrive.com,"Pioneer Library System",66996,15576,51179,241,0
-https://tscpl.overdrive.com,"Topeka and Shawnee County Public Library",66251,11477,54536,0,238
-https://midcolumbialibraries.overdrive.com,"Mid-Columbia Libraries",66166,17614,48144,0,408
-https://nmls.overdrive.com,"Nicholson Memorial Library System",65974,17839,47858,36,241
-https://aclib.overdrive.com,"Alachua County Library District",65131,18344,46702,85,0
-https://slco.overdrive.com,"Salt Lake County Library Services",63778,19956,39574,4248,0
-https://lakecounty.overdrive.com,"Lake County Public Library",63235,13705,49530,0,0
-https://sdcl.overdrive.com,"San Diego County Library",63143,14558,47834,751,0
-https://utahsonlinelibrary.overdrive.com,"Utah's Online Library",62301,20475,40145,1681,0
-https://minuteman.overdrive.com,"Minuteman Library Network",61636,12454,48063,685,434
-https://nu.overdrive.com,"Northwest University",60050,1,60049,0,0
-https://acpl.overdrive.com,"Allen County Public Library",59970,10217,49753,0,0
-https://erl.overdrive.com,"Eastern Regional Libraries",59933,6737,53196,0,0
-https://ottawa.overdrive.com,"Ottawa Public Library",59380,10744,48636,0,0
-https://cidc.overdrive.com,"eIndiana Digital Consortium",58805,9797,48268,394,346
-https://myrl.overdrive.com,"Richland Library",58527,11920,46552,55,0
-https://fresno.overdrive.com,"Fresno County Public Library",57277,15437,41175,665,0
-https://hadc.overdrive.com,"Houston Area Digital Media Catalog",57083,14757,42266,59,0
-https://saskatchewan.overdrive.com,"Saskatchewan Library Consortium",56308,9962,46346,0,0
-https://okvirtuallibrary.overdrive.com,"OK Virtual Library",55398,10145,44558,695,0
-https://cwmars.overdrive.com,"CW MARS",54159,9449,42824,1201,685
-https://jpl.overdrive.com,"Jacksonville Public Library",53852,15218,38364,270,0
-https://christchurch.overdrive.com,"Christchurch City Libraries",53755,9903,43852,0,0
-https://aclibrary.overdrive.com,"Alameda County Library",53026,4954,44918,3154,0
-https://surreyca.overdrive.com,"Surrey Libraries",52250,7408,44842,0,0
-https://kclibrary.overdrive.com,"Kansas City Public Library",51999,14452,36750,513,284
-https://ncdigital.overdrive.com,"North Carolina Digital Library",51451,10422,40332,294,403
-https://akronlibrary.overdrive.com,"Akron-Summit County Public Library",51246,14349,36897,0,0
-https://kenton.overdrive.com,"Kenton County Public Library",51043,8042,42762,0,239
-https://denver.overdrive.com,"Denver Public Library",50077,13141,36134,802,0
-https://mediaondemand.overdrive.com,"Media On Demand",49984,7516,41357,1111,0
-https://mississauga.overdrive.com,"Mississauga Library System",49742,5261,44464,17,0
-https://sbcldigital.overdrive.com,"San Bernardino County Library",49364,9951,36426,2987,0
-https://dallaslibrary.overdrive.com,"Dallas Public Library",49268,5747,40911,2610,0
-https://westchester.overdrive.com,"Westchester Library System",49030,6187,42777,66,0
-https://lfpl.overdrive.com,"Louisville Free Public Library",48446,291,47805,350,0
-https://jclc.overdrive.com,"Jefferson County Library Cooperative",48380,10880,37500,0,0
-https://wcl.overdrive.com,"Wellington City Libraries",48042,9739,38303,0,0
-https://wapldmc.overdrive.com,"Western Australia Public Libraries",48023,1343,46680,0,0
-https://mlc.overdrive.com,"Midwest Collaborative for Library Services",47381,12520,34861,0,0
-https://greenwich.overdrive.com,"Greenwich Library",47273,9492,37781,0,0
-https://thegdl.overdrive.com,"Genesee District Library",47069,15491,31281,297,0
-https://knoxcounty.overdrive.com,"Knox County Public Library",46972,11656,34945,371,0
-https://fortvancouver.overdrive.com,"Fort Vancouver Regional Library District",46551,12690,33861,0,0
-https://elm.overdrive.com,"eLibraries Manitoba",46539,9421,37117,1,0
-https://chipublib.overdrive.com,"Chicago Public Library",46443,10301,35592,550,0
-https://bridges.overdrive.com,"Bridges",46362,11624,34148,194,396
-https://fwpl.overdrive.com,"Fort Worth Library",46352,14273,30662,1153,264
-https://anythinklibraries.overdrive.com,"Rangeview Library District",46341,11085,35256,0,0
-https://dbrl.overdrive.com,"Daniel Boone Regional Library",45969,9941,36028,0,0
-https://dcl.overdrive.com,"Douglas County Libraries",45897,12482,33361,54,0
-https://youngstown.overdrive.com,"The Public Library of Youngstown and Mahoning County",45883,9953,35930,0,0
-https://iddc.overdrive.com,"Indiana Digital Download Center",45863,6330,38125,995,413
-https://stcharles.overdrive.com,"St. Charles City-County Library District",45819,11086,34733,0,0
-https://adlc.overdrive.com,"Arkansas Digital Library Consortium",45646,8584,37062,0,0
-https://library2go.overdrive.com,"Oregon Digital Library Consortium",45433,13136,32297,0,0
-https://onlib.overdrive.com,"Onondaga County Public Library",45214,11791,32560,737,126
-https://sapln.overdrive.com,"South Australia Public Library Services",44642,6321,38321,0,0
-https://uhls.overdrive.com,"Upper Hudson Library System",44641,11089,32905,647,0
-https://anytime.overdrive.com,"Washington Anytime Library",44459,11974,32485,0,0
-https://idm.overdrive.com,"Indiana Digital Media",44347,9299,34284,447,317
-https://pima.overdrive.com,"Pima County Public Library",43925,8215,35533,177,0
-https://wvreads.overdrive.com,"West Virginia Reads",43156,5318,37829,9,0
-https://buffalo.overdrive.com,"Buffalo & Erie County Public Library",43035,9482,33451,102,0
-https://mdpls.overdrive.com,"Miami-Dade Public Library System",42852,9322,33494,36,0
-https://greengoldlibraries.overdrive.com,"Green Gold Consortium",42648,8548,33562,538,0
-https://slpl.overdrive.com,"St. Louis Public Library",42458,4686,37772,0,0
-https://dclibrary.overdrive.com,"District of Columbia Public Library",42096,12177,29423,496,0
-https://slcpl.overdrive.com,"Salt Lake City Public Library",41774,8785,30329,2660,0
-https://fairfax.overdrive.com,"Fairfax County Public Library",41719,14229,27490,0,0
-https://emedialibrary.overdrive.com,"eMediaLibrary",41453,8961,32491,1,0
-https://naperville.overdrive.com,"Naperville Public Library",41314,13214,27770,330,0
-https://tulsa.overdrive.com,"Tulsa City-County Library",41286,8649,32634,3,0
-https://omaha.overdrive.com,"Omaha Public Library",41025,10650,30310,65,0
-https://orl.overdrive.com,"Okanagan Regional Library",40762,8317,32445,0,0
-https://monmouth.overdrive.com,"Monmouth County Library",40698,7227,33471,0,0
-https://sanjose.overdrive.com,"San Jose Public Library",40548,7483,33065,0,0
-https://camellia.overdrive.com,"Camellia Net Digital Catalog",40449,6366,33029,606,448
-https://nebraska.overdrive.com,"Nebraska OverDrive Libraries",40093,13254,26839,0,0
-https://nsls.overdrive.com,"My Media Mall",39993,12424,27436,133,0
-https://sppl.overdrive.com,"St. Paul Public Library",39651,0,39651,0,0
-https://llc.overdrive.com,"London Libraries Consortium",39593,5738,33855,0,0
-https://dpls.overdrive.com,"Deschutes Public Library",38884,10056,28759,69,0
-https://sails.overdrive.com,"SAILS Library Network",38878,5614,32389,875,0
-https://plano.overdrive.com,"Plano Public Library System",38820,6447,32373,0,0
-https://bnllux.overdrive.com,"National Library of Luxembourg",38611,32,38579,0,0
-https://molib2go.overdrive.com,"Missouri Libraries 2Go",38479,6050,31759,352,318
-https://librariesonthego.overdrive.com,"Libraries on the Go",38352,8466,29886,0,0
-https://nassau.overdrive.com,"Nassau Digital Doorway",38334,7747,30587,0,0
-https://chesterfield.overdrive.com,"Chesterfield County Public Library",38308,7361,30947,0,0
-https://pls.overdrive.com,"Peninsula Library System",38211,9038,29171,2,0
-https://halifax.overdrive.com,"Halifax Public Libraries",38043,5815,31888,340,0
-https://downloadlibrary.overdrive.com,"downloadLibrary",37479,9917,26474,1088,0
-https://sjcpl.overdrive.com,"St. Joseph County Public Library",37227,7877,29350,0,0
-https://krl.overdrive.com,"Kitsap Regional Library",37180,7821,29359,0,0
-https://vbpl.overdrive.com,"Virginia Beach Public Library",36755,7133,28287,1335,0
-https://omnilibraries.overdrive.com,"Online Media of Northern Illinois Libraries",36130,4148,31298,684,0
-https://yuma.overdrive.com,"Yuma County Library District",36054,12584,23470,0,0
-https://freelibrary.overdrive.com,"The Free Library of Philadelphia",36000,6263,29337,400,0
-https://jasmine.overdrive.com,"South Carolina Low Country Consortium",35871,3160,32709,2,0
-https://hcplibrary.overdrive.com,"Hancock County Public Library",35685,8282,27186,6,211
-https://frontrange.overdrive.com,"Front Range Downloadable Library",35617,8380,27167,70,0
-https://lincoln.overdrive.com,"Lincoln City Libraries",35419,14752,20667,0,0
-https://brisbane.overdrive.com,"Brisbane City Council Library Services",35398,5272,29985,141,0
-https://ocln.overdrive.com,"Old Colony Library Network",35243,5352,29420,471,0
-https://libraryweb.overdrive.com,"Monroe County Library System",35154,7088,27537,311,218
-https://bcpl.overdrive.com,"British Columbia Libraries",34991,9392,25598,1,0
-https://ocpl.overdrive.com,"OC Public Libraries",34818,11032,23786,0,0
-https://trac.overdrive.com,"TRAC Consortium",34754,5296,29458,0,0
-https://santaclara.overdrive.com,"Santa Clara County Library",34524,8681,25109,734,0
-https://balibrary.overdrive.com,"Barrington Area Library",34513,4597,29916,0,0
-https://spartanburglibraries.overdrive.com,"Spartanburg County Public Libraries",34017,9671,24346,0,0
-https://memphis.overdrive.com,"Memphis Public Libraries",33988,2369,31619,0,0
-https://ndlibrary2go.overdrive.com,"North Dakota Digital Consortium",33437,9037,23250,1150,0
-https://tempe.overdrive.com,"Tempe Public Library",33294,6375,26751,168,0
-https://pueblolibrary.overdrive.com,"Pueblo City-County Library District",33064,16284,16780,0,0
-https://rhpl.overdrive.com,"Richmond Hill Public Library",33059,2968,30091,0,0
-https://somerset.overdrive.com,"Somerset County Library System",33027,4677,28123,227,0
-https://pgcmls.overdrive.com,"Prince George's County Memorial Library System",32919,9135,23784,0,0
-https://afpls.overdrive.com,"Atlanta-Fulton Public Library System",32751,6086,26665,0,0
-https://bayouland.overdrive.com,"Bayouland E-Library Co-Op",32383,4136,28138,109,0
-https://grpl.overdrive.com,"Grand Rapids Public Library",32208,6641,25567,0,0
-https://montana.overdrive.com,"MontanaLibrary2Go",32149,10987,21162,0,0
-https://barth.overdrive.com,"Bartholomew County Public Library",31985,5468,26516,1,0
-https://flls.overdrive.com,"Finger Lakes Library System",31980,5077,26903,0,0
-https://oakland.overdrive.com,"Oakland Public Library",31944,5014,25873,1057,0
-https://elibrarynj.overdrive.com,"eLibrary NJ",31135,9950,21185,0,0
-https://ifpl.overdrive.com,"Idaho Falls Public Library",30630,9702,20928,0,0
-https://lib2go.overdrive.com,"ArkansasLibrary2Go",30514,6132,24156,226,0
-https://tln.overdrive.com,"Download Destination",30402,5410,24177,815,0
-https://delaware.overdrive.com,"Delaware Division of Libraries",30256,6483,22770,1003,0
-https://blackgold.overdrive.com,"Black Gold Cooperative Library System",30255,8617,21638,0,0
-https://librariestasmania.overdrive.com,"Libraries Tasmania",29926,3786,26140,0,0
-https://lcpl.overdrive.com,"Loudoun County Public Library",29867,5505,24362,0,0
-https://marinet.overdrive.com,"MARINet",29767,7747,21930,90,0
-https://rochester.overdrive.com,"Rochester Public Library",29756,9311,19999,446,0
-https://arlington.overdrive.com,"Arlington Public Library",29370,8588,20782,0,0
-https://yvl.overdrive.com,"Yakima Valley Libraries",29342,8688,17912,2742,0
-https://lpl.overdrive.com,"London Public Library",29285,10047,19106,132,0
-https://clamsnet.overdrive.com,"CLAMS",29250,6399,22593,55,203
-https://marmot.overdrive.com,"Marmot Library Network",29189,8442,20627,120,0
-https://winnipeg.overdrive.com,"Winnipeg Public Library",29102,5362,23445,295,0
-https://poudre.overdrive.com,"Poudre River Public Library District",29048,3990,24967,91,0
-https://adl.overdrive.com,"Alaska Digital Library",29003,10640,18363,0,0
-https://frisco.overdrive.com,"Frisco Public Library",28317,4926,23371,20,0
-https://brampton.overdrive.com,"Brampton Library",28311,6324,21870,117,0
-https://ccc.overdrive.com,"Contra Costa County Library",28038,5666,22372,0,0
-https://santaclarita.overdrive.com,"City of Santa Clarita Public Library",28016,4768,21975,1273,0
-https://brevard.overdrive.com,"Brevard County Library",28008,3525,24483,0,0
-https://moretonbay.overdrive.com,"Moreton Bay Libraries",27856,2861,24846,149,0
-https://boise.overdrive.com,"Boise Public Library",27785,8229,19212,344,0
-https://maryland.overdrive.com,"Maryland's Digital Library",27660,8462,18591,145,462
-https://ecoop.overdrive.com,"E-Library Co-Op of Southeast Louisiana",27587,4104,23447,36,0
-https://sunflowerelibrary.overdrive.com,"Sunflower eLibrary",27515,3785,23686,44,0
-https://e-inc.overdrive.com,"E-iNC Library",27254,2570,23974,300,410
-https://buckslib.overdrive.com,"Bucks County Free Library",27059,7330,19529,200,0
-https://blackhills.overdrive.com,"Black Hills Library Digital Consortium",26805,7420,19191,194,0
-https://rcls.overdrive.com,"Ramapo Catskill Library System",26305,6069,19183,493,560
-https://sttammany.overdrive.com,"St. Tammany Parish Library",26284,6958,19326,0,0
-https://ebccls.overdrive.com,"Bergen County Cooperative Library System",26094,7130,18964,0,0
-https://montcolibs.overdrive.com,"Montgomery County Library District Consortium",25876,5748,19725,403,0
-https://rpls.overdrive.com,"Rolling Prairie Digital Consortium",25789,2566,23126,97,0
-https://elpaso.overdrive.com,"El Paso Public Library",25772,3675,21739,358,0
-https://delco.overdrive.com,"Delaware County Library System",25726,6976,18750,0,0
-https://tuscaloosa.overdrive.com,"Tuscaloosa Public Library",25397,4967,20059,371,0
-https://upnorth.overdrive.com,"Up North Michigan Consortium",25293,2979,22180,134,0
-https://kent.overdrive.com,"Kent County Council",25282,3319,21963,0,0
-https://ncrl.overdrive.com,"North Central Regional Library",25262,5331,19931,0,0
-https://skokielibrary.overdrive.com,"Skokie Public Library",25193,4037,21156,0,0
-https://chester.overdrive.com,"Chester County Library System",24980,5496,19484,0,0
-https://norfolk-va.overdrive.com,"Norfolk Public Library",24838,1136,23702,0,0
-https://lexpublib.overdrive.com,"Lexington Public Library",24837,2980,21857,0,0
-https://capitalarealibrary.overdrive.com,"Capital Area Library District",24575,7536,17039,0,0
-https://elnb-bnnb.overdrive.com,"Bibliothèques publiques du N.-B. / New Brunswick Public Libraries",24511,4868,19554,89,0
-https://tacoma.overdrive.com,"Tacoma Public Library",24416,5065,19351,0,0
-https://buckinghamshire.overdrive.com,"Buckinghamshire County Council",24361,447,23914,0,0
-https://tblc.overdrive.com,"Tampa Bay Library Consortium",24019,5019,18964,36,0
-https://sonoma.overdrive.com,"Sonoma County Library",24018,8319,15699,0,0
-https://jefferson.overdrive.com,"Jefferson County Public Library",23963,0,23963,0,0
-https://washoecounty.overdrive.com,"Washoe County Library System",23960,7565,16395,0,0
-https://mvlc.overdrive.com,"Merrimack Valley Library Consortium",23906,5983,17274,194,455
-https://dmpl.overdrive.com,"Des Moines Public Library",23863,7017,16846,0,0
-https://jeff.overdrive.com,"Jefferson Parish Library",23658,3265,20344,49,0
-https://carmel.overdrive.com,"Carmel Clay Public Library",23497,7838,15659,0,0
-https://icpl.overdrive.com,"Digital Johnson County",23484,7862,15622,0,0
-https://neworleans.overdrive.com,"New Orleans Public Library",23477,10406,12566,248,257
-https://netldc.overdrive.com,"Northeast Texas Digital Consortium",23475,3539,19774,162,0
-https://banq.overdrive.com,"Bibliothèque et Archives nationales du Québec",23424,4154,19270,0,0
-https://nsdc.overdrive.com,"North Suburban Digital Consortium",23414,6737,16646,31,0
-https://volusia.overdrive.com,"Volusia County Public Library",23413,5768,17645,0,0
-https://pplc.overdrive.com,"Pinellas Public Library Cooperative",23305,5258,17176,871,0
-https://lex.overdrive.com,"Lexington County Public Library System",23087,5676,17284,127,0
-https://ajax.overdrive.com,"Ajax Public Library",23086,5229,17857,0,0
-https://nh.overdrive.com,"New Hampshire State Library",23078,9864,13013,1,200
-https://highplains.overdrive.com,"High Plains Library District",22843,7457,15386,0,0
-https://burlingtonpl.overdrive.com,"Burlington Public Library",22841,3866,18975,0,0
-https://abilene.overdrive.com,"Abilene PL & Tom Green CL",22749,4612,18137,0,0
-https://arrowhead.overdrive.com,"Arrowhead Library System",22691,8692,13999,0,0
-https://yourlibraryca.overdrive.com,"Richmond Public Library",22553,3446,19107,0,0
-https://essexca.overdrive.com,"Essex County Library",22452,6532,15878,42,0
-https://andersonlibrary.overdrive.com,"Anderson County Library",22410,3650,18760,0,0
-https://arlingtontx.overdrive.com,"Arlington Public Library",22371,6547,15824,0,0
-https://epukapuka.overdrive.com,"Lower North Island",22237,3832,18405,0,0
-https://nckids.overdrive.com,"NC Kids Digital Library",22148,4471,16573,1104,0
-https://queenslibrary.overdrive.com,"Queens Library",22033,2522,18830,681,0
-https://southdakota.overdrive.com,"South Dakota Digital Consortium",21991,5515,15976,31,469
-https://pinnacle.overdrive.com,"Pinnacle Digital Consortium",21819,4952,16867,0,0
-https://berkeleypubliclibrary.overdrive.com,"Berkeley Public Library",21718,5735,15983,0,0
-https://midyork.overdrive.com,"Mid-York Library System",21642,4354,17288,0,0
-https://hepl.overdrive.com,"Hamilton East Public Library",21532,5589,15943,0,0
-https://coloradodc.overdrive.com,"Across Colorado Digital Consortium",21426,4439,16400,504,83
-https://id8.overdrive.com,"LYNX Library Consortium",21334,4226,17108,0,0
-https://glllibraries.overdrive.com,"Better Libraries Digital Consortium",21301,3196,18105,0,0
-https://norfolk.overdrive.com,"Norfolk County Council",21208,1013,20195,0,0
-https://nidl.overdrive.com,"Northeast Indiana Digital Library",21194,3041,17715,0,438
-https://ryde.overdrive.com,"City of Ryde Library",21169,1276,19893,0,0
-https://sclibrary.overdrive.com,"Strathcona County Library",21103,3794,17309,0,0
-https://alexandria.overdrive.com,"Alexandria Library",21068,5127,15941,0,0
-https://pas-gdl.overdrive.com,"Pasadena/Glendale Digital Library",20940,4738,16143,59,0
-https://durhamcounty.overdrive.com,"Durham County Library",20777,3462,17315,0,0
-https://swvapub.overdrive.com,"Southwest Virginia Public Libraries",20535,5294,15241,0,0
-https://lplelibrary.overdrive.com,"Laredo Public Library",20527,0,20527,0,0
-https://owwl.overdrive.com,"Pioneer Library System",20464,6352,13864,0,248
-https://noble.overdrive.com,"NOBLE: North of Boston Library Exchange",20343,4432,15634,0,277
-https://edownload.overdrive.com,"Lambton County Library",20339,2959,17380,0,0
-https://boroondara.overdrive.com,"Boroondara Library Service",20301,1779,18522,0,0
-https://daviscounty.overdrive.com,"Davis County Library",20232,8450,11155,627,0
-https://myjdl.overdrive.com,"Jackson District Library",20184,3988,16196,0,0
-https://ocl.overdrive.com,"Ocean County Library",19938,4390,15548,0,0
-https://greenvillesc.overdrive.com,"Greenville County Library System",19834,0,19834,0,0
-https://brantford.overdrive.com,"Brantford Public Library",19816,3906,15910,0,0
-https://plcmc.overdrive.com,"Charlotte Mecklenburg Library",19732,2637,16899,196,0
-https://lakeland.overdrive.com,"Lakeland Library Cooperative",19526,4834,14293,399,0
-https://stls.overdrive.com,"Southern Tier Library System",19382,3120,15692,570,0
-https://ecrl.overdrive.com,"East Central Regional Library",18926,3217,15709,0,0
-https://whitby.overdrive.com,"Whitby Public Library",18846,1753,17093,0,0
-https://ecat.overdrive.com,"Sarasota County Libraries",18798,4962,13836,0,0
-https://hendersonlibraries.overdrive.com,"Henderson Libraries",18784,4062,14322,0,400
-https://pclc.overdrive.com,"Polk County Library Cooperative",18746,1462,17008,276,0
-https://suffolklibraries.overdrive.com,"Suffolk Libraries",18561,2144,16417,0,0
-https://semcofl.overdrive.com,"Seminole County Public Library System",18559,3700,14598,261,0
-https://charlestoncounty.overdrive.com,"Charleston County Public Library System",18526,4438,14088,0,0
-https://dekalb.overdrive.com,"DeKalb County Public Library",18405,6566,11839,0,0
-https://collier.overdrive.com,"Collier County Public Library",18383,4457,13926,0,0
-https://larl.overdrive.com,"Lake Agassiz Regional Library",18351,2460,15891,0,0
-https://avalonfreelibrary.overdrive.com,"Avalon Free Public Library",18244,2000,16244,0,0
-https://wakegov.overdrive.com,"Wake County Public Libraries",18124,6040,12084,0,0
-https://brdc.overdrive.com,"Blue Ridge Download Consortium",18066,4722,13083,261,0
-https://woodlands.overdrive.com,"Woodlands Library Cooperative",17996,3637,14359,0,0
-https://chinookarch.overdrive.com,"Chinook Arch Regional Library System",17911,2532,15378,1,0
-https://burlington.overdrive.com,"Burlington County Library System",17874,4972,12272,630,0
-https://iredell.overdrive.com,"Iredell County Library",17867,2848,14794,225,0
-https://sjcpls.overdrive.com,"St. Johns County Public Library",17809,1128,16681,0,0
-https://kern.overdrive.com,"Kern County Library",17801,3217,14584,0,0
-https://libraryinjonesboro.overdrive.com,"Craighead County Jonesboro Public Library",17800,4787,13013,0,0
-https://gwinnett.overdrive.com,"Gwinnett County Public Library",17736,4973,12437,326,0
-https://laportelibrary.overdrive.com,"La Porte County Public Library",17661,3065,14596,0,0
-https://scdl.overdrive.com,"Southern California Digital Library",17632,4378,12992,262,0
-https://wichita.overdrive.com,"Wichita Public Library",17608,0,17608,0,0
-https://wrl.overdrive.com,"Williamsburg Regional Library",17523,0,17523,0,0
-https://mmlc.overdrive.com,"Mideastern Michigan Library Cooperative",17424,1607,15661,156,0
-https://fuelyourmind.overdrive.com,"White Pine Library Cooperative",17399,3747,13652,0,0
-https://sapl.overdrive.com,"St. Albert Public Library",17313,2061,15252,0,0
-https://elibrary.overdrive.com,"Newfoundland & Labrador Public Libraries",17276,2148,15128,0,0
-https://northnet.overdrive.com,"NorthNet Library System",17273,4486,12786,1,0
-https://librariesniuk.overdrive.com,"Libraries NI",17260,3079,14181,0,0
-https://fvrl.overdrive.com,"Fraser Valley Regional Library",17252,2317,14935,0,0
-https://oceancity.overdrive.com,"Ocean City Free Public Library",17068,2124,14944,0,0
-https://meridian.overdrive.com,"Meridian Library District",17034,3570,13464,0,0
-https://palmbeach.overdrive.com,"Palm Beach County Library System",16977,0,16977,0,0
-https://aberdeenshirelibraries.overdrive.com,"Aberdeenshire Library and Information Service",16967,1745,15222,0,0
-https://westtexas.overdrive.com,"West Texas Digital Consortium",16930,1374,15541,15,0
-https://nmbm.overdrive.com,"Nelson Mandela Bay Municipality",16911,3711,12410,790,0
-https://ccls.overdrive.com,"Chautauqua-Cattaraugus Library System",16898,3507,13156,0,235
-https://cobbcounty.overdrive.com,"Cobb County Public Library System",16749,3929,12267,553,0
-https://huntington.overdrive.com,"Huntington Public Library",16711,4859,11554,298,0
-https://aurora.overdrive.com,"Aurora Public Library",16708,2250,14458,0,0
-https://ntrls.overdrive.com,"North Texas Libraries on the Go",16696,4600,12096,0,0
-https://ylpl.overdrive.com,"Yorba Linda Public Library",16628,3863,12321,444,0
-https://libraryconnection.overdrive.com,"Library Connection, Inc.",16600,3962,11509,598,531
-https://virtuallibrary.overdrive.com,"Virtual Library of Wyoming",16555,3877,12110,568,0
-https://virl.overdrive.com,"Vancouver Island Regional Library",16495,3152,13343,0,0
-https://denton.overdrive.com,"Denton Public Library",16484,5508,10952,24,0
-https://jericholibrary.overdrive.com,"Jericho Public Library",16462,2702,13760,0,0
-https://cin.overdrive.com,"Cooperative Information Network",16376,2833,13543,0,0
-https://mylakelibrary.overdrive.com,"Lake County Library System",16342,1100,15079,163,0
-https://warrenpl.overdrive.com,"Warren County Public Library",16339,5207,11087,45,0
-https://mhls.overdrive.com,"Mid-Hudson Library System",16217,3724,12236,257,0
-https://penrith.overdrive.com,"Penrith City Library",16190,4173,12017,0,0
-https://oxfordshire.overdrive.com,"Oxfordshire County Council",16136,1475,14661,0,0
-https://alliance.overdrive.com,"Alliance Digital Media Library",15881,1705,14174,2,0
-https://mlcstl.overdrive.com,"Municipal Library Consortium of St. Louis County",15847,4432,11415,0,0
-https://bpls.overdrive.com,"Beaumont Public Library System",15727,3089,12638,0,0
-https://mohave.overdrive.com,"Mohave County Library District",15635,4144,11491,0,0
-https://gloucestershire.overdrive.com,"Gloucestershire Libraries",15618,1606,14012,0,0
-https://voebb.overdrive.com,"Berlin, Verbund Öffentlicher Bibliotheken (VÖBB)",15550,2248,13302,0,0
-https://tularecounty.overdrive.com,"Tulare County Library",15514,3612,11902,0,0
-https://barnet.overdrive.com,"London Borough of Barnet",15514,1564,13950,0,0
-https://liverpool.overdrive.com,"Liverpool Libraries and Information Service",15511,2544,12967,0,0
-https://mrspl.overdrive.com,"Mary Riley Styles Public Library",15501,3416,12085,0,0
-https://centralpalibraries.overdrive.com,"Central PA Libraries",15471,3072,12399,0,0
-https://gmlc.overdrive.com,"Green Mountain Library Consortium",15399,5441,9958,0,0
-https://lion.overdrive.com,"LION: Libraries Online",15380,4078,11302,0,0
-https://selco.overdrive.com,"Southeastern Libraries Cooperating",15355,3134,12221,0,0
-https://shortgrass.overdrive.com,"Shortgrass Library System",15306,1157,14149,0,0
-https://simcoe.overdrive.com,"County of Simcoe Library Co-operative",15295,2649,12646,0,0
-https://triparish.overdrive.com,"Tri-Parish E-Library",15267,1061,13456,750,0
-https://novascotia-annapolisvalley.overdrive.com,"Nova Scotia Public Libraries",15184,1707,13477,0,0
-https://slc.overdrive.com,"Suburban Library Cooperative",15181,2697,12451,33,0
-https://novascotia.overdrive.com,"Nova Scotia Public Libraries",15123,1679,13444,0,0
-https://santamonica.overdrive.com,"Santa Monica Public Library",15022,5258,9764,0,0
-https://smdl.overdrive.com,"Southwest Michigan Library Cooperative",14833,2359,12230,244,0
-https://lonestardigitalibrary.overdrive.com,"Lone Star Digital Library",14811,2071,12500,240,0
-https://kirklees.overdrive.com,"Kirklees Libraries",14792,1558,13234,0,0
-https://pwdl.overdrive.com,"Piney Woods Digital Consortium",14776,1024,13661,91,0
-https://westlake.overdrive.com,"Westlake Porter Public Library",14721,2499,12222,0,0
-https://ctdl.overdrive.com,"Central Texas Digital Consortium",14711,2275,11818,88,530
-https://stratford.overdrive.com,"Stratford Library Association",14454,1404,13026,24,0
-https://hornsby.overdrive.com,"Hornsby Shire Library & Information Service",14440,1370,13069,0,0
-https://ssjcpl.overdrive.com,"Stockton-San Joaquin County Public Library",14358,4590,9767,1,0
-https://sudbury.overdrive.com,"Greater Sudbury Public Library",14271,1847,12424,0,0
-https://yprl.overdrive.com,"Yarra Plenty Regional Library",14226,1408,12818,0,0
-https://yln.overdrive.com,"Yavapai Library Network",14136,4435,9701,0,0
-https://washington.overdrive.com,"Washington County Library",14046,0,14046,0,0
-https://chesapeake.overdrive.com,"Chesapeake Public Library System",14029,3560,10469,0,0
-https://reading.overdrive.com,"Reading Public Library",13784,773,12702,309,0
-https://ebonnerlibrary.overdrive.com,"East Bonner County Library District",13699,5377,8322,0,0
-https://sovalue.overdrive.com,"Southern Virginia Libraries United Electronically",13668,1883,11509,276,0
-https://librarypoint.overdrive.com,"Central Rappahannock Regional Library",13593,3121,10472,0,0
-https://princetonlibrary.overdrive.com,"Princeton Public Library",13479,2163,11316,0,0
-https://lbpl.overdrive.com,"Long Beach Public Library",13448,4438,9010,0,0
-https://clarkco.overdrive.com,"Charlestown Clark County Public Library",13443,994,12449,0,0
-https://dubuque.overdrive.com,"Carnegie-Stout Public Library",13439,4422,8583,434,0
-https://princewilliam.overdrive.com,"Prince William Public Library System",13416,3215,10201,0,0
-https://springfield.overdrive.com,"Springfield-Greene County Library",13281,4905,8156,220,0
-https://greatnecklibrary.overdrive.com,"Great Neck Library",13271,1843,11428,0,0
-https://silverstarcoop.overdrive.com,"Nevada Library Cooperative",13085,2325,10300,297,163
-https://northyorks.overdrive.com,"North Yorkshire Libraries",13000,1425,11575,0,0
-https://sdg.overdrive.com,"SDG Library",12981,1652,11137,192,0
-https://medway.overdrive.com,"Medway Council",12845,1191,11654,0,0
-https://cldl.overdrive.com,"Allentown Public Library",12807,2071,10736,0,0
-https://peipls.overdrive.com,"Prince Edward Island Public Library Service",12603,2558,10045,0,0
-https://kfpl.overdrive.com,"Kingston Frontenac Public Library",12574,2799,9644,131,0
-https://princeton.overdrive.com,"Princeton University",12573,1896,10677,0,0
-https://burnaby.overdrive.com,"Burnaby Public Library",12560,3687,8873,0,0
-https://aurorapubliclibrary.overdrive.com,"Aurora Public Library",12270,949,11321,0,0
-https://pvld.overdrive.com,"Palos Verdes Library District",12269,1736,10533,0,0
-https://avon.overdrive.com,"Avon-Washington Township Public Library",12255,2096,10159,0,0
-https://everett.overdrive.com,"Everett Public Library",12218,2887,9331,0,0
-https://fortbend.overdrive.com,"Fort Bend County Libraries",12034,5020,7014,0,0
-https://citrus.overdrive.com,"Citrus County Library System",12025,2029,9996,0,0
-https://bartowlibrary.overdrive.com,"Bartow County Library System",11947,2408,9530,9,0
-https://devon.overdrive.com,"Devon Libraries",11939,2267,9671,1,0
-https://mvls.overdrive.com,"Mohawk Valley Library System",11920,2397,9523,0,0
-https://mooneevalley.overdrive.com,"Moonee Valley Libraries",11907,0,11907,0,0
-https://serra.overdrive.com,"Serra Cooperative Library System",11832,2302,9530,0,0
-https://vaughanpl.overdrive.com,"Vaughan Public Libraries",11812,2741,9063,8,0
-https://plymouthuk.overdrive.com,"Plymouth Library Services",11795,855,10940,0,0
-https://mylibrarynow.overdrive.com,"Northeast Arkansas Regional Library",11724,608,11116,0,0
-https://windsorpublic.overdrive.com,"Windsor Public Library",11716,1566,10150,0,0
-https://mobius.overdrive.com,"MOBIUS Consortium",11674,3812,7834,28,0
-https://glasgow.overdrive.com,"Glasgow Libraries",11585,932,10653,0,0
-https://darien.overdrive.com,"Darien Library",11580,2347,9232,1,0
-https://lubbock.overdrive.com,"Lubbock Public Library",11477,3911,7470,96,0
-https://lccpl.overdrive.com,"Logansport-Cass County Public Library",11462,83,11379,0,0
-https://lclshome.overdrive.com,"Lackawanna County Library System",11457,3201,8256,0,0
-https://portagelibrary.overdrive.com,"Portage County District Library",11439,2750,8689,0,0
-https://northmankato.overdrive.com,"North Mankato Taylor Library",11400,1284,10116,0,0
-https://yolocounty.overdrive.com,"Yolo County Library",11364,3109,8214,41,0
-https://griver.overdrive.com,"Great River Regional Library",11345,2694,8651,0,0
-https://lamb.overdrive.com,"New Castle District Library Center",11301,1467,9834,0,0
-https://otpls.overdrive.com,"Ohio Township Public Library",11288,2048,9240,0,0
-https://newcanaanlibrary.overdrive.com,"New Canaan Library",11265,687,10574,4,0
-https://stamford.overdrive.com,"The Ferguson Library",11250,965,10255,30,0
-https://wplibs.overdrive.com,"Western Plains Library System",11053,2097,8956,0,0
-https://irclibrary.overdrive.com,"Indian River County Library",11037,1322,9715,0,0
-https://flint.overdrive.com,"Flint Public Library",11021,3436,7585,0,0
-https://thelosc.overdrive.com,"Libraries of Stevens County",11013,3644,7369,0,0
-https://northernbeacheslibraries.overdrive.com,"Northern Beaches Libraries",10980,1750,9230,0,0
-https://sutherland.overdrive.com,"Sutherland Shire Council",10914,2873,8041,0,0
-https://prl.overdrive.com,"Pamunkey Regional Library",10861,1769,9092,0,0
-https://bibliomation.overdrive.com,"Bibliomation, Inc.",10825,2540,8285,0,0
-https://mcallen.overdrive.com,"McAllen Public Library",10797,1353,9444,0,0
-https://kurthmemorial.overdrive.com,"Kurth Memorial Library",10761,342,10419,0,0
-https://ebranch2go.overdrive.com,"eBranch2Go",10684,3172,7512,0,0
-https://southisland.overdrive.com,"South Island",10581,1441,9140,0,0
-https://thehills.overdrive.com,"The Hills Library Service",10560,1828,8732,0,0
-https://tadl.overdrive.com,"Traverse Area District Library",10559,1983,8576,0,0
-https://lawrencepl.overdrive.com,"Lawrence Public Library",10523,2898,7625,0,0
-https://nnpls.overdrive.com,"Newport News Public Library System",10422,989,9433,0,0
-https://salon.overdrive.com,"Southern Adirondack Library System",10415,3261,7154,0,0
-https://novel.overdrive.com,"Upper North Island",10366,1542,8810,14,0
-https://idahodigital.overdrive.com,"Idaho Digital Consortium",10353,1136,9211,6,0
-https://nioga.overdrive.com,"Nioga Library System",10245,749,9492,4,0
-https://rivershare.overdrive.com,"RiverShare Library System",10235,697,9538,0,0
-https://tolibrary.overdrive.com,"Thousand Oaks Library System",10224,1794,7847,583,0
-https://westmoreland.overdrive.com,"Westmoreland eBook Network",10211,1399,8801,11,0
-https://murraylibrary.overdrive.com,"Murray Library",10181,1957,8025,0,199
-https://wirral.overdrive.com,"Wirral Libraries",10165,1055,9110,0,0
-https://riopl.overdrive.com,"Rio Rancho Public Library",10155,2955,7200,0,0
-https://fselibrary.overdrive.com,"Free State Public Library System",10155,0,10155,0,0
-https://orlandparklibrary.overdrive.com,"Orland Park Public Library",10137,785,9352,0,0
-https://pnm.overdrive.com,"National Library of Malaysia",10120,435,9282,403,0
-https://mmpl.overdrive.com,"Moore Memorial Public Library",10084,317,9767,0,0
-https://baycountylibrary.overdrive.com,"Bay County Library System",10067,1767,8300,0,0
-https://mymanatee.overdrive.com,"Manatee County Public Library System",9998,722,9276,0,0
-https://cvl.overdrive.com,"Chattahoochee Valley Libraries",9965,0,9965,0,0
-https://camdigital.overdrive.com,"Camarillo Public Library",9946,2367,7579,0,0
-https://unioncounty.overdrive.com,"Union County Public Library",9931,1634,8297,0,0
-https://santaanapubliclibrary.overdrive.com,"Santa Ana Public Library",9922,323,9290,309,0
-https://mln.overdrive.com,"Metro Library Network",9762,2977,6785,0,0
-https://rdpl.overdrive.com,"Red Deer Public Library",9733,1847,7886,0,0
-https://logan.overdrive.com,"Logan City Council",9732,1368,8307,57,0
-https://brownsburg.overdrive.com,"Brownsburg Public Library",9724,1494,8230,0,0
-https://edinburgh.overdrive.com,"Edinburgh Libraries",9711,1604,8107,0,0
-https://erielibrary.overdrive.com,"Erie County Public Library",9701,1835,7785,81,0
-https://tds.overdrive.com,"Traverse des Sioux Library Cooperative",9682,2175,7507,0,0
-https://gldl.overdrive.com,"Great Lakes Digital Libraries",9639,2976,6379,284,0
-https://muskingum.overdrive.com,"Muskingum County Library System",9613,1335,8278,0,0
-https://valnet.overdrive.com,"Valnet",9515,4019,5495,1,0
-https://ereolenglobal.overdrive.com,"eReolen Global",9498,2574,6924,0,0
-https://richardson.overdrive.com,"Richardson Public Library",9479,1474,8005,0,0
-https://nm.overdrive.com,"New Mexico Library To Go",9473,1962,7511,0,0
-https://fairfield.overdrive.com,"Fairfield Public Library",9391,2036,7347,8,0
-https://neflin.overdrive.com,"NEFLIN",9369,932,8437,0,0
-https://okaloosa.overdrive.com,"Okaloosa County Public Library Cooperative",9361,2883,6478,0,0
-https://cfwpl.overdrive.com,"Cedar Falls and Waterloo Public Libraries",9359,1699,7360,300,0
-https://rvl.overdrive.com,"Roanoke Valley Libraries",9355,1263,8092,0,0
-https://forsyth.overdrive.com,"Forsyth County Public Library",9354,0,9354,0,0
-https://anaheim.overdrive.com,"Anaheim Public Library",9354,1582,7772,0,0
-https://svlc.overdrive.com,"Southwest Valley Library Consortium",9309,1143,8166,0,0
-https://ccpls.overdrive.com,"Campbell County Public Library",9220,2631,6261,328,0
-https://liverpoolau.overdrive.com,"Liverpool City Library",9190,1481,7706,3,0
-https://rbwm.overdrive.com,"Royal Borough of Windsor & Maidenhead",9118,908,8210,0,0
-https://sjrlc.overdrive.com,"South Jersey Regional Library Cooperative",9090,2888,6202,0,0
-https://laurellibrary.overdrive.com,"Laurel County Public Library",9056,2343,6683,30,0
-https://fourcounty.overdrive.com,"Four County Library System",9042,1739,7303,0,0
-https://ncdl.overdrive.com,"Northern California Digital Library",9029,4310,4719,0,0
-https://oberlinpl.overdrive.com,"Oberlin Public Library",8977,827,8150,0,0
-https://chcbl.overdrive.com,"Chattanooga Public Library",8964,2068,6896,0,0
-https://elibrarybw.overdrive.com,"Büchereien Wien",8951,238,8713,0,0
-https://norwalk.overdrive.com,"Norwalk Public Library",8945,321,8624,0,0
-https://wtcpl.overdrive.com,"Warren-Trumbull County Public Library",8929,0,8929,0,0
-https://nafcpl.overdrive.com,"Floyd County Public Library",8919,1334,7585,0,0
-https://eodls.overdrive.com,"Eastern Oklahoma District Library System",8912,1554,7358,0,0
-https://midland-mi.overdrive.com,"Grace A. Dow Memorial Library",8865,784,8081,0,0
-https://simivalleylibrary.overdrive.com,"Simi Valley Public Library",8861,749,8109,3,0
-https://spokanelibrary.overdrive.com,"Spokane Public Library",8804,8,8796,0,0
-https://detroitpubliclibrary.overdrive.com,"Detroit Public Library",8759,1807,6952,0,0
-https://waggin.overdrive.com,"Washington District Libraries",8725,1350,7375,0,0
-https://brimbanklibraries.overdrive.com,"Brimbank Libraries",8720,179,8541,0,0
-https://digibel.overdrive.com,"Busan English Library",8631,1049,7582,0,0
-https://vikingdigitallibrary.overdrive.com,"Viking Library System",8599,1724,6875,0,0
-https://jclibrary.overdrive.com,"Jersey City Free Public Library",8542,1066,7426,50,0
-https://myapl.overdrive.com,"Ascension Parish Library",8447,1737,6709,1,0
-https://bibliomontreal.overdrive.com,"Bibliothèques Montréal",8347,0,8347,0,0
-https://sefl-municipal.overdrive.com,"Southeast Florida Library Association",8324,653,7642,29,0
-https://vapld.overdrive.com,"Vernon Area Public Library District",8314,221,8093,0,0
-https://elibraryhh.overdrive.com,"Bücherhallen Hamburg",8254,890,7222,142,0
-https://yorkcountyva.overdrive.com,"York County Public Library",8246,1267,6979,0,0
-https://lewisham.overdrive.com,"Lewisham Library and Information Service",8217,1699,6518,0,0
-https://northcountrylibraries.overdrive.com,"North Country Library System",8196,1500,6612,0,84
-https://cocolib.overdrive.com,"Flagstaff City-Coconino County Public Library",8074,1177,6897,0,0
-https://cookmemorial.overdrive.com,"Cook Memorial Public Library",8026,1697,6329,0,0
-https://bigcountry.overdrive.com,"Big Country Library System",7914,1563,6324,27,0
-https://westbanklibrary.overdrive.com,"Westbank Community Library District",7857,2075,5781,1,0
-https://wpl.overdrive.com,"Westchester Public Library",7848,1334,6514,0,0
-https://metronet.overdrive.com,"Metro Net Library Consortium",7817,3225,4592,0,0
-https://leoncounty.overdrive.com,"LeRoy Collins Leon County Public Library System",7773,2582,5135,56,0
-https://sequoyah.overdrive.com,"Sequoyah Regional Library System",7770,2108,5662,0,0
-https://fullerton.overdrive.com,"Fullerton Public Library",7753,2026,5727,0,0
-https://tangilibrary.overdrive.com,"Tangipahoa Parish Library",7741,0,7741,0,0
-https://yukon.overdrive.com,"Yukon Public Libraries",7732,921,6811,0,0
-https://yclibrary.overdrive.com,"York County Library",7688,1259,6429,0,0
-https://gauteng.overdrive.com,"Gauteng Provincial Library Service",7660,754,6900,6,0
-https://camdenlibrary.overdrive.com,"London Borough of Camden",7624,141,7483,0,0
-https://palmspringslibrary.overdrive.com,"Palm Springs Public Library",7608,2040,5568,0,0
-https://warwickshire.overdrive.com,"Warwickshire Library and Information Service",7580,872,6708,0,0
-https://hamptonpubliclibrary.overdrive.com,"Hampton Public Library",7573,0,7573,0,0
-https://elibrary247.overdrive.com,"eLibrary 24/7",7472,531,6941,0,0
-https://lancasterlibraries.overdrive.com,"Library System of Lancaster County",7471,2257,5214,0,0
-https://e-stockton.overdrive.com,"Stockton-on-Tees Libraries",7458,578,6880,0,0
-https://sbpl.overdrive.com,"San Bernardino Public Library",7435,761,6674,0,0
-https://pickens.overdrive.com,"Pickens County Library System",7420,2226,5194,0,0
-https://cclsys.overdrive.com,"Johnstown District Libraries",7417,743,6674,0,0
-https://roswellnm.overdrive.com,"Roswell Public Library",7341,1456,5885,0,0
-https://helmet.overdrive.com,"Helsinki City Library",7256,890,6322,44,0
-https://randwick.overdrive.com,"Randwick City Library Services",7247,1232,6015,0,0
-https://roundrock.overdrive.com,"Round Rock Public Library System",7241,136,7105,0,0
-https://act.overdrive.com,"ACT Library & Information Service",7227,1873,5354,0,0
-https://srlsinfo.overdrive.com,"Sandhill Regional Library System",7156,252,6894,10,0
-https://acld.overdrive.com,"Apache County Library District",7112,937,6046,129,0
-https://wppl.overdrive.com,"Winter Park Public Library",7068,1190,5878,0,0
-https://cpcregional.overdrive.com,"Craven-Pamlico-Carteret Regional Library",7047,1507,5540,0,0
-https://sp.overdrive.com,"Singapore Polytechnic",6996,213,6755,28,0
-https://georgesriver.overdrive.com,"Georges River Council Library",6951,1067,5838,46,0
-https://southeasternok.overdrive.com,"Southeastern Public Library System of Oklahoma",6943,0,6943,0,0
-https://first.overdrive.com,"First Regional Library",6886,1545,5275,66,0
-https://lacnm.overdrive.com,"Los Alamos County Library System",6853,2023,4830,0,0
-https://b2gsdl.overdrive.com,"Warren Library Association",6825,721,6104,0,0
-https://fmb.overdrive.com,"Fort Myers Beach Public Library",6751,0,6751,0,0
-https://hct.overdrive.com,"Higher Colleges of Technology",6715,783,5818,114,0
-https://cumberland.overdrive.com,"Cumberland Council Libraries",6703,519,6183,1,0
-https://hclibrary.overdrive.com,"Hunterdon County Library",6687,2399,4288,0,0
-https://keyslibraries.overdrive.com,"Monroe County Public Library",6636,943,5693,0,0
-https://eastsussexlibrary.overdrive.com,"East Sussex County Council",6619,561,6058,0,0
-https://stlucieco.overdrive.com,"St. Lucie County Library System",6591,927,5664,0,0
-https://lltc.overdrive.com,"Little Libraries That Could",6586,69,6517,0,0
-https://leicesteruk.overdrive.com,"Leicester Libraries",6576,633,5943,0,0
-https://brant.overdrive.com,"County of Brant Public Library",6567,1408,5159,0,0
-https://waverley.overdrive.com,"Waverley Library",6501,1476,5025,0,0
-https://bportlibrary.overdrive.com,"Bridgeport Public Library",6489,1573,4916,0,0
-https://lbrut.overdrive.com,"London Borough of Richmond upon Thames",6485,1112,5373,0,0
-https://blacktown.overdrive.com,"Blacktown City Libraries",6410,304,6106,0,0
-https://midnorthcoast.overdrive.com,"Mid North Coast Library Service",6366,256,6110,0,0
-https://scl.overdrive.com,"Sunshine Coast Libraries",6357,1675,4682,0,0
-https://palmetto.overdrive.com,"Palmetto Library Consortium",6322,1540,4782,0,0
-https://richmondpubliclibrary.overdrive.com,"Richmond Public Library",6310,743,5567,0,0
-https://hplct.overdrive.com,"Hartford Public Library",6226,0,6226,0,0
-https://saginawlibrary.overdrive.com,"Public Libraries of Saginaw",6148,1224,4924,0,0
-https://sandoval.overdrive.com,"Sandoval County Library Consortium",6144,1184,4960,0,0
-https://cefls.overdrive.com,"Clinton Essex Franklin Library System",6115,280,5835,0,0
-https://wml.overdrive.com,"Whitehorse Manningham Regional Library Corporation",6106,866,5240,0,0
-https://rafbokasafnid.overdrive.com,"Rafbókasafnið",6041,1126,4915,0,0
-https://scw.overdrive.com,"Sun City West - R. H. Johnson Library",6040,652,5388,0,0
-https://richmondlibrary.overdrive.com,"Richmond Public Library",6032,1445,4587,0,0
-https://realtor.overdrive.com,"National Association of REALTORS®",5995,1131,4857,7,0
-https://yorklibraries.overdrive.com,"York Libraries",5903,1611,4292,0,0
-https://gcldaz.overdrive.com,"Gila County Library District",5865,476,5389,0,0
-https://jefflibrary.overdrive.com,"Jeffersonville Township Public Library",5863,1224,4639,0,0
-https://burbank.overdrive.com,"Burbank Public Library",5849,1537,4293,19,0
-https://portphillip.overdrive.com,"Port Phillip Library Service",5834,68,5766,0,0
-https://claytonnc.overdrive.com,"Hocutt Ellington Memorial Library",5806,4,5788,14,0
-https://plumcreeklibrary.overdrive.com,"Plum Creek Library System",5789,666,5123,0,0
-https://scenicregional.overdrive.com,"Scenic Regional Library",5727,1593,4134,0,0
-https://listeneasternwv.overdrive.com,"Listen Eastern West Virginia",5691,2651,3040,0,0
-https://stclaircounty.overdrive.com,"Saint Clair County Library",5661,1534,4127,0,0
-https://virtualbpld.overdrive.com,"Bartlett Public Library",5655,902,4753,0,0
-https://ebookssjclibrary.overdrive.com,"San Juan Community Library",5644,67,5574,3,0
-https://blackpool.overdrive.com,"Blackpool Libraries",5629,549,5080,0,0
-https://livermore.overdrive.com,"Livermore Public Library",5579,1847,3732,0,0
-https://pioneerland.overdrive.com,"Pioneerland Library System",5536,1388,4148,0,0
-https://qroc.overdrive.com,"Queensland Regional OverDrive Consortium",5528,453,5075,0,0
-https://campbelltown.overdrive.com,"Campbelltown City Council",5519,1155,4364,0,0
-https://beaverlibraries.overdrive.com,"Beaver County Library System",5499,637,4661,201,0
-https://maltalibraries.overdrive.com,"Malta Libraries",5495,344,4924,1,226
-https://renfrewshire.overdrive.com,"Renfrewshire Libraries",5486,867,4619,0,0
-https://asub.overdrive.com,"Arkansas State University - Beebe",5462,193,5269,0,0
-https://bcsdmc.overdrive.com,"Bryan and College Station Public Library System",5459,637,4822,0,0
-https://ncc.overdrive.com,"Nassau Community College",5441,172,5269,0,0
-https://south-ayrshire.overdrive.com,"South Ayrshire Libraries",5416,905,4511,0,0
-https://taipei.overdrive.com,"Taipei Public Library",5394,865,4435,94,0
-https://ccld.overdrive.com,"Cochise County Library District",5362,655,4707,0,0
-https://jdcpl.overdrive.com,"Jasper Dubois County Contractual Public Library",5354,838,4516,0,0
-https://bexley.overdrive.com,"London Borough of Bexley",5319,812,4455,52,0
-https://clcn.overdrive.com,"Capital Library",5254,645,4609,0,0
-https://ahml.overdrive.com,"Arlington Heights Memorial Library",5239,1886,3353,0,0
-https://carverlib.overdrive.com,"Carver County Library",5233,0,5233,0,0
-https://byu.overdrive.com,"Brigham Young University",5208,2105,3103,0,0
-https://occc.overdrive.com,"Oklahoma City Community College",5196,904,4292,0,0
-https://kznpls.overdrive.com,"Kwa-Zulu Natal Provincial Library Services",5178,0,5178,0,0
-https://bocalibrary.overdrive.com,"Boca Raton Public Library",5110,856,4003,251,0
-https://fclspa.overdrive.com,"Franklin County Library System",5078,664,4414,0,0
-https://mayvillestate.overdrive.com,"Mayville State University",5072,159,4913,0,0
-https://listening-books.overdrive.com,"Listening Books",5061,5041,20,0,0
-https://hawkesbury.overdrive.com,"Hawkesbury Library Service",5038,447,4591,0,0
-https://nwrls.overdrive.com,"Northwest Regional Library System",5025,1226,3799,0,0
+https://lapl.overdrive.com,"Los Angeles Public Library",395282,65902,320762,6610,2008
+https://sno-isle.overdrive.com,"Sno-Isle Libraries",283938,79127,204264,546,0
+https://auckland.overdrive.com,"Auckland Libraries",273772,54002,219023,747,0
+https://clevnet.overdrive.com,"CLEVNET",248424,47699,192971,5823,1931
+https://nlb.overdrive.com,"National Library Board Singapore",233232,30217,202338,304,373
+https://nypl.overdrive.com,"New York Public Library",225525,45809,178987,729,0
+https://kcls.overdrive.com,"King County Library System",222473,49206,172267,1000,0
+https://livebrary.overdrive.com,"Livebrary.com",222179,52359,169021,799,0
+https://toronto.overdrive.com,"Toronto Public Library",206178,31563,170494,2730,1388
+https://hclib.overdrive.com,"Hennepin County Library",200624,29539,167941,3144,0
+https://ohdbks.overdrive.com,"The Ohio Digital Library",200247,37554,157867,2999,1825
+https://brooklyn.overdrive.com,"Brooklyn Public Library",198989,40296,157558,1135,0
+https://hcplc.overdrive.com,"Hillsborough County Public Library Cooperative",195113,30192,164643,278,0
+https://lasvegas.overdrive.com,"Las Vegas-Clark County Library District",194798,52581,140061,112,2041
+https://cincinnatilibrary.overdrive.com,"Public Library of Cincinnati and Hamilton County",189350,41891,141562,5817,80
+https://metrolibrary.overdrive.com,"Metropolitan Library System",184189,46418,137771,0,0
+https://ppld.overdrive.com,"Pikes Peak Library District",181201,40325,140703,172,0
+https://multcolib.overdrive.com,"Multnomah County Library",180884,44807,136077,0,0
+https://indypl.overdrive.com,"Indianapolis Public Library",178679,41106,135533,2039,0
+https://spl.overdrive.com,"Seattle Public Library",169011,40362,127700,949,0
+https://nashville.overdrive.com,"Nashville Public Library",166013,35946,128788,1279,0
+https://phoenix.overdrive.com,"Greater Phoenix Digital Library",151704,35936,112706,1913,1149
+https://saclibrary.overdrive.com,"Sacramento Public Library",148934,36297,110085,2552,0
+https://hcpl.overdrive.com,"Harris County Public Library",145554,30681,109579,4373,920
+https://clc.overdrive.com,"Digital Downloads Collaboration",143040,29034,114006,0,0
+https://ocls.overdrive.com,"Orange County Library System",140915,25755,114191,969,0
+https://ccpl.overdrive.com,"Cuyahoga County Public Library",139298,34742,103620,936,0
+https://mcpl.overdrive.com,"Mid-Continent Public Library",135073,31286,101831,1954,0
+https://sfpl.overdrive.com,"San Francisco Public Library",134948,23505,111441,2,0
+https://arapahoe.overdrive.com,"Arapahoe Library District",128423,27245,100970,208,0
+https://lcls.overdrive.com,"Lee County Library System",125184,27431,97009,744,0
+https://austinlibrary.overdrive.com,"Austin Public Library",121554,28638,90297,2619,0
+https://ebr.overdrive.com,"East Baton Rouge Parish Library",121122,30216,89111,1795,0
+https://acla.overdrive.com,"Carnegie Library of Pittsburgh",118506,22444,94451,650,961
+https://bpl.overdrive.com,"Boston Public Library",117305,25472,91746,87,0
+https://calgary.overdrive.com,"Calgary Public Library",110649,20870,89779,0,0
+https://minuteman.overdrive.com,"Minuteman Library Network",110605,15153,93506,689,1257
+https://army.overdrive.com,"Army MWR Libraries",108382,29182,75746,3454,0
+https://riezone.overdrive.com,"Ocean State Libraries eZone",108291,23371,83659,1261,0
+https://lacountylibrary.overdrive.com,"LA County Library",106872,26997,79875,0,0
+https://evpl.overdrive.com,"Evansville Vanderburgh Public Library",106310,18613,87631,64,0
+https://epl.overdrive.com,"Edmonton Public Library",106135,25943,80192,0,0
+https://hpl.overdrive.com,"Hamilton Public Library",105305,14693,89890,0,722
+https://reads.overdrive.com,"Tennessee READS",105206,24361,76667,3487,691
+https://kyunbound.overdrive.com,"Kentucky Libraries Unbound",102012,19163,79849,1823,1177
+https://piercecounty.overdrive.com,"Pierce County Library System",101137,26606,74530,1,0
+https://toledo.overdrive.com,"Toledo Lucas County Public Library",94234,26163,66944,1127,0
+https://wccls.overdrive.com,"Washington County Cooperative Library Services",93953,24168,69785,0,0
+https://scld.overdrive.com,"Spokane County Library District",92296,27394,64901,1,0
+https://hawaii.overdrive.com,"Hawaii State Public Library System",92152,17516,74636,0,0
+https://wplc.overdrive.com,"Wisconsin Public Library Consortium",92008,22948,68515,545,0
+https://cwmars.overdrive.com,"CW MARS",91670,11656,76486,1277,2251
+https://pueblolibrary.overdrive.com,"Pueblo City-County Library District",90675,37221,53454,0,0
+https://pueblocitycldco.libraryreserve.com,"DLR Next Gen",90661,37222,53439,0,0
+https://navy.libraryreserve.com,"Navy General Library Program Downloadable Books, Music & Video",90116,29714,60045,0,0
+https://lsw.overdrive.com,"Libraries Southwest Consortium",89494,17087,72289,118,0
+https://sanantonio.overdrive.com,"San Antonio Public Library",87747,21786,62811,1485,1665
+https://odmc.overdrive.com,"Ontario Library Service Consortium",87681,16252,71261,168,0
+https://mydlib.overdrive.com,"My Digital Library",87236,20910,64698,890,737
+https://dayton.overdrive.com,"Dayton Metro Library",87083,24997,61290,796,0
+https://slcl.overdrive.com,"St. Louis County Library",85785,11555,73628,602,0
+https://cals.overdrive.com,"Central Arkansas Library System",85421,18546,66875,0,0
+https://markham.overdrive.com,"Markham Public Library",85276,13936,70308,1032,0
+https://bridges.overdrive.com,"Bridges",84440,14073,68351,667,1349
+https://sdcl.overdrive.com,"San Diego County Library",84280,19503,62997,1382,398
+https://midcolumbialibraries.overdrive.com,"Mid-Columbia Libraries",83864,22887,59671,0,1306
+https://dallaslibrary.overdrive.com,"Dallas Public Library",82288,9642,69793,2853,0
+https://wvdeli.overdrive.com,"West Virginia Downloadable Entertainment Library Initiative",82116,16673,64166,1277,0
+https://aclib.overdrive.com,"Alachua County Library District",81891,24650,57049,192,0
+https://timberland.overdrive.com,"Timberland Regional Library",80084,23615,55857,612,0
+https://broward.overdrive.com,"Broward County Library",79344,18930,60306,108,0
+https://tscpl.overdrive.com,"Topeka and Shawnee County Public Library",79315,14292,63665,0,1358
+https://goldcoast.overdrive.com,"Gold Coast Libraries",79193,13005,66182,6,0
+https://slco.overdrive.com,"Salt Lake County Library Services",78483,24622,48676,5185,0
+https://pioneerok.overdrive.com,"Pioneer Library System",78391,18542,59598,251,0
+https://queenslibrary.overdrive.com,"Queens Public Library",77482,5241,71106,1135,0
+https://utahsonlinelibrary.overdrive.com,"Beehive Library Consortium",77276,25190,47309,4258,519
+https://henrico.overdrive.com,"Henrico County Public Library",76589,12292,64297,0,0
+https://nmls.overdrive.com,"Nicholson Memorial Library System",74942,20387,53140,450,965
+https://lakecounty.overdrive.com,"Lake County Public Library",72938,16593,56345,0,0
+https://cidc.overdrive.com,"eIndiana Digital Consortium",71126,12600,56735,417,1374
+https://lfpl.overdrive.com,"Louisville Free Public Library",70812,5627,64835,350,0
+https://cabq.overdrive.com,"Albuquerque Bernalillo County Library System",69214,21427,47523,264,0
+https://saskatchewan.overdrive.com,"Saskatchewan Library Consortium",68601,12580,56019,2,0
+https://adlc.overdrive.com,"Arkansas Digital Library Consortium",68494,13607,54380,0,507
+https://santaclara.overdrive.com,"Santa Clara County Library",68079,17376,49256,1447,0
+https://westchester.overdrive.com,"Westchester Library System",67908,9794,57984,130,0
+https://fwpl.overdrive.com,"Fort Worth Library",67503,20982,43906,1183,1432
+https://ottawa.overdrive.com,"Ottawa Public Library",66628,13027,53601,0,0
+https://erl.overdrive.com,"Eastern Regional Libraries",66417,7815,58602,0,0
+https://acpl.overdrive.com,"Allen County Public Library",66076,12808,53268,0,0
+https://christchurch.overdrive.com,"Christchurch City Libraries",65812,12002,53810,0,0
+https://hadc.overdrive.com,"Houston Area Digital Media Catalog",65697,16375,49259,62,0
+https://myrl.overdrive.com,"Richland Library",65291,14303,50933,55,0
+https://jpl.overdrive.com,"Jacksonville Public Library",65002,18693,46039,270,0
+https://kclibrary.overdrive.com,"Kansas City Public Library",64078,17364,45271,765,678
+https://sapln.overdrive.com,"South Australia Public Library Services",63663,10093,53540,0,30
+https://fresno.overdrive.com,"Fresno County Public Library",63277,19244,43328,705,0
+https://ncdigital.overdrive.com,"North Carolina Digital Library",63211,11873,49809,324,1205
+https://mediaondemand.overdrive.com,"Media On Demand",62643,9155,52294,1194,0
+https://okvirtuallibrary.overdrive.com,"OK Virtual Library",61525,11666,48867,698,294
+https://aclibrary.overdrive.com,"Alameda County Library",61514,7748,50492,3274,0
+https://mississauga.overdrive.com,"Mississauga Library System",60899,7075,53806,18,0
+https://iddc.overdrive.com,"Indiana Digital Download Center",59512,8443,48657,1068,1344
+https://surreyca.overdrive.com,"Surrey Libraries",59282,10162,49120,0,0
+https://akronlibrary.overdrive.com,"Akron-Summit County Public Library",59265,17378,41887,0,0
+https://kenton.overdrive.com,"Kenton County Public Library",59251,10898,47284,0,1069
+https://dlil.overdrive.com,"Digital Library of Illinois",58442,16179,41598,665,0
+https://jclc.overdrive.com,"Jefferson County Library Cooperative",58413,12900,45513,0,0
+https://stcharles.overdrive.com,"St. Charles City-County Library District",56664,12875,43789,0,0
+https://mlc.overdrive.com,"Midwest Collaborative for Library Services",56538,15935,40603,0,0
+https://anythinklibraries.overdrive.com,"Rangeview Library District",56414,14478,41936,0,0
+https://wcl.overdrive.com,"Wellington City Libraries",56255,12535,43720,0,0
+https://denver.overdrive.com,"Denver Public Library",56189,14994,40381,814,0
+https://idm.overdrive.com,"Indiana Digital Media",55539,11003,42945,449,1142
+https://sanjose.overdrive.com,"San Jose Public Library",55414,10493,44921,0,0
+https://sbcldigital.overdrive.com,"San Bernardino County Library",55401,11730,40209,2987,475
+https://sjcpl.overdrive.com,"St. Joseph County Public Library",54996,11811,43185,0,0
+https://dcl.overdrive.com,"Douglas County Libraries",54759,15601,39067,54,37
+https://thegdl.overdrive.com,"Genesee District Library",54731,18601,35828,302,0
+https://fortvancouver.overdrive.com,"Fort Vancouver Regional Library District",54583,15957,38626,0,0
+https://chipublib.overdrive.com,"Chicago Public Library",54526,12382,41472,672,0
+https://emedialibrary.overdrive.com,"eMediaLibrary",54475,11311,43160,4,0
+https://onlib.overdrive.com,"Onondaga County Public Library",54142,13852,38954,849,487
+https://slcpl.overdrive.com,"Salt Lake City Public Library",53728,11159,39316,3253,0
+https://library2go.overdrive.com,"Oregon Digital Library Consortium",53670,14553,39058,59,0
+https://knoxcounty.overdrive.com,"Knox County Public Library",53521,14206,38945,370,0
+https://buffalo.overdrive.com,"Buffalo & Erie County Public Library",53277,12280,40895,102,0
+https://wapldmc.overdrive.com,"Western Australia Public Libraries",53222,2107,51115,0,0
+https://ccc.overdrive.com,"Contra Costa County Library",52456,11878,40576,2,0
+https://virtuallibrary.overdrive.com,"Virtual Library of Wyoming",52298,4980,46707,611,0
+https://anytime.overdrive.com,"Washington Anytime Library",52291,14087,38202,2,0
+https://dbrl.overdrive.com,"Daniel Boone Regional Library",52143,12214,39929,0,0
+https://nassau.overdrive.com,"Nassau Digital Doorway",52116,10047,42069,0,0
+https://dpls.overdrive.com,"Deschutes Public Library",51963,13677,38217,69,0
+https://uhls.overdrive.com,"Upper Hudson Library System",51960,13417,37499,671,373
+https://mdpls.overdrive.com,"Miami-Dade Public Library System",51188,12095,39057,36,0
+https://dclibrary.overdrive.com,"District of Columbia Public Library",50641,12953,37186,502,0
+https://camellia.overdrive.com,"Camellia Net Digital Catalog",50502,7224,41479,638,1161
+https://pima.overdrive.com,"Pima County Public Library",50484,9190,41117,177,0
+https://slpl.overdrive.com,"St. Louis Public Library",50147,4748,45399,0,0
+https://greengoldlibraries.overdrive.com,"Green Gold Consortium",50115,10100,39474,541,0
+https://gmlc.overdrive.com,"Green Mountain Library Consortium",50066,6310,43756,0,0
+https://sails.overdrive.com,"SAILS Library Network",49997,7200,41251,973,573
+https://tulsa.overdrive.com,"Tulsa City-County Library",49821,9531,40287,3,0
+https://wvreads.overdrive.com,"West Virginia Reads",49792,6514,43269,9,0
+https://elm.overdrive.com,"eLibraries Manitoba",49756,10431,39319,6,0
+https://ocpl.overdrive.com,"OC Public Libraries",49717,13979,35738,0,0
+https://freelibrary.overdrive.com,"The Free Library of Philadelphia",49361,7062,41900,399,0
+https://greenwich.overdrive.com,"Greenwich Library",49119,10713,38406,0,0
+https://halifax.overdrive.com,"Halifax Public Libraries",48911,7808,40819,284,0
+https://naperville.overdrive.com,"Naperville Public Library",48483,15460,32693,330,0
+https://fairfax.overdrive.com,"Fairfax County Public Library",48327,15784,32395,148,0
+https://libraryweb.overdrive.com,"Monroe County Library System",47842,8768,37747,349,978
+https://memphis.overdrive.com,"Memphis Public Libraries",47541,4920,42621,0,0
+https://krl.overdrive.com,"Kitsap Regional Library",47365,9200,38165,0,0
+https://molib2go.overdrive.com,"Missouri Libraries 2Go",47152,7100,38553,352,1147
+https://youngstown.overdrive.com,"The Public Library of Youngstown and Mahoning County",47084,11706,35378,0,0
+https://plano.overdrive.com,"Plano Public Library System",46692,8332,38360,0,0
+https://nebraska.overdrive.com,"Nebraska OverDrive Libraries",46541,16022,30519,0,0
+https://omaha.overdrive.com,"Omaha Public Library",46143,12808,33270,65,0
+https://houstonlibrary.overdrive.com,"Houston Public Library",46069,9020,32606,4443,0
+https://sonoma.overdrive.com,"Sonoma County Library",45158,16080,28754,324,0
+https://monmouth.overdrive.com,"Monmouth County Library",45092,8078,37014,0,0
+https://llc.overdrive.com,"London Libraries Consortium",44886,6041,38845,0,0
+https://orl.overdrive.com,"Okanagan Regional Library",44763,10202,34561,0,0
+https://omnilibraries.overdrive.com,"Online Media of Northern Illinois Libraries",44664,5736,38183,745,0
+https://pls.overdrive.com,"Peninsula Library System",44584,11085,33496,3,0
+https://sppl.overdrive.com,"St. Paul Public Library",44385,340,44045,0,0
+https://ocln.overdrive.com,"Old Colony Library Network",43905,7757,35450,698,0
+https://frontrange.overdrive.com,"Front Range Downloadable Library",43201,11227,31501,473,0
+https://bcpl.overdrive.com,"British Columbia Libraries",42743,10287,32455,1,0
+https://lincoln.overdrive.com,"Lincoln City Libraries",42688,18134,24554,0,0
+https://jasmine.overdrive.com,"South Carolina Low Country Consortium",42542,3675,38847,20,0
+https://chesterfield.overdrive.com,"Chesterfield County Public Library",42511,8900,33611,0,0
+https://yuma.overdrive.com,"Yuma County Library District",42485,15128,27357,0,0
+https://rochester.overdrive.com,"Rochester Public Library",42055,12202,29225,628,0
+https://hcplibrary.overdrive.com,"Hancock County Public Library",41484,10234,31244,6,0
+https://arlington.overdrive.com,"Arlington Public Library",41417,11627,29790,0,0
+https://downloadlibrary.overdrive.com,"downloadLibrary",41358,11011,29217,1130,0
+https://marmot.overdrive.com,"Marmot Library Network",40995,10649,30183,163,0
+https://fulcolibrary.overdrive.com,"Atlanta-Fulton Public Library System",40966,8694,32272,0,0
+https://grpl.overdrive.com,"Grand Rapids Public Library",40550,9160,31390,0,0
+https://pgcmls.overdrive.com,"Prince George's County Memorial Library System",40524,11440,29084,0,0
+https://ndlibrary2go.overdrive.com,"North Dakota Digital Consortium",40282,10607,28328,1347,0
+https://spartanburglibraries.overdrive.com,"Spartanburg County Public Libraries",40270,11793,28477,0,0
+https://librariestasmania.overdrive.com,"Libraries Tasmania",39834,5678,34156,0,0
+https://vbpl.overdrive.com,"Virginia Beach Public Library",39259,7954,29970,1335,0
+https://ifpl.overdrive.com,"Idaho Falls Public Library",39208,13240,25968,0,0
+https://lib2go.overdrive.com,"ArkansasLibrary2Go",39098,7591,31272,235,0
+https://neworleans.overdrive.com,"New Orleans Public Library",38980,16227,22086,256,411
+https://trac.overdrive.com,"TRAC Consortium",38903,6424,32479,0,0
+https://oakland.overdrive.com,"Oakland Public Library",38540,6497,30987,1056,0
+https://connors.overdrive.com,"Connors State College",38509,38508,1,0,0
+https://somerset.overdrive.com,"Somerset County Library System",38373,5678,32475,220,0
+https://barth.overdrive.com,"Bartholomew County Public Library",38179,6403,31775,1,0
+https://tln.overdrive.com,"Download Destination",38167,6664,30689,814,0
+https://clamsnet.overdrive.com,"CLAMS",38044,8277,28493,81,1193
+https://brisbane.overdrive.com,"Brisbane City Council Library Services",37653,5649,31863,141,0
+https://marinet.overdrive.com,"MARINet",37325,10895,26245,185,0
+https://rhpl.overdrive.com,"Richmond Hill Public Library",36941,3521,33420,0,0
+https://yvl.overdrive.com,"Yakima Valley Libraries",36032,11458,21211,3205,158
+https://bcplinfo.overdrive.com,"Baltimore County Public Library",35976,9266,26710,0,0
+https://sunflowerelibrary.overdrive.com,"Sunflower eLibrary",35592,4692,30729,171,0
+https://tempe.overdrive.com,"Tempe Public Library",34960,7492,27294,174,0
+https://adl.overdrive.com,"Alaska Digital Library",34912,11605,23307,0,0
+https://lexpublib.overdrive.com,"Lexington Public Library",34780,6750,28030,0,0
+https://montana.overdrive.com,"MontanaLibrary2Go",34654,12331,22323,0,0
+https://bayouland.overdrive.com,"Bayouland E-Library Co-Op",34628,5415,29094,119,0
+https://boise.overdrive.com,"Boise Public Library",34617,9052,25220,345,0
+https://lcpl.overdrive.com,"Loudoun County Public Library",34499,6230,28269,0,0
+https://santaclarita.overdrive.com,"City of Santa Clarita Public Library",34226,6492,26334,1400,0
+https://elibrarynj.overdrive.com,"eLibrary NJ",34061,11090,22971,0,0
+https://balibrary.overdrive.com,"Barrington Area Library",34043,5520,28523,0,0
+https://winnipeg.overdrive.com,"Winnipeg Public Library",33553,6785,26425,343,0
+https://rpls.overdrive.com,"Rolling Prairie Digital Consortium",33327,3100,30123,104,0
+https://lpl.overdrive.com,"London Public Library",33317,11626,21559,132,0
+https://brevard.overdrive.com,"Brevard County Library",33285,4447,28711,0,127
+https://ebccls.overdrive.com,"Bergen County Cooperative Library System",33280,8863,24417,0,0
+https://blackgold.overdrive.com,"Black Gold Cooperative Library System",33163,9860,23303,0,0
+https://id8.overdrive.com,"LYNX Library Consortium",33161,6930,26231,0,0
+https://capitalarealibrary.overdrive.com,"Capital Area Library District",33022,9149,23873,0,0
+https://maryland.overdrive.com,"Maryland's Digital Library",32953,9375,22101,145,1332
+https://icpl.overdrive.com,"Digital Johnson County",32753,9804,22949,0,0
+https://jeff.overdrive.com,"Jefferson Parish Library",32639,3811,28779,49,0
+https://wagner.overdrive.com,"Wagner College",32538,0,32538,0,0
+https://e-inc.overdrive.com,"E-iNC Library",32318,3298,27454,310,1256
+https://rcls.overdrive.com,"Ramapo Catskill Library System",32220,7302,22746,508,1664
+https://montcolibs.overdrive.com,"Montgomery County Library District Consortium",31885,6736,24745,404,0
+https://poudre.overdrive.com,"Poudre River Public Library District",31865,4728,27042,95,0
+https://delaware.overdrive.com,"Delaware Libraries",31795,7538,23255,1002,0
+https://frisco.overdrive.com,"Frisco Public Library",31787,5592,26175,20,0
+https://simcoe.overdrive.com,"County of Simcoe Library Co-operative",31769,3069,28700,0,0
+https://kent.overdrive.com,"Kent County Council",31550,4385,27165,0,0
+https://chester.overdrive.com,"Chester County Library System",31364,7664,23700,0,0
+https://moretonbay.overdrive.com,"Moreton Bay Libraries",31334,3230,27955,149,0
+https://voebb.overdrive.com,"Berlin, Verbund Öffentlicher Bibliotheken (VÖBB)",31284,4388,26896,0,0
+https://northnet.overdrive.com,"NorthNet Library System",30641,7128,23319,194,0
+https://nckids.overdrive.com,"NC Kids Digital Library",30629,5613,23795,1221,0
+https://ecoop.overdrive.com,"E-Library Co-Op of Southeast Louisiana",30576,4477,26063,36,0
+https://skokielibrary.overdrive.com,"Skokie Public Library",30515,5505,25010,0,0
+https://nidl.overdrive.com,"Northeast Indiana Digital Library",30505,4060,25262,0,1183
+https://epukapuka.overdrive.com,"Lower North Island",30480,5276,25204,0,0
+https://mvlc.overdrive.com,"Merrimack Valley Library Consortium",30155,7590,20515,214,1836
+https://buckinghamshire.overdrive.com,"Buckinghamshire Council",29942,503,29439,0,0
+https://carmel.overdrive.com,"Carmel Clay Public Library",29807,10235,19572,0,0
+https://dekalb.overdrive.com,"DeKalb County Public Library",29723,9714,20009,0,0
+https://netldc.overdrive.com,"Northeast Texas Digital Consortium",29640,4188,25258,194,0
+https://jefferson.overdrive.com,"Jefferson County Public Library",29583,0,29583,0,0
+https://elnb-bnnb.overdrive.com,"Bibliothèques publiques du N.-B. / New Brunswick Public Libraries",29519,5177,24253,89,0
+https://burlingtonpl.overdrive.com,"Burlington Public Library",29311,4510,24801,0,0
+https://blackhills.overdrive.com,"Black Hills Library Digital Consortium",29300,8088,21018,194,0
+https://arrowhead.overdrive.com,"Arrowhead Library System",29280,9762,19518,0,0
+https://washoecounty.overdrive.com,"Washoe County Library System",28825,9845,18980,0,0
+https://sttammany.overdrive.com,"St. Tammany Parish Library",28781,7638,21143,0,0
+https://kirklees.overdrive.com,"Kirklees Libraries",28498,3185,25313,0,0
+https://dmpl.overdrive.com,"Des Moines Public Library",28467,8529,19938,0,0
+https://usahec.overdrive.com,"U.S. Army War College",28406,2,28404,0,0
+https://flls.overdrive.com,"Finger Lakes Library System",28282,6314,21968,0,0
+https://ncrl.overdrive.com,"North Central Regional Library",28212,6439,21773,0,0
+https://banq.overdrive.com,"Bibliothèque et Archives nationales du Québec",28183,4720,23463,0,0
+https://ajax.overdrive.com,"Ajax Public Library",28161,6473,21211,477,0
+https://infoway.overdrive.com,"Farmington Public Library",27819,9048,18771,0,0
+https://pplc.overdrive.com,"Pinellas Public Library Cooperative",27559,7075,19497,987,0
+https://tuscaloosa.overdrive.com,"Tuscaloosa Public Library",27489,6652,20466,371,0
+https://elpaso.overdrive.com,"El Paso Public Library",27364,4146,22860,358,0
+https://norfolk.overdrive.com,"Norfolk County Council",27275,1369,25906,0,0
+https://essexca.overdrive.com,"Essex County Library",27230,7117,20009,104,0
+https://tacoma.overdrive.com,"Tacoma Public Library",27088,6162,20926,0,0
+https://andersonlibrary.overdrive.com,"Anderson County Library",26997,5341,21656,0,0
+https://yourlibraryca.overdrive.com,"Richmond Public Library",26918,4600,22318,0,0
+https://southdakota.overdrive.com,"South Dakota Digital Consortium",26916,6839,19347,45,685
+https://nsdc.overdrive.com,"North Suburban Digital Consortium",26877,7664,19182,31,0
+https://buckslib.overdrive.com,"Bucks County Free Library",26692,7459,19033,200,0
+https://semcofl.overdrive.com,"Seminole County Public Library System",26276,5030,20985,261,0
+https://lex.overdrive.com,"Lexington County Public Library System",26262,6774,19361,127,0
+https://upnorth.overdrive.com,"Up North Michigan Consortium",26176,3568,22474,134,0
+https://berkeleypubliclibrary.overdrive.com,"Berkeley Public Library",26142,7114,19028,0,0
+https://nh.overdrive.com,"New Hampshire State Library",26127,10944,14595,16,572
+https://af.overdrive.com,"U.S. Air Force",26041,6283,18480,1278,0
+https://plcmc.overdrive.com,"Charlotte Mecklenburg Library",26022,3952,21874,196,0
+https://glllibraries.overdrive.com,"Better Libraries Digital Consortium",25897,4417,21480,0,0
+https://mcplmd.overdrive.com,"Montgomery County Public Libraries",25839,7278,18561,0,0
+https://tblc.overdrive.com,"Tampa Bay Library Consortium",25836,5581,20219,36,0
+https://iredell.overdrive.com,"Iredell County Library",25728,3792,21683,253,0
+https://noble.overdrive.com,"NOBLE: North of Boston Library Exchange",25715,6073,18514,0,1128
+https://durhamcounty.overdrive.com,"Durham County Library",25681,4253,21428,0,0
+https://alexandria.overdrive.com,"Alexandria Library",25633,5888,19745,0,0
+https://wrl.overdrive.com,"Williamsburg Regional Library",25584,0,25584,0,0
+https://ocl.overdrive.com,"Ocean County Library",25494,6013,19052,0,429
+https://sclibrary.overdrive.com,"Strathcona County Library",25304,4721,20583,0,0
+https://norfolk-va.overdrive.com,"Norfolk Public Library",25290,1374,23916,0,0
+https://lacnm.overdrive.com,"Los Alamos County Library System",25168,2696,6375,16097,0
+https://owwl.overdrive.com,"Pioneer Library System",25155,8147,16180,0,828
+https://volusia.overdrive.com,"Volusia County Public Library",25060,5979,19081,0,0
+https://laportelibrary.overdrive.com,"La Porte County Public Library",24966,3714,21252,0,0
+https://daviscounty.overdrive.com,"Davis County Library",24879,11278,12974,627,0
+https://delco.overdrive.com,"Delaware County Library System",24814,8014,16800,0,0
+https://midyork.overdrive.com,"Mid-York Library System",24632,5223,19409,0,0
+https://stls.overdrive.com,"Southern Tier Library System",24238,4171,19265,802,0
+https://mmlc.overdrive.com,"Mideastern Michigan Library Cooperative",24228,2098,21946,184,0
+https://jericholibrary.overdrive.com,"Jericho Public Library",24222,3538,20683,1,0
+https://msmc.overdrive.com,"Mount Saint Mary College",24221,21,24200,0,0
+https://pinnacle.overdrive.com,"Pinnacle Digital Consortium",23996,5847,18149,0,0
+https://highplains.overdrive.com,"High Plains Library District",23868,7887,15981,0,0
+https://mrcc.overdrive.com,"Mildura Rural City Council Library Service",23812,56,23756,0,0
+https://woodlands.overdrive.com,"Woodlands Library Cooperative",23757,4221,19536,0,0
+https://ryde.overdrive.com,"City of Ryde Library",23727,1433,22294,0,0
+https://southtexas.overdrive.com,"South Texas Library System",23717,3043,20524,150,0
+https://coloradodc.overdrive.com,"Across Colorado Digital Consortium",23704,5083,17573,542,506
+https://myjdl.overdrive.com,"Jackson District Library",23593,5091,18502,0,0
+https://pas-gdl.overdrive.com,"Pasadena/Glendale Digital Library",23491,5388,18044,59,0
+https://abilene.overdrive.com,"Abilene PL & Tom Green CL",23424,5098,18324,2,0
+https://burlington.overdrive.com,"Burlington County Library System",23406,6808,15941,657,0
+https://swvapub.overdrive.com,"Southwest Virginia Public Libraries",23369,6321,17048,0,0
+https://arlingtontx.overdrive.com,"Arlington Public Library",23368,7113,16255,0,0
+https://burnaby.overdrive.com,"Burnaby Public Library",22894,5706,17188,0,0
+https://greenvillesc.overdrive.com,"Greenville County Library System",22883,0,22858,25,0
+https://hendersonlibraries.overdrive.com,"Henderson Libraries",22851,5172,16531,0,1148
+https://alliance.overdrive.com,"Alliance Digital Media Library",22798,2259,20537,2,0
+https://fuelyourmind.overdrive.com,"White Pine Library Cooperative",22779,4291,18486,2,0
+https://birmingham-uk.overdrive.com,"Birmingham Libraries",22730,33,22697,0,0
+https://ecrl.overdrive.com,"East Central Regional Library",22614,4519,18060,35,0
+https://edownload.overdrive.com,"Lambton County Library",22536,3760,18698,78,0
+https://lplelibrary.overdrive.com,"Laredo Public Library",22501,0,22501,0,0
+https://ntrls.overdrive.com,"North Texas Libraries on the Go",22405,5302,17103,0,0
+https://boroondara.overdrive.com,"Boroondara Library Service",22396,2198,20198,0,0
+https://hepl.overdrive.com,"Hamilton East Public Library",22332,6379,15953,0,0
+https://lakeland.overdrive.com,"Lakeland Library Cooperative",22213,5599,16214,400,0
+https://kern.overdrive.com,"Kern County Library",22111,3955,18156,0,0
+https://garlandcounty.overdrive.com,"Garland County Library",22020,3626,18394,0,0
+https://librariesunlimited.overdrive.com,"Libraries Unlimited",21881,3507,18368,6,0
+https://fvrl.overdrive.com,"Fraser Valley Regional Library",21877,2856,19021,0,0
+https://brdc.overdrive.com,"Blue Ridge Download Consortium",21877,5778,15770,329,0
+https://cobbcounty.overdrive.com,"Cobb County Public Library System",21795,5985,15257,553,0
+https://centralpalibraries.overdrive.com,"Central PA Libraries",21699,3509,18190,0,0
+https://bnllux.overdrive.com,"National Library of Luxembourg",21664,684,20980,0,0
+https://brantford.overdrive.com,"Brantford Public Library",21631,4866,16765,0,0
+https://wakegov.overdrive.com,"Wake County Public Libraries",21612,6983,14180,0,449
+https://larl.overdrive.com,"Lake Agassiz Regional Library",21567,3299,18268,0,0
+https://charlestoncounty.overdrive.com,"Charleston County Public Library System",21466,5669,15797,0,0
+https://wichita.overdrive.com,"Wichita Public Library",21333,1040,20293,0,0
+https://elibrary.overdrive.com,"Newfoundland & Labrador Public Libraries",21292,2979,18291,22,0
+https://meridian.overdrive.com,"Meridian Library District",21023,5110,15913,0,0
+https://yprl.overdrive.com,"Yarra Plenty Regional Library",20959,2074,18885,0,0
+https://oxfordshire.overdrive.com,"Oxfordshire County Council",20862,2183,18679,0,0
+https://ecat.overdrive.com,"Sarasota County Libraries",20831,5559,15272,0,0
+https://sapl.overdrive.com,"St. Albert Public Library",20805,2169,18636,0,0
+https://whitby.overdrive.com,"Whitby Public Library",20584,2231,18353,0,0
+https://princewilliam.overdrive.com,"Prince William Public Library System",20532,4056,16476,0,0
+https://fortbend.overdrive.com,"Fort Bend County Libraries",20496,6300,14196,0,0
+https://suffolklibraries.overdrive.com,"Suffolk Libraries",20402,2830,17572,0,0
+https://libraryconnection.overdrive.com,"Library Connection, Inc.",20291,4738,13428,661,1464
+https://reading.overdrive.com,"Reading Public Library",20232,1389,18500,343,0
+https://lbpl.overdrive.com,"Long Beach Public Library",20201,6043,14158,0,0
+https://pclc.overdrive.com,"Polk County Library Cooperative",20136,1621,18228,287,0
+https://chinookarch.overdrive.com,"Chinook Arch Regional Library System",19929,2940,16985,4,0
+https://aberdeenshirelibraries.overdrive.com,"Aberdeenshire Library and Information Service",19879,2049,17830,0,0
+https://librariesniuk.overdrive.com,"Libraries NI",19836,4008,15828,0,0
+https://scdl.overdrive.com,"Southern California Digital Library",19831,4915,14654,262,0
+https://huntington.overdrive.com,"Huntington Public Library",19799,5594,13898,307,0
+https://slc.overdrive.com,"Suburban Library Cooperative",19794,3039,16722,33,0
+https://princetonlibrary.overdrive.com,"Princeton Public Library",19744,2842,16902,0,0
+https://avalonfreelibrary.overdrive.com,"Avalon Free Public Library",19697,2472,17225,0,0
+https://prl.overdrive.com,"Pamunkey Regional Library",19593,2657,16936,0,0
+https://virl.overdrive.com,"Vancouver Island Regional Library",19567,3933,15634,0,0
+https://mhls.overdrive.com,"Mid-Hudson Library System",19555,4875,14171,509,0
+https://mrspl.overdrive.com,"Mary Riley Styles Public Library",19538,4689,14849,0,0
+https://ctdl.overdrive.com,"Central Texas Digital Consortium",19505,3253,14970,92,1190
+https://sjcpls.overdrive.com,"St. Johns County Public Library",19465,1428,18037,0,0
+https://aurora.overdrive.com,"Aurora Public Library",19463,4078,15385,0,0
+https://oceancity.overdrive.com,"Ocean City Free Public Library",19372,2574,16798,0,0
+https://gwinnett.overdrive.com,"Gwinnett County Public Library",19170,5394,13411,326,39
+https://ylpl.overdrive.com,"Yorba Linda Public Library",19138,4629,13911,598,0
+https://shortgrass.overdrive.com,"Shortgrass Library System",19124,1540,17584,0,0
+https://ccls.overdrive.com,"Chautauqua-Cattaraugus Library System",19000,4135,14364,0,501
+https://warrenpl.overdrive.com,"Warren County Public Library",18979,6214,12720,45,0
+https://westtexas.overdrive.com,"West Texas Digital Consortium",18872,1926,16904,42,0
+https://dubuque.overdrive.com,"Carnegie-Stout Public Library",18639,5800,12066,773,0
+https://librarypoint.overdrive.com,"Central Rappahannock Regional Library",18630,4946,13684,0,0
+https://aurorapubliclibrary.overdrive.com,"Aurora Public Library",18505,1397,17108,0,0
+https://selco.overdrive.com,"Southeastern Libraries Cooperating",18417,3683,14734,0,0
+https://kobe.overdrive.com,"Kobe City Library",18395,64,18331,0,0
+https://triparish.overdrive.com,"Tri-Parish E-Library",18299,1221,16262,816,0
+https://hornsby.overdrive.com,"Hornsby Shire Library & Information Service",18224,1841,16382,0,0
+https://cin.overdrive.com,"Cooperative Information Network",18214,3626,14588,0,0
+https://mylakelibrary.overdrive.com,"Lake County Library System",18178,1695,16318,165,0
+https://cldl.overdrive.com,"Allentown Public Library",18173,2614,15559,0,0
+https://sabah.overdrive.com,"Sabah State Library",18075,2514,15370,191,0
+https://santamonica.overdrive.com,"Santa Monica Public Library",18054,6035,12019,0,0
+https://mlcstl.overdrive.com,"Municipal Library Consortium of St. Louis County",17936,5106,12830,0,0
+https://collier.overdrive.com,"Collier County Public Library",17867,4494,13373,0,0
+https://lion.overdrive.com,"LION: Libraries Online",17741,4795,12946,0,0
+https://liverpool.overdrive.com,"Liverpool Libraries and Information Service",17666,3107,14559,0,0
+https://nmbm.overdrive.com,"Nelson Mandela Bay Municipality",17619,3801,13025,793,0
+https://penrith.overdrive.com,"Penrith City Library",17608,4644,12964,0,0
+https://griver.overdrive.com,"Great River Regional Library",17482,3119,14363,0,0
+https://yln.overdrive.com,"Yavapai Library Network",17317,5389,11928,0,0
+https://silverstarcoop.overdrive.com,"Nevada Library Cooperative",17296,3430,13092,305,469
+https://idahodigital.overdrive.com,"Idaho Digital Consortium",17200,1784,15405,11,0
+https://tularecounty.overdrive.com,"Tulare County Library",17043,4272,12771,0,0
+https://lubbock.overdrive.com,"Lubbock Public Library",17015,4414,12504,97,0
+https://lonestardigitalibrary.overdrive.com,"Lone Star Digital Library",16970,2556,14174,240,0
+https://thelosc.overdrive.com,"Libraries of Stevens County",16887,4132,12755,0,0
+https://novascotia-annapolisvalley.overdrive.com,"Nova Scotia Public Libraries",16808,1829,14979,0,0
+https://stratford.overdrive.com,"Stratford Library Association",16754,1895,14835,24,0
+https://novascotia.overdrive.com,"Nova Scotia Public Libraries",16717,1773,14944,0,0
+https://pwdl.overdrive.com,"Piney Woods Digital Consortium",16659,1279,15246,134,0
+https://westlake.overdrive.com,"Westlake Porter Public Library",16605,3806,12799,0,0
+https://kumagayacity.overdrive.com,"Kumagaya City Library",16598,0,16598,0,0
+https://northyorks.overdrive.com,"North Yorkshire Libraries",16582,2058,14524,0,0
+https://lclshome.overdrive.com,"Lackawanna County Library System",16547,3492,13055,0,0
+https://ebranch2go.overdrive.com,"eBranch2Go",16535,3855,12680,0,0
+https://serra.overdrive.com,"Serra Cooperative Library System",16535,4246,12289,0,0
+https://palmbeach.overdrive.com,"Palm Beach County Library System",16529,0,16529,0,0
+https://wbrl.overdrive.com,"Wood Buffalo Regional Library",16500,2914,13586,0,0
+https://mohave.overdrive.com,"Mohave County Library District",16400,4723,11677,0,0
+https://mobius.overdrive.com,"MOBIUS Consortium",16386,4821,11531,34,0
+https://bpls.overdrive.com,"Beaumont Public Library System",16362,3255,13107,0,0
+https://smdl.overdrive.com,"Southwest Michigan Library Cooperative",16303,2824,13190,289,0
+https://washington.overdrive.com,"Washington County Library",16178,0,16178,0,0
+https://nm.overdrive.com,"New Mexico Library To Go",16140,2865,13238,37,0
+https://sovalue.overdrive.com,"Southern Virginia Libraries United Electronically",16069,2369,13143,557,0
+https://rdpl.overdrive.com,"Red Deer Public Library",16027,2391,13636,0,0
+https://everett.overdrive.com,"Everett Public Library",15985,3725,11934,0,326
+https://vaughanpl.overdrive.com,"Vaughan Public Libraries",15974,3923,12043,8,0
+https://barnet.overdrive.com,"London Borough of Barnet",15826,1690,14136,0,0
+https://rvl.overdrive.com,"Roanoke Valley Libraries",15791,1721,14070,0,0
+https://pnm.overdrive.com,"National Library of Malaysia",15664,870,14113,681,0
+https://gotlib.overdrive.com,"Biblioteken i Göteborg",15645,3228,12417,0,0
+https://princeton.overdrive.com,"Princeton University",15629,3287,12342,0,0
+https://greatnecklibrary.overdrive.com,"Great Neck Library",15626,2598,13028,0,0
+https://novel.overdrive.com,"Upper North Island",15556,2217,13312,27,0
+https://cvl.overdrive.com,"Chattahoochee Valley Libraries",15555,34,15521,0,0
+https://tadl.overdrive.com,"Traverse Area District Library",15544,2569,12975,0,0
+https://springfield.overdrive.com,"Springfield-Greene County Library",15503,6043,9289,171,0
+https://camdigital.overdrive.com,"Camarillo Public Library",15378,2612,12765,1,0
+https://ssjcpl.overdrive.com,"Stockton-San Joaquin County Public Library",15375,5250,10124,1,0
+https://gldl.overdrive.com,"Great Lakes Digital Libraries",15329,3602,11442,285,0
+https://chesapeake.overdrive.com,"Chesapeake Public Library System",15313,4521,10770,22,0
+https://irclibrary.overdrive.com,"Indian River County Library",15270,1965,13305,0,0
+https://okaloosa.overdrive.com,"Okaloosa County Public Library Cooperative",15269,3630,11639,0,0
+https://ebonnerlibrary.overdrive.com,"East Bonner County Library District",15144,5724,9420,0,0
+https://clarkco.overdrive.com,"Charlestown Clark County Public Library",15086,1337,13749,0,0
+https://valnet.overdrive.com,"Valnet",14994,5110,9883,1,0
+https://yolocounty.overdrive.com,"Yolo County Library",14956,4106,10809,41,0
+https://bibliomontreal.overdrive.com,"Bibliothèques Montréal",14936,194,14742,0,0
+https://svlc.overdrive.com,"Southwest Valley Library Consortium",14792,1709,13083,0,0
+https://lancasterlibraries.overdrive.com,"Library System of Lancaster County",14528,2676,11852,0,0
+https://kfpl.overdrive.com,"Kingston Frontenac Public Library",14517,3264,11122,131,0
+https://darien.overdrive.com,"Darien Library",14404,2948,11455,1,0
+https://erielibrary.overdrive.com,"Erie County Public Library",14364,2078,12158,81,47
+https://peipls.overdrive.com,"Prince Edward Island Public Library Service",14291,3213,11078,0,0
+https://viax.overdrive.com,"Viax",14286,15,14271,0,0
+https://bartowlibrary.overdrive.com,"Bartow County Library System",14276,2936,11331,9,0
+https://lawrencepl.overdrive.com,"Lawrence Public Library",14034,4428,9606,0,0
+https://mvls.overdrive.com,"Mohawk Valley Library System",14017,3003,10739,0,275
+https://fourcounty.overdrive.com,"Four County Library System",13994,2026,11968,0,0
+https://tolibrary.overdrive.com,"Thousand Oaks Library System",13940,2400,10871,630,39
+https://citrus.overdrive.com,"Citrus County Library System",13857,2568,11289,0,0
+https://mcgill.overdrive.com,"McGill University Library",13850,2750,11012,88,0
+https://cocolib.overdrive.com,"Flagstaff City-Coconino County Public Library",13727,1393,12334,0,0
+https://wirral.overdrive.com,"Wirral Libraries",13695,1138,12557,0,0
+https://pickens.overdrive.com,"Pickens County Library System",13630,2859,10771,0,0
+https://listeneasternwv.overdrive.com,"Listen Eastern West Virginia",13608,3573,10035,0,0
+https://forsyth.overdrive.com,"Forsyth County Public Library",13428,797,12631,0,0
+https://myepl.overdrive.com,"Elkhart Public Library",13393,1821,11572,0,0
+https://northernbeacheslibraries.overdrive.com,"Northern Beaches Libraries",13372,2774,10507,25,66
+https://nnpls.overdrive.com,"Newport News Public Library System",13363,1945,11418,0,0
+https://glasgow.overdrive.com,"Glasgow Libraries",13357,1291,12066,0,0
+https://lccpl.overdrive.com,"Logansport-Cass County Public Library",13355,376,12979,0,0
+https://pvld.overdrive.com,"Palos Verdes Library District",13324,2107,11217,0,0
+https://lewisham.overdrive.com,"Lewisham Library and Information Service",13256,1987,11269,0,0
+https://yukon.overdrive.com,"Yukon Public Libraries",13251,1340,11911,0,0
+https://mooneevalley.overdrive.com,"Moonee Valley Libraries",13214,0,13214,0,0
+https://flint.overdrive.com,"Flint Public Library",13163,4151,9012,0,0
+https://nationalibqatar.libraryreserve.com,"Qatar National Library",13140,1362,11778,0,0
+https://plymouthuk.overdrive.com,"Plymouth Library Services",13138,1013,12125,0,0
+https://fselibrary.overdrive.com,"Free State Public Library System",13014,0,13014,0,0
+https://medway.overdrive.com,"Medway Council",12930,1442,11488,0,0
+https://northmankato.overdrive.com,"North Mankato Taylor Library",12772,1683,11076,13,0
+https://logan.overdrive.com,"Logan City Council",12765,1857,10851,57,0
+https://newcanaanlibrary.overdrive.com,"New Canaan Library",12730,1042,11683,5,0
+https://wplibs.overdrive.com,"Western Plains Library System",12723,2601,10122,0,0
+https://portagelibrary.overdrive.com,"Portage County District Library",12715,2940,9775,0,0
+https://mln.overdrive.com,"Metro Library Network",12704,3930,8774,0,0
+https://muskingum.overdrive.com,"Muskingum County Library System",12671,2180,10491,0,0
+https://murraylibrary.overdrive.com,"Murray Library",12653,2668,9674,0,311
+https://westmoreland.overdrive.com,"Westmoreland eBook Network",12609,1966,10416,227,0
+https://avon.overdrive.com,"Avon-Washington Township Public Library",12591,2183,10408,0,0
+https://orlandparklibrary.overdrive.com,"Orland Park Public Library",12562,1410,11152,0,0
+https://mymanatee.overdrive.com,"Manatee County Public Library System",12493,1006,11487,0,0
+https://kurthmemorial.overdrive.com,"Kurth Memorial Library",12362,544,11375,443,0
+https://bibliomation.overdrive.com,"Bibliomation, Inc.",12309,2953,9356,0,0
+https://eodls.overdrive.com,"Eastern Oklahoma Library System",12308,2133,10175,0,0
+https://neflin.overdrive.com,"NEFLIN",12304,1415,10852,0,37
+https://mmpl.overdrive.com,"Moore Memorial Public Library",12295,1680,10615,0,0
+https://lamb.overdrive.com,"New Castle District Library Center",12170,1746,10424,0,0
+https://metronet.overdrive.com,"Metro Net Library Consortium",12145,3222,8921,2,0
+https://stamford.overdrive.com,"The Ferguson Library",12074,1124,10920,30,0
+https://leicesteruk.overdrive.com,"Leicester Libraries",12053,909,11144,0,0
+https://senecalibraries.overdrive.com,"Seneca District Libraries",12049,845,11204,0,0
+https://tds.overdrive.com,"Traverse des Sioux Library Cooperative",12048,2975,9005,68,0
+https://thehills.overdrive.com,"The Hills Library Service",11998,2255,9743,0,0
+https://westbanklibrary.overdrive.com,"Westbank Community Library District",11996,2976,9019,1,0
+https://fairfield.overdrive.com,"Fairfield Public Library",11981,2769,9204,8,0
+https://chcbl.overdrive.com,"Chattanooga Public Library",11951,3343,8608,0,0
+https://spokanelibrary.overdrive.com,"Spokane Public Library",11932,42,11890,0,0
+https://jclibrary.overdrive.com,"Jersey City Free Public Library",11906,1243,10598,65,0
+https://detroitpubliclibrary.overdrive.com,"Detroit Public Library",11864,2802,9062,0,0
+https://sutherland.overdrive.com,"Sutherland Shire Council",11854,3021,8833,0,0
+https://otpls.overdrive.com,"Newburgh Chandler Public Library",11821,2569,9252,0,0
+https://telaviv.libraryreserve.com,"Israel Digital",11767,1703,10064,0,0
+https://twpdistrict214.libraryreserve.com,"Township High School District 214",11750,647,11103,0,0
+https://ereolenglobal.overdrive.com,"eReolen Global",11679,3482,8195,2,0
+https://jarfalla.overdrive.com,"Jarfalla Library",11660,2807,8853,0,0
+https://elibrary247.overdrive.com,"eLibrary 24/7",11601,601,11000,0,0
+https://southisland.overdrive.com,"South Island",11597,1873,9724,0,0
+https://salon.overdrive.com,"Southern Adirondack Library System",11545,3549,7996,0,0
+https://myapl.overdrive.com,"Ascension Parish Library",11399,2584,8814,1,0
+https://ncdl.overdrive.com,"Northern California Digital Library",11388,4920,6468,0,0
+https://bigcountry.overdrive.com,"Big Country Library System",11375,2001,9295,79,0
+https://kingabdula.libraryreserve.com,"King Abdulaziz Center eLibrary - download eBooks, audiobooks and more.",11350,1164,10186,0,0
+https://unioncounty.overdrive.com,"Union County Public Library",11349,2064,9285,0,0
+https://elibrarybw.overdrive.com,"Büchereien Wien",11306,602,10704,0,0
+https://ccld.overdrive.com,"Cochise County Library District",11284,1020,10264,0,0
+https://richardson.overdrive.com,"Richardson Public Library",11279,1955,9324,0,0
+https://santaanapubliclibrary.overdrive.com,"Santa Ana Public Library",11240,436,10485,319,0
+https://riopl.overdrive.com,"Rio Rancho Public Library",11240,3332,7908,0,0
+https://yclibrary.overdrive.com,"York County Library",11233,2161,9072,0,0
+https://baycountylibrary.overdrive.com,"Bay County Library System",11209,2053,9156,0,0
+https://swbocesny.libraryreserve.com,"SW BOCES School Library System",11192,885,10303,0,0
+https://mcallen.overdrive.com,"McAllen Public Library",11191,1571,9620,0,0
+https://cfwpl.overdrive.com,"Cedar Falls and Waterloo Public Libraries",11182,2192,8672,318,0
+https://hkpl.overdrive.com,"Hong Kong Public Libraries (HKPL)",11178,19,11159,0,0
+https://wtcpl.overdrive.com,"Warren-Trumbull County Public Library",11129,0,11129,0,0
+https://dorchesterlibrarysc.overdrive.com,"Dorchester County Library System",11123,1375,9748,0,0
+https://elibraryhh.overdrive.com,"Bücherhallen Hamburg",11018,2503,8373,142,0
+https://ypl.overdrive.com,"Yellowknife Public Library",11013,1689,9324,0,0
+https://dmz.overdrive.com,"DMZ: Digital Media Zone",10937,3734,7168,35,0
+https://midnorthcoast.overdrive.com,"Mid North Coast Library Service",10929,279,10650,0,0
+https://randwick.overdrive.com,"Randwick City Library Services",10887,1310,9577,0,0
+https://pioneerland.overdrive.com,"Pioneerland Library System",10866,1811,9029,0,26
+https://laurellibrary.overdrive.com,"Laurel County Public Library",10804,2913,7861,30,0
+https://edinburgh.overdrive.com,"Edinburgh Libraries",10711,2024,8687,0,0
+https://ccpls.overdrive.com,"Campbell County Public Library",10702,3350,7010,342,0
+https://brisbanecaau.libraryreserve.com,"Brisbane Catholic Education",10675,1094,9555,0,0
+https://nafcpl.overdrive.com,"Floyd County Public Library",10669,1550,9119,0,0
+https://clcn.overdrive.com,"Capital Library",10555,1600,8955,0,0
+https://rivershare.overdrive.com,"RiverShare Library System",10542,754,9788,0,0
+https://blacktown.overdrive.com,"Blacktown City Libraries",10537,348,10189,0,0
+https://sefl-municipal.overdrive.com,"Southeast Florida Library Association",10517,910,9561,46,0
+https://brownsburg.overdrive.com,"Brownsburg Public Library",10515,1750,8765,0,0
+https://northcountrylibraries.overdrive.com,"North Country Library System",10507,2106,7903,0,498
+https://nioga.overdrive.com,"Nioga Library System",10481,783,9694,4,0
+https://vapld.overdrive.com,"Vernon Area Public Library District",10462,420,10042,0,0
+https://yorkcountyva.overdrive.com,"York County Public Library",10451,1885,8566,0,0
+https://fclspa.overdrive.com,"Franklin County Library System",10441,944,9497,0,0
+https://vikingdigitallibrary.overdrive.com,"Viking Library System",10364,2148,8216,0,0
+https://oberlinpl.overdrive.com,"Oberlin Public Library",10352,1211,9141,0,0
+https://midland-mi.overdrive.com,"Grace A. Dow Memorial Library",10335,1169,9166,0,0
+https://nu.overdrive.com,"Northwest University",10311,2,10309,0,0
+https://indietexas.overdrive.com,"North Texas Independent Digital Consortium",10268,502,9725,41,0
+https://palsplus.overdrive.com,"PALS Plus NJ OverDrive Library",10246,1021,9225,0,0
+https://leoncounty.overdrive.com,"LeRoy Collins Leon County Public Library System",10168,3640,6472,56,0
+https://sjrlc.overdrive.com,"South Jersey Regional Library Cooperative",10067,3136,6931,0,0
+https://cookmemorial.overdrive.com,"Cook Memorial Public Library",10041,2112,7929,0,0
+https://rbwm.overdrive.com,"Royal Borough of Windsor & Maidenhead",9948,1039,8909,0,0
+https://brimbanklibraries.overdrive.com,"Brimbank Libraries",9925,213,9712,0,0
+https://digibel.overdrive.com,"Busan English Library",9890,1464,8426,0,0
+https://norwalk.overdrive.com,"Norwalk Public Library",9730,451,9279,0,0
+https://lacoe.overdrive.com,"Los Angeles County Office of Education",9681,1033,8635,13,0
+https://sequoyah.overdrive.com,"Sequoyah Regional Library System",9628,2598,7030,0,0
+https://keyslibraries.overdrive.com,"Monroe County Public Library",9624,1569,8055,0,0
+https://waggin.overdrive.com,"Washington District Libraries",9617,1591,8026,0,0
+https://wml.overdrive.com,"Whitehorse Manningham Regional Library Corporation",9611,809,8802,0,0
+https://hawkesbury.overdrive.com,"Hawkesbury Library Service",9578,566,9012,0,0
+https://scl.overdrive.com,"Sunshine Coast Libraries",9538,2049,7489,0,0
+https://dlrcoco.overdrive.com,"Dun Laoghaire-Rathdown County Council Public Library Service",9518,2862,6451,205,0
+https://fullerton.overdrive.com,"Fullerton Public Library",9507,2459,7048,0,0
+https://gauteng.overdrive.com,"Gauteng Provincial Library Service",9496,939,8539,18,0
+https://parishepiscoptx.libraryreserve.com,"Parish Episcopal School",9323,369,8954,0,0
+https://palmspringslibrary.overdrive.com,"Palm Springs Public Library",9247,2637,6610,0,0
+https://wpl.overdrive.com,"Westchester Public Library",9127,1644,7483,0,0
+https://e-stockton.overdrive.com,"Stockton-on-Tees Libraries",9106,808,8298,0,0
+https://wppl.overdrive.com,"Winter Park Public Library",9054,1423,7631,0,0
+https://maltalibraries.overdrive.com,"Malta Libraries",9006,486,8044,68,408
+https://srlsinfo.overdrive.com,"Sandhill Regional Library System",8960,514,8436,10,0
+https://eastsussexlibrary.overdrive.com,"East Sussex County Council",8914,703,8211,0,0
+https://buenapark.overdrive.com,"Buena Park Library District",8835,715,8120,0,0
+https://acld.overdrive.com,"Apache County Library District",8800,1390,7281,129,0
+https://roundrock.overdrive.com,"Round Rock Public Library System",8796,167,8629,0,0
+https://oilcreek.overdrive.com,"Oil Creek Library District",8743,943,7800,0,0
+https://richmondpubliclibrary.overdrive.com,"Richmond Public Library",8690,183,8507,0,0
+https://first.overdrive.com,"First Regional Library",8687,2471,6150,66,0
+https://georgesriver.overdrive.com,"Georges River Council Library",8669,1609,7014,46,0
+https://tangilibrary.overdrive.com,"Tangipahoa Parish Library",8659,0,8659,0,0
+https://hclibrary.overdrive.com,"Hunterdon County Library",8645,2847,5798,0,0
+https://livermore.overdrive.com,"Livermore Public Library",8641,2757,5884,0,0
+https://southeasternok.overdrive.com,"Southeastern Public Library System of Oklahoma",8588,0,8588,0,0
+https://seminolecofl.libraryreserve.com,"Seminole County Public Schools",8519,794,7723,0,0
+https://camdenlibrary.overdrive.com,"London Borough of Camden",8458,188,8270,0,0
+https://centralcoast.overdrive.com,"Central Coast Library Service",8386,1379,7007,0,0
+https://sbpl.overdrive.com,"San Bernardino Public Library",8289,1050,7239,0,0
+https://qroc.overdrive.com,"Queensland Regional OverDrive Consortium",8169,865,7304,0,0
+https://lclibs.overdrive.com,"Lebanon County Libraries",8142,642,7500,0,0
+https://cumberland.overdrive.com,"Cumberland Council Libraries",8062,699,7362,1,0
+https://msl.overdrive.com,"Microsoft Library",8040,1280,6760,0,0
+https://eastonpl.overdrive.com,"Easton Area Public Library",7903,0,7903,0,0
+https://helmet.overdrive.com,"Helsinki City Library",7887,1173,6670,44,0
+https://roswellnm.overdrive.com,"Roswell Public Library",7885,1616,6269,0,0
+https://yorklibraries.overdrive.com,"York Libraries",7763,2436,5327,0,0
+https://americanscnl.libraryreserve.com,"American School of the Hague",7684,2206,5374,0,0
+https://lbrut.overdrive.com,"London Borough of Richmond upon Thames",7677,1291,6386,0,0
+https://richmondlibrary.overdrive.com,"Richmond Public Library",7651,1801,5849,1,0
+https://burbank.overdrive.com,"Burbank Public Library",7608,2280,5309,19,0
+https://cpcregional.overdrive.com,"Craven-Pamlico-Carteret Regional Library",7578,1658,5920,0,0
+https://scenicregional.overdrive.com,"Scenic Regional Library",7563,1945,5618,0,0
+https://brant.overdrive.com,"County of Brant Public Library",7511,1638,5873,0,0
+https://bportlibrary.overdrive.com,"Bridgeport Public Library",7434,1697,5737,0,0
+https://rafbokasafnid.overdrive.com,"Rafbókasafnið",7410,1623,5787,0,0
+https://act.overdrive.com,"ACT Library & Information Service",7403,1904,5499,0,0
+https://gptx.overdrive.com,"Grand Prairie Public Library System",7369,897,6472,0,0
+https://hct.overdrive.com,"Higher Colleges of Technology",7336,978,6244,114,0
+https://bcsdmc.overdrive.com,"Bryan and College Station Public Library System",7314,1182,6132,0,0
+https://stlucieco.overdrive.com,"St. Lucie County Library System",7292,121,7171,0,0
+https://sanleandrolibrary.overdrive.com,"San Leandro Public Library",7270,1467,5803,0,0
+https://sp.overdrive.com,"Singapore Polytechnic",7241,213,7000,28,0
+https://cefls.overdrive.com,"Clinton Essex Franklin Library System",7187,605,6582,0,0
+https://lltc.overdrive.com,"Little Libraries That Could",7138,104,7034,0,0
+https://dundeecity.overdrive.com,"Leisure and Culture Dundee",7098,972,6126,0,0
+https://hwdsbca.libraryreserve.com,"Hamilton-Wentworth District School Board",7090,727,6354,0,0
+https://cpls.overdrive.com,"Coweta Public Library System",7059,631,6406,22,0
+https://saginawlibrary.overdrive.com,"Public Libraries of Saginaw",7015,1496,5519,0,0
+https://waverley.overdrive.com,"Waverley Library",7009,1611,5398,0,0
+https://fmb.overdrive.com,"Fort Myers Beach Public Library",6992,0,6992,0,0
+https://kuna.overdrive.com,"Kuna District Library",6987,2055,4932,0,0
+https://libriid.overdrive.com,"LIBRI System, Inc.",6961,257,6700,4,0
+https://dliflc.overdrive.com,"Defense Language Institute",6936,885,5051,1000,0
+https://virtualbpld.overdrive.com,"Bartlett Public Library",6933,1222,5711,0,0
+https://stclaircounty.overdrive.com,"Saint Clair County Library",6901,1955,4946,0,0
+https://bexley.overdrive.com,"London Borough of Bexley",6873,946,5875,52,0
+https://realtor.overdrive.com,"National Association of REALTORS®",6863,1411,5445,7,0
+https://harryda.overdrive.com,"Biblioteken i Härryda kommun",6801,974,5827,0,0
+https://sanfe.overdrive.com,"Santa Fe Public Library",6734,2171,4563,0,0
+https://kindai.libraryreserve.com,"近畿大学図書館",6705,0,6705,0,0
+https://plumcreeklibrary.overdrive.com,"Plum Creek Library System",6701,945,5756,0,0
+https://taipei.overdrive.com,"Taipei Public Library",6679,998,5582,99,0
+https://scw.overdrive.com,"Sun City West - R. H. Johnson Library",6650,915,5735,0,0
+https://southtyneside.overdrive.com,"South Tyneside Libraries",6609,183,6426,0,0
+https://palmetto.overdrive.com,"Palmetto Library Consortium",6601,1859,4741,1,0
+https://bocalibrary.overdrive.com,"Boca Raton Public Library",6585,1206,5128,251,0
+https://anan.overdrive.com,"Anan City Library",6520,47,6473,0,0
+https://gcldaz.overdrive.com,"Gila County Library District",6519,593,5926,0,0
+https://claytonnc.overdrive.com,"Hocutt Ellington Memorial Library",6489,263,6212,14,0
+https://jcsp.libraryreserve.com,"JCSP Library Project",6437,819,5605,0,0
+https://beaverlibraries.overdrive.com,"Beaver County Library System",6423,948,5273,202,0
+https://jefflibrary.overdrive.com,"Jeffersonville Township Public Library",6421,1335,5086,0,0
+https://renfrewshire.overdrive.com,"Renfrewshire Libraries",6387,1078,5304,5,0
+https://jdcpl.overdrive.com,"Jasper Dubois County Contractual Public Library",6372,1042,5330,0,0
+https://haltondsbca.libraryreserve.com,"Halton District School Board",6364,846,5518,0,0
+https://portphillip.overdrive.com,"Port Phillip Library Service",6342,115,6227,0,0
+https://byu.overdrive.com,"Brigham Young University",6314,2873,3441,0,0
+https://south-ayrshire.overdrive.com,"South Ayrshire Libraries",6313,1149,5164,0,0
+https://nwrls.overdrive.com,"Northwest Regional Library System",6236,1678,4558,0,0
+https://prairiestate.overdrive.com,"Prairie State College",6194,237,5957,0,0
+https://listening-books.overdrive.com,"Listening Books",6158,6128,30,0,0
+https://bnl.overdrive.com,"Bermuda National Library",6125,671,5454,0,0
+https://sandoval.overdrive.com,"Sandoval County Library Consortium",6079,1387,4656,36,0
+https://ebookssjclibrary.overdrive.com,"San Juan Community Library",6049,121,5925,3,0
+https://uj.overdrive.com,"University of Johannesburg",6045,241,5804,0,0
+https://jessiehallett.overdrive.com,"Jessie F. Hallett Memorial Library",6034,1028,5006,0,0
+https://mpkdigital.overdrive.com,"Moorpark City Library",5996,227,5769,0,0
+https://virtualmoreland.overdrive.com,"Moreland City Libraries",5991,0,5991,0,0
+https://blackpool.overdrive.com,"Blackpool Libraries",5912,697,5215,0,0
+https://mercedcountylibrary.overdrive.com,"Merced County Library",5909,458,5354,99,0
+https://occc.overdrive.com,"Oklahoma City Community College",5888,1087,4801,0,0
+https://iedigital.overdrive.com,"Riverside County Library System",5856,554,5302,0,0
+https://ausdldemo.libraryreserve.com,"Softlink",5833,1081,4476,0,0
+https://emcfl.overdrive.com,"Monterey County Free Libraries",5821,1877,3944,0,0
+https://cne-siar.overdrive.com,"Western Isles Libraries",5798,0,5798,0,0
+https://yspubliclib.overdrive.com,"Songdo International Children's Library",5790,34,5756,0,0
+https://sz.overdrive.com,"Shenzhen Library (深圳图书馆)",5770,492,5278,0,0
+https://rml.overdrive.com,"Rancho Mirage Public Library",5730,0,5730,0,0
+https://bhpl.overdrive.com,"Beverly Hills Public Library",5672,918,3812,942,0
+https://vppl.overdrive.com,"Virginia Piedmont Public Libraries",5670,1220,4424,26,0
+https://emagnolia.overdrive.com,"Magnolia eLibrary",5665,596,5056,13,0
+https://asub.overdrive.com,"Arkansas State University - Beebe",5591,244,5347,0,0
+https://douglasbcuk.overdrive.com,"Douglas Borough Council",5578,630,4948,0,0
+https://ncc.overdrive.com,"Nassau Community College",5570,179,5391,0,0
+https://ak.overdrive.com,"Arbeiterkammer",5557,4938,248,0,371
+https://mcls.overdrive.com,"Madison County Library System",5513,1631,3882,0,0
+https://northwoodny.libraryreserve.com,"Northwood School",5511,136,5332,0,0
+https://npl.overdrive.com,"Nacogdoches Public Library",5494,785,4709,0,0
+https://penang.overdrive.com,"Penang Digital Library",5453,177,5276,0,0
+https://sewanee.overdrive.com,"University of the South",5375,595,4779,1,0
+https://nwrlib.overdrive.com,"Northwest Regional Library System",5369,1228,4141,0,0
+https://jctclearningcommons.overdrive.com,"Jefferson Community and Technical College",5355,529,4826,0,0
+https://waukegan.overdrive.com,"Waukegan Public Library",5346,0,5346,0,0
+https://hancockcollege.overdrive.com,"Allan Hancock Community College",5323,406,4907,10,0
+https://tbldc.overdrive.com,"Tarrant County Churches Digital Consortium",5285,320,4961,4,0
+https://hancock.overdrive.com,"Hancock County Library System",5262,1264,3998,0,0
+https://ebooksusa.overdrive.com,"U.S. Embassy Berlin",5258,698,4555,5,0
+https://valley.overdrive.com,"Bethlehem Area Public Library",5240,965,4275,0,0
+https://emedia.overdrive.com,"Bibliothèques des banlieues de l’Île de Montréal",5212,1275,3937,0,0
+https://owen.overdrive.com,"Owen County Public Library",5203,1344,3859,0,0
+https://smsa.overdrive.com,"Sydney Mechanics' School of Arts",5191,455,4736,0,0
+https://harkerca.libraryreserve.com,"The Harker School",5175,1115,4060,0,0
+https://mlpebooks.overdrive.com,"Mississippi eBook Library Partnership",5134,518,4616,0,0
+https://mayvillestate.overdrive.com,"Mayville State University",5118,182,4936,0,0
+https://edmontonca.libraryreserve.com,"Edmonton Public Schools",5055,298,4757,0,0
+https://salinaspubliclibrary.overdrive.com,"Salinas Public Library",5037,994,4043,0,0
+https://sh.overdrive.com,"Shanghai Library (上海图书馆)",5030,801,4229,0,0
 https://uws.overdrive.com,"Western Sydney University",5007,855,4036,116,0
-https://dliflc.overdrive.com,"Defense Language Institute",4992,674,3362,956,0
-https://bhpl.overdrive.com,"Beverly Hills Public Library",4991,840,3258,893,0
-https://torbay.overdrive.com,"Torbay Libraries",4988,861,4127,0,0
-https://hkpl.overdrive.com,"Hong Kong Public Libraries (HKPL)",4987,0,4987,0,0
-https://acfpl.overdrive.com,"Atlantic City Free Public Library",4954,862,4092,0,0
-https://bnl.overdrive.com,"Bermuda National Library",4928,493,4435,0,0
-https://randolph.overdrive.com,"Randolph County Public Library",4905,0,4905,0,0
-https://nwrlib.overdrive.com,"Northwest Regional Library System",4905,1071,3834,0,0
-https://gptx.overdrive.com,"Grand Prairie Public Library System",4894,217,4677,0,0
-https://centralcoast.overdrive.com,"Central Coast Library Service",4892,512,4380,0,0
-https://kuna.overdrive.com,"Kuna District Library",4889,1290,3599,0,0
-https://emagnolia.overdrive.com,"Magnolia eLibrary",4884,465,4412,7,0
-https://douglasbcuk.overdrive.com,"Douglas Borough Council",4851,501,4350,0,0
-https://rivershareacademic.overdrive.com,"RiverShare Academic Libraries",4831,52,4779,0,0
-https://sanleandrolibrary.overdrive.com,"San Leandro Public Library",4752,965,3787,0,0
-https://georgetowncollege.overdrive.com,"Georgetown College",4745,17,4610,118,0
-https://trails.overdrive.com,"TRAILS",4742,30,4712,0,0
-https://birmingham-uk.overdrive.com,"Birmingham Libraries",4719,0,4719,0,0
-https://tbldc.overdrive.com,"Tarrant County Churches Digital Consortium",4701,255,4442,4,0
-https://smsa.overdrive.com,"Sydney Mechanics' School of Arts",4689,345,4344,0,0
-https://mcls.overdrive.com,"Madison County Library System",4641,1350,3291,0,0
-https://ebooksusa.overdrive.com,"U.S. Embassy Berlin",4634,488,4141,5,0
-https://huntingdon.overdrive.com,"Huntingdon College",4605,4,4601,0,0
-https://npl.overdrive.com,"Nacogdoches Public Library",4541,512,4029,0,0
-https://vppl.overdrive.com,"Virginia Piedmont Public Libraries",4513,935,3552,26,0
-https://owen.overdrive.com,"Owen County Public Library",4512,1115,3397,0,0
-https://sz.overdrive.com,"Shenzhen Library (深圳图书馆)",4499,374,4125,0,0
-https://rml.overdrive.com,"Rancho Mirage Public Library",4471,0,4471,0,0
-https://rmulibrary.overdrive.com,"Robert Morris University Illinois",4441,0,4441,0,0
-https://emedia.overdrive.com,"Bibliothèques des banlieues de l’Île de Montréal",4415,1159,3256,0,0
-https://geelong.overdrive.com,"Geelong Regional Library",4283,232,4041,10,0
-https://palsplus.overdrive.com,"PALS Plus NJ OverDrive Library",4210,701,3509,0,0
-https://sanibel.overdrive.com,"Sanibel Public Library",4187,323,3864,0,0
-https://waukegan.overdrive.com,"Waukegan Public Library",4031,0,4031,0,0
-https://valley.overdrive.com,"Bethlehem Area Public Library",4009,816,3193,0,0
-https://drcldc.overdrive.com,"Dallas/Rockwall Church Library Digital Collection",3968,432,3532,4,0
-https://emcfl.overdrive.com,"Monterey County Free Libraries",3954,1278,2676,0,0
-https://brrl.overdrive.com,"Blue Ridge Regional Library",3949,315,3634,0,0
-https://ald.overdrive.com,"Altadena Library District",3940,730,3210,0,0
-https://forestcity.overdrive.com,"Forest City",3918,24,3894,0,0
-https://rpl.overdrive.com,"Rapides Parish Library",3911,828,3064,19,0
-https://dorchesterlibrarysc.overdrive.com,"Dorchester County Library System",3909,693,3216,0,0
-https://sh.overdrive.com,"Shanghai Library (上海图书馆)",3903,713,3190,0,0
-https://orpl.overdrive.com,"Oak Ridge Public Library",3902,728,2201,973,0
-https://oconee.overdrive.com,"Oconee County Public Library",3828,620,3208,0,0
-https://altamonte.overdrive.com,"City of Altamonte Springs Library",3817,351,3466,0,0
-https://jessiehallett.overdrive.com,"Jessie F. Hallett Memorial Library",3779,637,3142,0,0
-https://mfo.overdrive.com,"Multinational Force and Observers",3735,513,3022,200,0
-https://cityofdarwin.overdrive.com,"Darwin City Council Libraries",3663,0,3663,0,0
-https://woollahra.overdrive.com,"Woollahra Library & Information Service",3658,683,2975,0,0
-https://mcdermott.overdrive.com,"University of Texas at Dallas",3656,1026,2630,0,0
-https://barnsley.overdrive.com,"Barnsley Libraries",3580,339,3241,0,0
-https://bentleydownload.overdrive.com,"Bentley University",3568,1460,2108,0,0
-https://salinaspubliclibrary.overdrive.com,"Salinas Public Library",3531,741,2790,0,0
-https://ypl.overdrive.com,"Yellowknife Public Library",3494,434,3060,0,0
-https://gplebooks.overdrive.com,"Gary Public Library",3464,615,2846,3,0
-https://dls.overdrive.com,"Defence Library Service",3459,738,2721,0,0
-https://mgccc.overdrive.com,"Mississippi Gulf Coast Community College",3435,370,3064,1,0
-https://lclibs.overdrive.com,"Lebanon County Libraries",3403,445,2958,0,0
-https://highlandparktexas.overdrive.com,"Highland Park Library",3390,1,3358,31,0
-https://dundeecity.overdrive.com,"Leisure and Culture Dundee",3386,887,2499,0,0
-https://eastonpl.overdrive.com,"Easton Area Public Library",3369,0,3369,0,0
-https://mlpebooks.overdrive.com,"Mississippi eBook Library Partnership",3335,153,3182,0,0
-https://argyllandbute.overdrive.com,"Argyll & Bute Libraries",3334,51,3283,0,0
-https://buenapark.overdrive.com,"Buena Park Library District",3313,554,2759,0,0
-https://southtyneside.overdrive.com,"South Tyneside Libraries",3309,145,3164,0,0
-https://hancock.overdrive.com,"Hancock County Library System",3286,573,2713,0,0
-https://iedigital.overdrive.com,"Riverside County Library System",3272,303,2969,0,0
-https://lacoe.overdrive.com,"Los Angeles County Office of Education",3236,429,2771,36,0
-https://palestine.overdrive.com,"Palestine Public Library",3140,418,2722,0,0
-https://tamus.overdrive.com,"Texas A&M University System Libraries",3118,267,2564,287,0
-https://westberks.overdrive.com,"West Berkshire Libraries",3110,465,2645,0,0
-https://collegedemo.overdrive.com,"OverDrive College Demo",3107,113,2611,383,0
-https://middlesbrough.overdrive.com,"Middlesbrough Council",3050,147,2903,0,0
-https://hempcolib.overdrive.com,"Hempstead County Library",3032,299,2720,13,0
-https://penang.overdrive.com,"Penang Digital Library",3024,76,2948,0,0
-https://haringey.overdrive.com,"London Borough of Haringey",3010,266,2744,0,0
-https://wild.overdrive.com,"Wilderness Coast Public Libraries",2968,374,2594,0,0
-https://ocnc.overdrive.com,"Orange County Public Library",2949,627,2322,0,0
-https://cfbc.overdrive.com,"Champion Forest Baptist Church",2882,270,2612,0,0
-https://fundacionepm.overdrive.com,"Fundación EPM-Red de Bibliotecas",2818,452,2366,0,0
-https://oilcreek.overdrive.com,"Oil Creek District Library Center",2815,518,2297,0,0
-https://maribyrnong.overdrive.com,"Maribyrnong Library Services",2773,0,2773,0,0
-https://udel.overdrive.com,"University of Delaware",2709,149,2558,2,0
-https://wauclib.overdrive.com,"Wauconda Area Public Library District",2691,357,2334,0,0
-https://kcpl.overdrive.com,"Knox County Public Library",2650,376,2154,120,0
-https://bld.overdrive.com,"Beaumont Library District",2646,101,2545,0,0
-https://ak.overdrive.com,"Arbeiterkammer",2637,2637,0,0,0
-https://crownpoint.overdrive.com,"Crown Point Community Public Library",2625,0,2625,0,0
-https://bismarckstate.overdrive.com,"Bismarck State College",2583,173,2396,14,0
-https://gatech.overdrive.com,"Georgia Tech Library",2574,0,2574,0,0
-https://uj.overdrive.com,"University of Johannesburg",2562,186,2376,0,0
-https://tri-c.overdrive.com,"Cuyahoga Community College",2561,116,2442,3,0
-https://malvernhsc.overdrive.com,"Malvern-Hot Spring County Library",2542,16,2526,0,0
-https://simbacqlm.overdrive.com,"Réseau BIBLIO CQLM",2526,122,2404,0,0
-https://swiss.overdrive.com,"EBOOKS SWITZERLAND",2441,246,2195,0,0
-https://downey.overdrive.com,"Downey City Library",2438,280,2158,0,0
-https://inverclydelibraries.overdrive.com,"Inverclyde Libraries",2437,448,1989,0,0
-https://acu.overdrive.com,"Australian Catholic University",2411,463,1948,0,0
-https://sanfe.overdrive.com,"Santa Fe Public Library",2407,645,1762,0,0
-https://jerseylibrary.overdrive.com,"States of Jersey",2405,163,2242,0,0
-https://rolfing.overdrive.com,"Trinity International University",2387,696,1691,0,0
-https://greenwoodsc.overdrive.com,"Greenwood County Library System",2385,246,2139,0,0
-https://vaski.overdrive.com,"Vaski/Turku City Library",2364,413,1951,0,0
-https://baysidelibrary.overdrive.com,"Bayside Library Service",2316,2,2314,0,0
-https://kleberglibrary.overdrive.com,"Robert J. Kleberg Public Library",2312,110,2148,54,0
-https://duke.overdrive.com,"Duke University",2307,1022,1285,0,0
-https://hoodcounty.overdrive.com,"Hood County Public Library",2294,835,1432,27,0
-https://mdc.overdrive.com,"Miami Dade College",2279,630,1649,0,0
-https://meridianlauderdale.overdrive.com,"Meridian-Lauderdale County Public Library",2241,66,2175,0,0
-https://joliet.overdrive.com,"Joliet Junior College",2223,984,1121,118,0
-https://middleburypubliclibrary.overdrive.com,"Middlebury Public Library",2210,295,1915,0,0
-https://arl.overdrive.com,"Appalachian Regional Library",2190,221,1969,0,0
-https://bibnetz.overdrive.com,"Verbund Bibnetz",2140,265,1875,0,0
-https://chl.overdrive.com,"Central Highlands Regional Library",2101,73,2028,0,0
-https://simba2.overdrive.com,"Réseau BIBLIO de la Montérégie",2096,150,1946,0,0
-https://kirkland.overdrive.com,"Kirkland Public Library",2091,195,1896,0,0
-https://odl.overdrive.com,"Oklahoma Department of Libraries",2074,438,1636,0,0
-https://libriid.overdrive.com,"LIBRI System, Inc.",2041,104,1937,0,0
-https://asfmrc.overdrive.com,"Archdiocese of Santa Fe",2029,98,1892,39,0
-https://lancastersc.overdrive.com,"Lancaster County Library System",2023,409,1614,0,0
-https://cgg.overdrive.com,"Greater Geraldton Regional Library",2008,738,1270,0,0
-https://mrcc.overdrive.com,"Mildura Rural City Council Library Service",1996,8,1988,0,0
-https://nyp.overdrive.com,"Nanyang Polytechnic",1990,59,1926,5,0
-https://cpls.overdrive.com,"Coweta Public Library System",1974,391,1566,17,0
-https://dorval.overdrive.com,"Dorval Library",1972,0,1972,0,0
-https://reddecolombos.overdrive.com,"Colombian/American Bi-national Centers",1968,346,1622,0,0
-https://nhfpl.overdrive.com,"New Haven Free Public Library",1939,559,1380,0,0
-https://guernsey.overdrive.com,"Guernsey Public Library",1931,257,1674,0,0
-https://elprlibrary.overdrive.com,"Lonesome Pine Regional Library",1928,322,1514,92,0
-https://hslda.overdrive.com,"Home School Legal Defense Association",1928,71,1857,0,0
-https://com.overdrive.com,"College of the Mainland",1900,0,1900,0,0
-https://crsbpl.overdrive.com,"Réseau BIBLIO des Laurentides",1879,0,1878,1,0
-https://bristollibraries.overdrive.com,"Bristol Libraries",1857,0,1857,0,0
-https://qut.overdrive.com,"Queensland University of Technology",1855,592,1234,29,0
-https://susqcolibrary.overdrive.com,"Susquehanna County Library",1844,77,1767,0,0
-https://virtualmoreland.overdrive.com,"Moreland City Libraries",1840,0,1840,0,0
-https://bilkent.overdrive.com,"Bilkent University Library",1811,362,1449,0,0
-https://cne-siar.overdrive.com,"Western Isles Libraries",1792,0,1792,0,0
-https://nnyoverdrive.overdrive.com,"Northern New York Library Network",1785,284,1500,1,0
-https://nwrl.overdrive.com,"Northwestern Regional Library",1780,176,1599,5,0
-https://huie.overdrive.com,"Henderson State University, Huie Library",1730,806,924,0,0
-https://georgiasouthern.overdrive.com,"Georgia Southern University",1701,866,835,0,0
-https://downbeach.overdrive.com,"Margate City and Longport Public Library",1698,172,1526,0,0
-https://kings.overdrive.com,"Kings County Library",1673,189,1484,0,0
-https://jhlibrary.overdrive.com,"Jackson/Hinds Library System",1665,108,1557,0,0
-https://morgancitylibrary.overdrive.com,"Morgan City Public Library",1664,37,1627,0,0
-https://ebooksforyou.overdrive.com,"eBooks for You",1649,68,1581,0,0
-https://hindscc.overdrive.com,"Hinds Community College",1625,203,1413,9,0
-https://prairiestate.overdrive.com,"Prairie State College",1623,106,1517,0,0
-https://emory.overdrive.com,"Emory University",1606,537,1069,0,0
-https://gotlib.overdrive.com,"Stadsbiblioteket Göteborg",1597,259,1338,0,0
-https://tvcc.overdrive.com,"Trinity Valley Community College",1490,405,1085,0,0
-https://yspubliclib.overdrive.com,"Songdo International Children's Library",1476,0,1476,0,0
-https://dogoklib.overdrive.com,"Dogok Library",1475,0,1475,0,0
-https://egfmn.overdrive.com,"East Grand Forks-Campbell Library",1450,248,1202,0,0
-https://vccs.overdrive.com,"Virginia Community College System",1440,1407,0,33,0
-https://ndscs.overdrive.com,"North Dakota State College of Science",1434,296,1138,0,0
-https://unimelb.overdrive.com,"University of Melbourne Student Union",1424,155,1269,0,0
-https://musselmanlibrary.overdrive.com,"Gettysburg College",1419,70,1349,0,0
-https://atwaterlibrary.overdrive.com,"Atwater Library and Computer Centre",1412,0,1412,0,0
-https://gympie.overdrive.com,"Gympie Regional Libraries",1406,94,1312,0,0
-https://lamarcounty.overdrive.com,"Lamar County Library System",1403,135,1268,0,0
-https://cuhksz.overdrive.com,"The Chinese University of Hong Kong, Shenzhen",1394,440,954,0,0
-https://chatham.overdrive.com,"Library of the Chathams",1374,365,1009,0,0
-https://bellevuelibrary.overdrive.com,"Bellevue Baptist Church Library",1359,263,1076,20,0
-https://melbourneathenaeum.overdrive.com,"The Melbourne Athenaeum Library",1353,51,1302,0,0
-https://uofmiami.overdrive.com,"University of Miami Libraries",1335,228,1107,0,0
-https://nuqlibrary.overdrive.com,"Northwestern University in Qatar",1331,0,1331,0,0
-https://wvu.overdrive.com,"West Virginia University",1324,271,1053,0,0
-https://lasalle.overdrive.com,"Lasalle Parish Library",1322,0,1322,0,0
-https://seoullib.overdrive.com,"Seoul Metropolitan Library",1309,0,1309,0,0
-https://isb.overdrive.com,"International School of Beijing",1309,224,1085,0,0
-https://bc.overdrive.com,"Boston College",1302,275,1020,7,0
-https://mrl.overdrive.com,"Massanutten Regional Library",1261,0,1261,0,0
-https://amc.overdrive.com,"US Embassy- Moscow American Center",1256,129,1127,0,0
-https://ecpl.overdrive.com,"East Chicago Public Library",1225,98,1127,0,0
-https://lpclibrary.overdrive.com,"Las Positas College",1206,413,793,0,0
-https://jplmontreal.overdrive.com,"Jewish Public Library",1204,109,1095,0,0
-https://eunc.overdrive.com,"European Nazarene College",1188,1,1187,0,0
-https://sjstsg.overdrive.com,"Library of Shijingshan District (石景山区图书馆)",1184,209,975,0,0
-https://boisestate.overdrive.com,"Boise State University Albertsons Library",1179,134,1043,2,0
-https://tbc-elibrary.overdrive.com,"Tallowood Baptist Church Library",1172,94,1078,0,0
-https://mpkdigital.overdrive.com,"Moorpark City Library",1170,139,1031,0,0
-https://rabun.overdrive.com,"Rabun County Public Library",1168,0,1168,0,0
-https://jc.overdrive.com,"University of Jamestown",1157,57,1097,3,0
-https://telford.overdrive.com,"Telford & Wrekin Libraries",1152,304,848,0,0
-https://kirtland.overdrive.com,"Kirtland Community College",1140,283,838,19,0
-https://cachecounty.overdrive.com,"Cache County Library",1123,290,833,0,0
-https://cwcl.overdrive.com,"Uichang Library",1118,48,1070,0,0
-https://stonington.overdrive.com,"Stonington Free Library",1115,133,982,0,0
-https://tiptonpl.overdrive.com,"Tipton County Public Library",1096,181,915,0,0
-https://childrens.overdrive.com,"Children's Medical Center",1079,110,969,0,0
-https://cornell.overdrive.com,"Cornell University Library",1068,241,827,0,0
-https://iyte.overdrive.com,"Izmir Institute of High Technology",1057,243,745,69,0
-https://southwestfl.overdrive.com,"Southwest Florida Library Network",1054,24,1030,0,0
-https://kwbc.overdrive.com,"Kirby Woods Baptist Church",1038,128,910,0,0
-https://vincent.overdrive.com,"City of Vincent Library",998,81,914,3,0
-https://clevelandfbc.overdrive.com,"First Baptist Cleveland Church Library",992,53,939,0,0
-https://udea.overdrive.com,"Universidad De Antioquia",986,39,947,0,0
-https://franklinpierce.overdrive.com,"Franklin Pierce University",986,0,986,0,0
-https://rscc.overdrive.com,"Roane State Community College",982,374,608,0,0
-https://northeaststate.overdrive.com,"Northeast State Community College",964,241,723,0,0
-https://elin.overdrive.com,"Estacado Library Information Network",964,197,757,10,0
-https://cod.overdrive.com,"College of DuPage",950,356,594,0,0
-https://ngrls.overdrive.com,"Northwest Georgia Regional Library System",947,0,947,0,0
-https://lyon.overdrive.com,"Lyon College",935,848,87,0,0
-https://ucny.overdrive.com,"The University Club of New York",925,211,714,0,0
-https://salvationarmyflorida.overdrive.com,"The Salvation Army Library Resource Center",905,82,823,0,0
-https://nblib.overdrive.com,"Ningbo Library (宁波市图书馆)",903,66,837,0,0
-https://cs.overdrive.com,"Changsha Library (长沙图书馆)",902,66,836,0,0
-https://willowbrookbaptist.overdrive.com,"Willowbrook Baptist Church",901,32,862,7,0
-https://lakesidebc.overdrive.com,"Lakeside Baptist Church",891,12,879,0,0
+https://brrl.overdrive.com,"Blue Ridge Regional Library",4993,424,4569,0,0
+https://sanibel.overdrive.com,"Sanibel Public Library",4968,386,4582,0,0
+https://woollahra.overdrive.com,"Woollahra Library & Information Service",4940,967,3973,0,0
+https://mcdermott.overdrive.com,"University of Texas at Dallas",4866,1314,3315,237,0
+https://stchristopherva.libraryreserve.com,"St. Christopher's Upper School",4846,184,4641,0,0
+https://rivershareacademic.overdrive.com,"RiverShare Academic Libraries",4840,53,4787,0,0
+https://georgetowncollege.overdrive.com,"Georgetown College",4817,19,4680,118,0
+https://awabank.overdrive.com,"The Awa Bank, Ltd.",4768,0,4768,0,0
+https://hpulibraries.overdrive.com,"High Point University",4762,77,4685,0,0
+https://huntingtonuniversity.overdrive.com,"Huntington University",4706,61,4642,3,0
+https://rpl.overdrive.com,"Rapides Parish Library",4682,1086,3576,20,0
+https://sekicity.overdrive.com,"Seki City Library",4672,41,4631,0,0
+https://orpl.overdrive.com,"Oak Ridge Public Library",4671,886,2798,987,0
+https://huntingdon.overdrive.com,"Huntingdon College",4639,9,4630,0,0
+https://oconee.overdrive.com,"Oconee County Public Library",4573,828,3745,0,0
+https://drcldc.overdrive.com,"Dallas/Rockwall Church Library Digital Collection",4515,593,3918,4,0
+https://sdg.overdrive.com,"SDG Library",4494,756,3549,189,0
+https://cityofdarwin.overdrive.com,"Darwin City Council Libraries",4461,154,4307,0,0
+https://fandm.overdrive.com,"Franklin & Marshall College",4425,85,4340,0,0
+https://duke-energy.overdrive.com,"Duke Energy Corporation",4393,1520,2873,0,0
+https://altamonte.overdrive.com,"City of Altamonte Springs Library",4383,456,3927,0,0
+https://charlestonlibrarysociety.overdrive.com,"Charleston Library Society",4371,101,4270,0,0
+https://idfbins.overdrive.com,"Farm Bureau Mutual Insurance Company of Idaho",4303,42,4261,0,0
+https://tccl.overdrive.com,"Claremont Colleges Library",4272,14,4258,0,0
+https://forestcity.overdrive.com,"Forest City",4253,66,4187,0,0
+https://highlandparktexas.overdrive.com,"Highland Park Library",4225,19,4175,31,0
+https://csusm.overdrive.com,"California State University-San Marcos",4207,2,4205,0,0
+https://dls.overdrive.com,"Defence Library Service",4194,913,3281,0,0
+https://wild.overdrive.com,"Wilderness Coast Public Libraries",4170,580,3396,194,0
+https://barnsley.overdrive.com,"Barnsley Libraries",4097,493,3604,0,0
+https://epichs.overdrive.com,"EPIC Health Services",4066,38,4028,0,0
+https://bld.overdrive.com,"Beaumont Library District",4031,414,3617,0,0
+https://mfo.overdrive.com,"Multinational Force and Observers",4028,575,3254,199,0
+https://hempcolib.overdrive.com,"Hempstead County Library",3947,515,3374,13,45
+https://swiss.overdrive.com,"EBOOKS SWITZERLAND",3944,533,3411,0,0
+https://bentleydownload.overdrive.com,"Bentley University",3940,1651,2289,0,0
+https://thehutchinsau.libraryreserve.com,"The Hutchins School",3934,75,3858,0,0
+https://uregina.overdrive.com,"University of Regina",3917,0,3917,0,0
+https://greenwoodsc.overdrive.com,"Greenwood County Library System",3899,281,3618,0,0
+https://kcpl.overdrive.com,"Knox County Public Library",3881,609,3143,129,0
+https://pittsburghuniv.libraryreserve.com,"OverDrive@PITT Popular Listening and Reading Collection",3855,1403,2452,0,0
+https://fundacionepm.overdrive.com,"Fundación EPM-Biblioteca EPM",3829,580,3249,0,0
+https://tamus.overdrive.com,"Texas A&M University System Libraries",3821,445,3084,292,0
+https://gplebooks.overdrive.com,"Gary Public Library",3787,681,3103,3,0
+https://mgccc.overdrive.com,"Mississippi Gulf Coast Community College",3771,521,3249,1,0
+https://haringey.overdrive.com,"London Borough of Haringey",3714,323,3391,0,0
+https://barringtonhsil.libraryreserve.com,"Barrington High School",3689,1445,2243,0,0
+https://palestine.overdrive.com,"Palestine Public Library",3649,462,3187,0,0
+https://maribyrnong.overdrive.com,"Maribyrnong Library Services",3609,87,3522,0,0
+https://ocnc.overdrive.com,"Orange County Public Library",3532,886,2646,0,0
+https://argyllandbute.overdrive.com,"Argyll & Bute Libraries",3516,85,3431,0,0
+https://apds.libraryreserve.com,"National Corrections Library",3464,0,3464,0,0
+https://westberks.overdrive.com,"West Berkshire Libraries",3447,595,2852,0,0
+https://sejong.overdrive.com,"National Library of Korea - Sejong",3425,19,3406,0,0
+https://cfbc.overdrive.com,"Champion Forest Baptist Church",3381,335,3046,0,0
+https://doncasterlibraries.overdrive.com,"Doncaster Libraries",3354,427,2927,0,0
+https://wauclib.overdrive.com,"Wauconda Area Public Library District",3328,567,2761,0,0
+https://jacksonlsoh.libraryreserve.com,"Jackson Local Schools Libraries",3286,303,2983,0,0
+https://bibnetz.overdrive.com,"Verbund Bibnetz",3278,554,2724,0,0
+https://crownpoint.overdrive.com,"Crown Point Community Public Library",3233,0,3233,0,0
+https://theyorkschoolca.libraryreserve.com,"The York School",3201,350,2851,0,0
+https://arl.overdrive.com,"Appalachian Regional Library",3140,345,2795,0,0
+https://udel.overdrive.com,"University of Delaware",3103,232,2869,2,0
+https://georgiasouthern.overdrive.com,"Georgia Southern University",3092,1460,1632,0,0
+https://ecpl.overdrive.com,"East Chicago Public Library",3080,525,2555,0,0
+https://duke.overdrive.com,"Duke University",3078,1304,1774,0,0
+https://ursulinetx.libraryreserve.com,"Ursuline Academy",3051,198,2853,0,0
+https://gzst.overdrive.com,"Guangzhou Children's Library (广州少年儿童图书馆)",3013,322,2691,0,0
+https://reddecolombos.overdrive.com,"Colombian/American Bi-national Centers",2967,758,2209,0,0
+https://rolfing.overdrive.com,"Trinity International University",2963,793,2170,0,0
+https://middleburypubliclibrary.overdrive.com,"Middlebury Public Library",2940,509,2431,0,0
+https://kznpls.overdrive.com,"Kwa-Zulu Natal Provincial Library Services",2927,0,2927,0,0
+https://vaski.overdrive.com,"Vaski/Turku City Library",2915,607,2308,0,0
+https://bibliothequesdesherbrooke.overdrive.com,"Les Bibliothèques de Sherbrooke",2910,35,2875,0,0
+https://nilrc.overdrive.com,"NILRC Academic Shared Digital Collection",2907,1300,1607,0,0
+https://normanhsok.libraryreserve.com,"Norman Public High Schools",2879,354,2525,0,0
+https://hoodcounty.overdrive.com,"Hood County Public Library",2869,1030,1812,27,0
+https://simbacqlm.overdrive.com,"Réseau BIBLIO CQLM",2867,156,2711,0,0
+https://tri-c.overdrive.com,"Cuyahoga Community College",2867,148,2716,3,0
+https://mdc.overdrive.com,"Miami Dade College",2855,853,2002,0,0
+https://chl.overdrive.com,"Central Highlands Regional Library",2851,115,2736,0,0
+https://kirkland.overdrive.com,"Kirkland Public Library",2850,293,2557,0,0
+https://bismarckstate.overdrive.com,"Bismarck State College",2826,205,2607,14,0
+https://bristollibraries.overdrive.com,"Bristol Libraries",2795,0,2795,0,0
+https://northamptonshire.overdrive.com,"Northamptonshire Libraries and Information Services",2793,1214,1579,0,0
+https://jerseylibrary.overdrive.com,"States of Jersey",2791,205,2586,0,0
+https://uniandes.overdrive.com,"Universidad de Los Andes",2780,0,2780,0,0
+https://jscl.overdrive.com,"Jiangsu Children's Digital Library (江苏省少儿数字图书馆)",2777,318,2459,0,0
+https://gatech.overdrive.com,"Georgia Tech Library",2773,0,2773,0,0
+https://cojlibrary.overdrive.com,"City of Johannesburg Library Services",2763,118,2645,0,0
+https://rsulibraries.overdrive.com,"Rogers State University",2752,1178,1534,40,0
+https://odl.overdrive.com,"Oklahoma Department of Libraries",2734,767,1963,4,0
+https://crsbpl.overdrive.com,"Réseau BIBLIO des Laurentides",2711,0,2710,1,0
+https://kleberglibrary.overdrive.com,"Robert J. Kleberg Public Library",2711,159,2481,71,0
+https://meridianlauderdale.overdrive.com,"Meridian-Lauderdale County Public Library",2706,241,2465,0,0
+https://saintannssny.libraryreserve.com,"Saint Ann's School",2701,147,2554,0,0
+https://nhfpl.overdrive.com,"New Haven Free Public Library",2696,721,1975,0,0
+https://baysidelibrary.overdrive.com,"Bayside Library Service",2661,45,2616,0,0
+https://susqcolibrary.overdrive.com,"Susquehanna County Library",2657,141,2516,0,0
+https://usu.overdrive.com,"Utah State University",2653,551,2102,0,0
+https://londonlibrary.overdrive.com,"The London Library",2586,0,2586,0,0
+https://elprlibrary.overdrive.com,"Lonesome Pine Regional Library",2499,403,2004,92,0
+https://regisjesuithsco.libraryreserve.com,"Regis Jesuit High School",2494,413,2079,0,0
+https://ykkgroup.overdrive.com,"YKK",2490,0,2490,0,0
+https://simba2.overdrive.com,"Réseau BIBLIO de la Montérégie",2486,199,2287,0,0
+https://paloaltousdca.libraryreserve.com,"PAUSD",2460,253,2207,0,0
+https://hartfordwi.libraryreserve.com,"Hartford Union High School",2439,687,1717,0,0
+https://ngrls.overdrive.com,"Northwest Georgia Regional Library System",2378,157,2221,0,0
+https://dorval.overdrive.com,"Dorval Library",2365,0,2365,0,0
+https://cgg.overdrive.com,"Greater Geraldton Regional Library",2356,866,1490,0,0
+https://xs.overdrive.com,"Beijing Xicheng Children's Library (北京市西城区青少年儿童图书馆)",2350,209,2141,0,0
+https://nwrl.overdrive.com,"Northwestern Regional Library",2343,267,2068,8,0
+https://amschoolbombay.libraryreserve.com,"American School of Bombay",2341,540,1801,0,0
+https://ebooksforyou.overdrive.com,"eBooks for You",2337,180,2157,0,0
+https://yaleuct.libraryreserve.com,"Yale University Library Downloadable Media",2334,1029,1305,0,0
+https://sst.overdrive.com,"Shanghai Children's Library (上海少年儿童图书馆)",2296,205,2091,0,0
+https://cachecounty.overdrive.com,"Cache County Library",2282,800,1481,1,0
+https://cuhksz.overdrive.com,"The Chinese University of Hong Kong, Shenzhen",2267,700,1567,0,0
+https://mononagrovehswi.libraryreserve.com,"Monona Grove High School",2260,709,1478,0,0
+https://udea.overdrive.com,"Universidad De Antioquia",2229,74,2155,0,0
+https://epsbjh.libraryreserve.com,"Edmonton Jr. High Schools",2225,145,2080,0,0
+https://kings.overdrive.com,"Kings County Library",2221,259,1962,0,0
+https://asfmrc.overdrive.com,"Archdiocese of Santa Fe",2218,154,1945,119,0
+https://lenoirctync.libraryreserve.com,"Lenoir County Public Schools",2216,163,2053,0,0
+https://telford.overdrive.com,"Telford & Wrekin Libraries",2193,686,1507,0,0
+https://chicagopublicil.libraryreserve.com,"Chicago Public Schools",2189,165,2024,0,0
+https://sir.overdrive.com,"Yayasan Bank Rakyat",2186,0,2186,0,0
+https://seoullib.overdrive.com,"Seoul Metropolitan Library",2183,0,2183,0,0
+https://hslda.overdrive.com,"Home School Legal Defense Association",2160,156,2004,0,0
+https://morgancitylibrary.overdrive.com,"Morgan City Public Library",2122,96,2026,0,0
+https://nyp.overdrive.com,"Nanyang Polytechnic",2084,59,2020,5,0
+https://isb.overdrive.com,"International School of Beijing",2084,593,1491,0,0
+https://chatham.overdrive.com,"Library of the Chathams",2083,557,1526,0,0
+https://egfmn.overdrive.com,"East Grand Forks-Campbell Library",2079,358,1721,0,0
+https://mrl.overdrive.com,"Massanutten Regional Library",2073,0,2073,0,0
+https://keskraamatukogu.overdrive.com,"Tallinn Central Library",2066,422,1644,0,0
+https://stjohnsschtx.libraryreserve.com,"St. John's School",2066,129,1937,0,0
+https://emory.overdrive.com,"Emory University",2038,679,1359,0,0
+https://downbeach.overdrive.com,"Longport Public Library",2021,294,1727,0,0
+https://casadyschoolok.libraryreserve.com,"Casady School",2010,431,1579,0,0
+https://normanmsok.libraryreserve.com,"Norman Public Middle Schools",1997,557,1440,0,0
+https://jhlibrary.overdrive.com,"Jackson/Hinds Library System",1981,148,1833,0,0
+https://lasalle.overdrive.com,"Lasalle Parish Library",1966,0,1966,0,0
+https://nnyoverdrive.overdrive.com,"Northern New York Library Network",1938,348,1589,1,0
+https://holytrinityca.libraryreserve.com,"Holy Trinity School",1840,247,1582,0,0
+https://bilkent.overdrive.com,"Bilkent University Library",1831,363,1468,0,0
+https://nblib.overdrive.com,"Ningbo Library (宁波图书馆)",1828,101,1727,0,0
+https://huie.overdrive.com,"Henderson State University, Huie Library",1807,858,949,0,0
+https://gympie.overdrive.com,"Gympie Regional Libraries",1796,144,1652,0,0
+https://lakeforestacil.libraryreserve.com,"Lake Forest Academy",1792,89,1702,0,0
+https://tvcc.overdrive.com,"Trinity Valley Community College",1791,511,1280,0,0
+https://bellevuelibrary.overdrive.com,"Bellevue Baptist Church Library",1758,326,1340,92,0
+https://nuqlibrary.overdrive.com,"Northwestern University in Qatar",1742,0,1742,0,0
+https://bibliovalle.overdrive.com,"Biblioteca Departamental Jorge Garces Borrero",1739,155,1584,0,0
+https://musselmanlibrary.overdrive.com,"Gettysburg College",1727,90,1637,0,0
+https://hindscc.overdrive.com,"Hinds Community College",1721,254,1458,9,0
+https://silsbeeisdtx.libraryreserve.com,"Silsbee ISD",1719,595,1124,0,0
+https://sjstsg.overdrive.com,"Library of Shijingshan District (石景山区图书馆)",1710,243,1467,0,0
+https://melbourneathenaeum.overdrive.com,"The Melbourne Athenaeum Library",1709,67,1642,0,0
+https://vccs.overdrive.com,"Virginia Community College System",1682,1646,0,36,0
+https://torrance.overdrive.com,"Torrance Public Library",1679,306,1372,1,0
+https://pausdmsca.libraryreserve.com,"Palo Alto USD (Middle Schools)",1677,304,1373,0,0
+https://unimelb.overdrive.com,"University of Melbourne Student Union",1671,199,1472,0,0
+https://banrepcultural.overdrive.com,"Biblioteca Luis Ángel Arango",1669,57,1612,0,0
+https://bc.overdrive.com,"Boston College",1666,404,1228,34,0
+https://conestogapa.libraryreserve.com,"Conestoga High School",1664,430,1234,0,0
+https://communityil.libraryreserve.com,"Community High School District 128",1634,534,1100,0,0
+https://newlisbonwi.libraryreserve.com,"New Lisbon School District",1623,107,1513,0,0
+https://cs.overdrive.com,"Changsha Library (长沙图书馆)",1590,128,1462,0,0
+https://nmontgomeryin.libraryreserve.com,"North Montgomery High School",1586,42,1544,0,0
+https://irpau.libraryreserve.com,"Indigenous Reading Project",1580,10,1570,0,0
+https://tiptonpl.overdrive.com,"Tipton County Public Library",1575,304,1271,0,0
+https://eafit.overdrive.com,"Universidad EAFIT",1569,147,1422,0,0
+https://jplmontreal.overdrive.com,"Jewish Public Library",1564,151,1413,0,0
+https://greatneckny.libraryreserve.com,"Great Neck South High School",1563,77,1486,0,0
+https://marinesociety.overdrive.com,"Marine Society",1557,1,1556,0,0
+https://atwaterlibrary.overdrive.com,"Atwater Library and Computer Centre",1557,39,1518,0,0
+https://appstatenc.libraryreserve.com,"OverDrive Digital Library",1543,309,1210,0,0
+https://uofmiami.overdrive.com,"University of Miami Libraries",1535,280,1255,0,0
+https://jxlib.overdrive.com,"Jiaxing Library (嘉兴市图书馆)",1520,104,1416,0,0
+https://kaipo.overdrive.com,"Kainuun ja Pohjois-Pohjanmaan eKirjasto",1516,562,954,0,0
+https://stonington.overdrive.com,"Stonington Free Library",1509,197,1312,0,0
+https://novonordisk.libraryreserve.com,"Novo Nordisk",1509,332,1177,0,0
+https://vincent.overdrive.com,"City of Vincent Library",1500,120,1377,3,0
+https://rakuten.libraryreserve.com,"Rakuten Digital Library",1499,122,1377,0,0
+https://leydenil.libraryreserve.com,"Leyden High School",1498,189,1308,0,0
+https://wvu.overdrive.com,"West Virginia University",1479,304,1175,0,0
+https://rabun.overdrive.com,"Rabun County Public Library",1479,49,1430,0,0
+https://radnorpa.libraryreserve.com,"Radnor Township School District",1463,217,1246,0,0
+https://du.overdrive.com,"University of Denver",1454,1454,0,0,0
+https://tbc-elibrary.overdrive.com,"Tallowood Baptist Church Library",1448,120,1328,0,0
+https://lemonbayfl.libraryreserve.com,"Lemon Bay High School",1446,197,1249,0,0
+https://southwestfl.overdrive.com,"Southwest Florida Library Network",1424,60,1364,0,0
+https://ndscs.overdrive.com,"North Dakota State College of Science",1424,296,1128,0,0
+https://brigidineau.libraryreserve.com,"Brigidine College - St Ives",1412,36,1376,0,0
+https://amc.overdrive.com,"US Embassy- Moscow American Center",1404,146,1258,0,0
+https://ucmmo.overdrive.com,"University of Central Missouri",1401,93,1301,7,0
+https://cod.overdrive.com,"College of DuPage",1378,538,840,0,0
+https://jc.overdrive.com,"University of Jamestown",1372,65,1304,3,0
+https://dogoklib.overdrive.com,"Dogok Library",1362,34,1327,0,0
+https://boisestate.overdrive.com,"Boise State University Albertsons Library",1356,152,1201,3,0
+https://wausauwi.libraryreserve.com,"Wausau School District High School",1355,405,950,0,0
+https://hamiltondigitallibrary.overdrive.com,"Hamilton Digital Library",1340,0,1340,0,0
+https://stpetersau.libraryreserve.com,"St Peters Lutheran College",1337,129,1208,0,0
+https://madisoncityal.libraryreserve.com,"Bob Jones High School",1336,111,1225,0,0
+https://szlib.overdrive.com,"Suzhou Library (苏州图书馆)",1333,72,1261,0,0
+https://northeaststate.overdrive.com,"Northeast State Community College",1320,366,866,0,88
+https://lpclibrary.overdrive.com,"Las Positas College",1301,454,847,0,0
+https://hzlib.overdrive.com,"Hangzhou Public Library (杭州图书馆)",1299,90,1209,0,0
+https://carletoncollege.libraryreserve.com,"Carleton College",1294,42,1252,0,0
+https://kirtland.overdrive.com,"Kirtland Community College",1273,327,927,19,0
+https://eunc.overdrive.com,"European Nazarene College",1272,1,1271,0,0
+https://childrens.overdrive.com,"Children's Medical Center",1269,139,1130,0,0
+https://cornell.overdrive.com,"Cornell University Library",1248,289,959,0,0
+https://saintignatiusoh.libraryreserve.com,"Saint Ignatius High School",1246,307,930,0,0
+https://ucny.overdrive.com,"The University Club of New York",1239,364,875,0,0
+https://preusssca.libraryreserve.com,"The Preuss School",1217,346,871,0,0
+https://vaudreuildorion.overdrive.com,"Bibliothèque de Vaudreuil-Dorion",1207,91,1116,0,0
+https://hightechhighca.libraryreserve.com,"High Tech High",1186,43,1143,0,0
+https://clevelandfbc.overdrive.com,"First Baptist Cleveland Church Library",1186,104,1082,0,0
+https://wflib.overdrive.com,"Weifang Library (潍坊市图书馆)",1185,127,1058,0,0
+https://hplct.overdrive.com,"Hartford Public Library",1173,95,1078,0,0
+https://rscc.overdrive.com,"Roane State Community College",1161,463,698,0,0
+https://talc.overdrive.com,"TALC – Texas Academic Library Consortium",1158,374,783,1,0
+https://easterncape.overdrive.com,"Eastern Cape Provincial Library Service",1148,50,1098,0,0
+https://kwbc.overdrive.com,"Kirby Woods Baptist Church",1133,141,992,0,0
+https://elin.overdrive.com,"Estacado Library Information Network",1132,272,850,10,0
+https://alamancelibraries.overdrive.com,"Alamance County Public Libraries",1085,34,1051,0,0
+https://dufferinpeelca.libraryreserve.com,"Dufferin-Peel Catholic District School Board",1063,162,901,0,0
+https://iyte.overdrive.com,"Izmir Institute of High Technology",1056,243,744,69,0
+https://pettes.overdrive.com,"Pettes Memorial Library",1043,112,913,18,0
+https://lakesidebc.overdrive.com,"Lakeside Baptist Church",1025,13,1012,0,0
+https://ald.overdrive.com,"Altadena Library District",1025,136,889,0,0
+https://mercantile.overdrive.com,"The Mercantile Library",1022,225,797,0,0
+https://whittierpubliclibrary.overdrive.com,"Whittier Public Library",1018,281,737,0,0
+https://bibliotecauao.overdrive.com,"Universidad Autónoma de Occidente",1004,80,924,0,0
+https://colecciondigital.overdrive.com,"Biblioteca Pública Piloto de Medellín para América Latina",991,199,792,0,0
+https://bluehill.overdrive.com,"Blue Hill Public Library",990,256,734,0,0
+https://americanacadco.libraryreserve.com,"American Academy",988,43,945,0,0
+https://morrin.overdrive.com,"Morrin Centre Library",977,42,906,29,0
+https://willowbrookbaptist.overdrive.com,"Willowbrook Baptist Church",975,32,936,7,0
+https://friendmemorial.overdrive.com,"Friend Memorial Library",969,169,800,0,0
+https://trinitycollegca.libraryreserve.com,"Trinity College School",948,489,459,0,0
+https://rvrhsnj.libraryreserve.com,"Rancocas Valley Regional High School District",948,325,619,0,0
+https://pentagonlib.overdrive.com,"Pentagon Library",940,472,468,0,0
+https://wyopublib.overdrive.com,"Wyomissing Public Library",935,0,930,5,0
+https://georgiahighlands.overdrive.com,"Georgia Highlands College",933,118,814,1,0
+https://bchighma.libraryreserve.com,"Boston College High School",932,107,825,0,0
+https://mnstate.overdrive.com,"Minnesota State University, Moorhead",925,201,724,0,0
+https://salvationarmyflorida.overdrive.com,"The Salvation Army Library Resource Center",915,82,833,0,0
+https://stjohnshsoh.libraryreserve.com,"St. John's Jesuit High School & Academy",915,37,878,0,0
+https://ncbi.overdrive.com,"National Council for the Blind of Ireland",905,894,11,0,0
+https://halsteadks.libraryreserve.com,"Halstead Middle School",903,37,866,0,0
+https://glencrestil.libraryreserve.com,"Glen Crest Middle School",903,40,863,0,0
+https://com.overdrive.com,"College of the Mainland",899,0,899,0,0
 https://iw.overdrive.com,"Iowa Wesleyan University",886,1,885,0,0
-https://vcsu.overdrive.com,"Valley City State University",813,99,686,28,0
-https://nacc.overdrive.com,"Northeast Alabama Community College",806,151,655,0,0
-https://vaudreuildorion.overdrive.com,"Bibliothèque de Vaudreuil-Dorion",784,39,745,0,0
-https://ced.overdrive.com,"North Carolina State University - College of Education",773,76,693,4,0
-https://mnstate.overdrive.com,"Minnesota State University, Moorhead",763,138,625,0,0
-https://pettes.overdrive.com,"Pettes Memorial Library",744,67,668,9,0
-https://eafit.overdrive.com,"Universidad EAFIT",741,22,719,0,0
-https://rcc.overdrive.com,"SUNY Rockland Community College",735,164,558,13,0
+https://kerrvilletx.libraryreserve.com,"Kerrville ISD",885,133,776,0,0
+https://bibstlaz.overdrive.com,"Saint-Lazare Library",874,0,874,0,0
+https://westlakehstx.libraryreserve.com,"Westlake High School",870,114,756,0,0
+https://olivebaptist.overdrive.com,"Olive Baptist Church Library",860,0,860,0,0
+https://americanin.libraryreserve.com,"American International School Chennai",850,105,745,0,0
+https://homewoodil.libraryreserve.com,"Homewood-Flossmoor High School",841,99,742,0,0
+https://episcopalhsva.libraryreserve.com,"Episcopal High School",838,242,596,0,0
+https://nacc.overdrive.com,"Northeast Alabama Community College",836,159,677,0,0
+https://ced.overdrive.com,"North Carolina State University - College of Education",836,85,747,4,0
+https://vcsu.overdrive.com,"Valley City State University",826,108,690,28,0
+https://atenedodemph.libraryreserve.com,"Ateneo de Manila High School",823,42,781,0,0
+https://montvillelibrary.overdrive.com,"Montville Township Public Library",817,113,704,0,0
+https://kapsarc.libraryreserve.com,"KAPSARC Library",803,147,656,0,0
+https://kennettnh.libraryreserve.com,"Kennett High School",800,0,800,0,0
+https://carthagemo.libraryreserve.com,"Carthage High School",799,22,777,0,0
+https://rcc.overdrive.com,"SUNY Rockland Community College",778,173,592,13,0
+https://swu.overdrive.com,"Southern Wesleyan University",775,277,450,48,0
+https://readacadsg.libraryreserve.com,"Read@Academy",775,95,680,0,0
+https://isaacwaldman.libraryreserve.com,"Waldman Library eBooks",771,155,616,0,0
+https://loyolaacademyil.libraryreserve.com,"Loyola Academy",769,128,641,0,0
+https://cwcl.overdrive.com,"Uichang Library",767,81,686,0,0
+https://poetrylibrary.overdrive.com,"Southbank Centre",746,91,655,0,0
+https://mtmansfieldvt.libraryreserve.com,"Mount Mansfield Union School District #17",740,45,695,0,0
+https://glenbardil.libraryreserve.com,"Glenbard District 87",740,168,572,0,0
+https://rcsi-mub.overdrive.com,"RCSI- Medical University of Bahrain",732,15,717,0,0
 https://tamlibrary.overdrive.com,"James A. Haley Veterans' Hospital",732,99,633,0,0
-https://ncbi.overdrive.com,"National Council for the Blind of Ireland",727,716,11,0,0
-https://du.overdrive.com,"University of Denver",724,724,0,0,0
-https://keskraamatukogu.overdrive.com,"Tallinn Central Library",707,94,613,0,0
-https://stlawu.overdrive.com,"Saint Lawrence University",705,146,559,0,0
+https://michbar.overdrive.com,"State Bar of Michigan",728,69,659,0,0
+https://xenos.overdrive.com,"Xenos Christian Fellowship",727,223,504,0,0
+https://grayslakehsil.libraryreserve.com,"Grayslake Community High School District 127",726,155,571,0,0
+https://loyolany.libraryreserve.com,"Loyola School",725,53,672,0,0
+https://nashcc.overdrive.com,"Nash Community College",719,155,564,0,0
+https://trine.overdrive.com,"Trine University",707,54,653,0,0
+https://hppcuk.libraryreserve.com,"Hurstpierpoint College",705,121,584,0,0
+https://jillsherlockau.libraryreserve.com,"The Jill Sherlock Memorial Learning Assistance Library",700,123,577,0,0
+https://alpenacc.overdrive.com,"Alpena Community College",684,198,486,0,0
+https://vhy.overdrive.com,"Veterans Home of California",681,97,584,0,0
+https://homewooduk.libraryreserve.com,"Homewood School & Sixth Form Centre",681,35,646,0,0
+https://madrides.libraryreserve.com,"American School of Madrid",678,74,604,0,0
+https://blackhillssd.libraryreserve.com,"Technology and Innovation in Education",677,127,550,0,0
 https://nobts.overdrive.com,"New Orleans Baptist Theological Seminary",676,30,646,0,0
-https://rcsi-mub.overdrive.com,"RCSI- Medical University of Bahrain",665,11,654,0,0
-https://bibliotecauao.overdrive.com,"Universidad Autónoma de Occidente",663,44,619,0,0
-https://pentagonlib.overdrive.com,"Pentagon Library",651,253,398,0,0
-https://trine.overdrive.com,"Trine University",640,46,594,0,0
-https://vhy.overdrive.com,"Veterans Home of California",638,69,569,0,0
-https://xenos.overdrive.com,"Xenos Christian Fellowship",633,189,444,0,0
-https://nashcc.overdrive.com,"Nash Community College",630,132,498,0,0
-https://ntu.overdrive.com,"Nanyang Technological University",615,78,537,0,0
-https://mercantile.overdrive.com,"The Mercantile Library",612,135,477,0,0
-https://wyopublib.overdrive.com,"Wyomissing Public Library",603,0,603,0,0
-https://christianrecord.overdrive.com,"Christian Record Services for the Blind",595,582,13,0,0
-https://bibstlaz.overdrive.com,"Saint-Lazare Library",588,0,588,0,0
-https://sewanee.overdrive.com,"University of the South",579,308,270,1,0
-https://michbar.overdrive.com,"State Bar of Michigan",578,15,563,0,0
-https://olivebaptist.overdrive.com,"Olive Baptist Church Library",569,0,569,0,0
-https://swu.overdrive.com,"Southern Wesleyan University",552,149,378,25,0
-https://bluebookshelf.overdrive.com,"Compassion International",552,153,399,0,0
-https://friendmemorial.overdrive.com,"Friend Memorial Library",535,37,498,0,0
-https://montvillelibrary.overdrive.com,"Montville Township Public Library",530,63,467,0,0
-https://poetrylibrary.overdrive.com,"Southbank Centre",527,69,458,0,0
-https://salb.overdrive.com,"South African Library for the Blind",526,438,88,0,0
-https://cornerstone.overdrive.com,"Cornerstone University",511,54,456,1,0
-https://riti.overdrive.com,"Remote Imagery Technologies, Inc.",505,223,282,0,0
-https://huntingtonuniversity.overdrive.com,"Huntington University",500,61,436,3,0
-https://bloomberg.overdrive.com,"Bloomberg Finance L.P.",500,167,333,0,0
-https://ozyegin.overdrive.com,"Ozyegin University",498,135,363,0,0
-https://amda.overdrive.com,"American Musical and Dramatic Academy",492,1,491,0,0
-https://rsulibraries.overdrive.com,"Rogers State University",487,183,304,0,0
-https://tricountycc.overdrive.com,"Tri-County Community College",481,230,251,0,0
-https://planning.overdrive.com,"American Planning Association",455,19,436,0,0
-https://wfld.overdrive.com,"BlueCross BlueShield of Kansas",447,164,278,5,0
-https://bluehill.overdrive.com,"Blue Hill Public Library",447,119,328,0,0
-https://jcjc.overdrive.com,"Jones County Junior College",446,38,405,3,0
-https://morrin.overdrive.com,"Morrin Centre Library",438,12,426,0,0
-https://theamericanclub.overdrive.com,"The American Club, Singapore",436,20,416,0,0
-https://middlebury.overdrive.com,"Middlebury College",425,204,221,0,0
-https://kcc.overdrive.com,"Kensington and Chelsea College",424,45,379,0,0
+https://planning.overdrive.com,"American Planning Association",667,36,631,0,0
+https://theamericanclub.overdrive.com,"The American Club, Singapore",649,36,613,0,0
+https://longwood.overdrive.com,"Longwood University",649,585,64,0,0
+https://wiscal.overdrive.com,"Wisconsin Academic Library Consortium",647,57,590,0,0
+https://trinity.overdrive.com,"St Francis College",645,25,620,0,0
+https://state.overdrive.com,"U.S. Department of State",626,120,489,17,0
+https://rccc.overdrive.com,"Rowan Cabarrus Community College",623,32,590,1,0
+https://ntu.overdrive.com,"Nanyang Technological University",620,78,542,0,0
+https://glenbrookil.libraryreserve.com,"Glenbrook High Schools",620,142,478,0,0
+https://miracosta.overdrive.com,"MiraCosta College",616,166,450,0,0
+https://christianrecord.overdrive.com,"Christian Record Services for the Blind",613,590,23,0,0
+https://bluebookshelf.overdrive.com,"Compassion International",605,173,432,0,0
+https://falklandcommunitylibrary.overdrive.com,"Falkland Community Library",602,48,554,0,0
+https://mtlaurelnj.libraryreserve.com,"Mt Laurel Township School District",598,55,567,0,0
+https://dcla.overdrive.com,"Douglas Community Library Association",590,63,527,0,0
+https://chelsea.overdrive.com,"Chelsea Library",584,82,502,0,0
+https://azwestern-library.overdrive.com,"Arizona Western College",580,114,466,0,0
+https://amda.overdrive.com,"American Musical and Dramatic Academy",577,1,576,0,0
+https://riti.overdrive.com,"Remote Imagery Technologies, Inc.",561,264,297,0,0
+https://middlebury.overdrive.com,"Middlebury College",559,301,258,0,0
+https://salb.overdrive.com,"South African Library for the Blind",557,447,110,0,0
+https://kcc.overdrive.com,"Kensington and Chelsea College",554,49,505,0,0
+https://holmeslibrary.overdrive.com,"Holmes Community College",554,155,399,0,0
+https://ak-chin.overdrive.com,"Ak-Chin Community Library",554,255,299,0,0
+https://kedah.overdrive.com,"Kedah Digital Library",543,38,505,0,0
+https://ugc.overdrive.com,"Universidad La Gran Colombia",534,33,501,0,0
+https://nachikatsuuratown.overdrive.com,"Nachikatsuura Town Board of Education",521,0,521,0,0
+https://mbts.overdrive.com,"Midwestern Baptist Theological Seminary",518,12,506,0,0
+https://pokagon.overdrive.com,"Pokagon Tribal Library",515,63,442,10,0
+https://ucirvinemain.overdrive.com,"University of California Irvine",513,0,513,0,0
+https://bloomberg.overdrive.com,"Bloomberg Finance L.P.",512,172,340,0,0
+https://macu.overdrive.com,"Mid-America Christian University",507,160,347,0,0
+https://jcjc.overdrive.com,"Jones County Junior College",504,40,461,3,0
+https://judsontx.libraryreserve.com,"Judson ISD",499,55,468,0,0
+https://isbrooklynny.libraryreserve.com,"International School Of Brooklyn",499,55,444,0,0
+https://wfld.overdrive.com,"BlueCross BlueShield of Kansas",496,186,305,5,0
+https://tricountycc.overdrive.com,"Tri-County Community College",492,265,227,0,0
+https://tokyoamericanclub.overdrive.com,"Tokyo American Club",485,92,393,0,0
+https://fdsm.overdrive.com,"Fudan University - School of Management",477,11,466,0,0
+https://accenture.libraryreserve.com,"OverDrive IRC Digital Library",461,38,423,0,0
+https://kennebunklibrary.overdrive.com,"Kennebunk Free Library",456,125,331,0,0
+https://dakotastate.overdrive.com,"Dakota State University",456,183,273,0,0
+https://uppercapema.libraryreserve.com,"Upper Cape Cod Regional Technical School",447,82,365,0,0
+https://ltikr.libraryreserve.com,"LTI Korea Library Site",437,51,386,0,0
+https://denverseminary.overdrive.com,"Denver Seminary",430,0,430,0,0
+https://malmo.overdrive.com,"Malmo Stadsbibliotek",429,39,390,0,0
+https://americanlibraryinparis.overdrive.com,"American Library in Paris",428,0,428,0,0
+https://aishk.libraryreserve.com,"American International School Hong Kong",420,26,394,0,0
+https://northwestlib.overdrive.com,"North West Provincial Library Services (ZA)",419,19,400,0,0
 https://dcbottineau.overdrive.com,"Dakota College at Bottineau",406,193,213,0,0
-https://denverseminary.overdrive.com,"Denver Seminary",392,0,392,0,0
-https://trinity.overdrive.com,"St Francis College",389,21,368,0,0
-https://macu.overdrive.com,"Mid-America Christian University",385,109,276,0,0
-https://dakotastate.overdrive.com,"Dakota State University",379,152,227,0,0
-https://cma.overdrive.com,"Comerica Corporate Library",368,129,239,0,0
-https://wiscal.overdrive.com,"Wisconsin Academic Library Consortium",366,0,366,0,0
-https://neo.overdrive.com,"NEO A&M College",360,43,317,0,0
-https://irc.overdrive.com,"US Embassy Montevideo",356,3,353,0,0
+https://afmlibrary.overdrive.com,"Addictions Foundation of Manitoba",405,110,280,15,0
+https://neo.overdrive.com,"NEO A&M College",403,45,358,0,0
+https://cloviscollegeca.overdrive.com,"Clovis Community College",402,271,131,0,0
+https://bci.overdrive.com,"BCI",399,135,264,0,0
+https://rhodes.overdrive.com,"Rhodes University",394,20,374,0,0
+https://wvuparkersburg.overdrive.com,"West Virginia University at Parkersburg",393,22,371,0,0
+https://murdockfl.libraryreserve.com,"Murdock Middle School",392,54,338,0,0
+https://hacc.overdrive.com,"Harrisburg Area Community College",387,99,288,0,0
+https://stanford.overdrive.com,"Stanford University",378,188,190,0,0
+https://una.overdrive.com,"University of North Alabama",372,48,324,0,0
+https://ciu.overdrive.com,"Columbia International University",371,3,368,0,0
+https://theleedslibrary.overdrive.com,"The Leeds Library",356,11,345,0,0
+https://dementia-e-library.overdrive.com,"Dementia Australia Library",354,71,283,0,0
+https://trails.overdrive.com,"TRAILS",352,67,285,0,0
 https://cass.overdrive.com,"Chinese Academy of Social Sciences",352,0,352,0,0
-https://longwood.overdrive.com,"Longwood University",345,342,3,0,0
-https://whittierpubliclibrary.overdrive.com,"Whittier Public Library",337,119,218,0,0
-https://pokagon.overdrive.com,"Pokagon Tribal Library",330,29,291,10,0
-https://stanford.overdrive.com,"Stanford University",316,163,153,0,0
-https://wvuparkersburg.overdrive.com,"West Virginia University at Parkersburg",302,17,285,0,0
-https://sclhs.overdrive.com,"Saint Joseph Hospital",300,31,269,0,0
-https://afmlibrary.overdrive.com,"Addictions Foundation of Manitoba",297,59,224,14,0
-https://marshallcenter.overdrive.com,"Marshall Center Research Library",295,3,288,4,0
-https://dcla.overdrive.com,"Douglas Community Library Association",295,15,280,0,0
-https://ciu.overdrive.com,"Columbia International University",292,0,292,0,0
-https://holmeslibrary.overdrive.com,"Holmes Community College",282,72,210,0,0
-https://americanlibraryinparis.overdrive.com,"American Library in Paris",275,0,275,0,0
-https://miracosta.overdrive.com,"MiraCosta College",263,51,212,0,0
-https://chelsea.overdrive.com,"Chelsea Library",263,17,246,0,0
-https://rccc.overdrive.com,"Rowan Cabarrus Community College",262,3,258,1,0
-https://mdtlibrary.overdrive.com,"Montana Department of Transportation Library",251,111,140,0,0
-https://leeward.overdrive.com,"Leeward Community College",251,0,251,0,0
-https://caebookgroups.overdrive.com,"Centre for Adult Education",248,1,247,0,0
-https://malmo.overdrive.com,"Malmo Stadsbibliotek",247,5,242,0,0
-https://dementia-e-library.overdrive.com,"Dementia Australia Library",243,51,192,0,0
-https://spbc.overdrive.com,"South Park Baptist Church",233,8,225,0,0
-https://hacc.overdrive.com,"Harrisburg Area Community College",230,54,176,0,0
-https://swarthmore.overdrive.com,"Swarthmore College",229,41,188,0,0
-https://cna.overdrive.com,"CNA Corporation",227,22,205,0,0
-https://dcu.overdrive.com,"Digital Federal Credit Union",223,61,162,0,0
-https://icculibrary.overdrive.com,"Idaho Central Credit Union",222,117,105,0,0
-https://alamancelibraries.overdrive.com,"Alamance County Public Libraries",221,0,221,0,0
-https://cdwlearninglabelibrary.overdrive.com,"The Rapides Foundation - Community Development Works",215,10,205,0,0
-https://equityresourcelibrary.overdrive.com,"Henry Parkes Equity Resource Centre",214,0,212,2,0
-https://cppib.overdrive.com,"Canada Pension Plan Investment Board",212,4,208,0,0
-https://uhnpatient.overdrive.com,"University Health Network",211,28,165,18,0
-https://sandiegochristian.overdrive.com,"San Diego Christian College",208,0,208,0,0
-https://trinitylibrary.overdrive.com,"Trinity Washington University",198,0,198,0,0
-https://craibiblioteca.overdrive.com,"Fundacion Universitaria Los Libertadores",193,137,56,0,0
-https://falklandcommunitylibrary.overdrive.com,"Falkland Community Library",193,0,193,0,0
-https://bci.overdrive.com,"BCI",191,51,140,0,0
-https://witcc.overdrive.com,"Western Iowa Tech Community College",190,62,128,0,0
-https://mi.overdrive.com,"Musicians Institute of Contemporary Music Los Angeles",189,21,168,0,0
-https://state.overdrive.com,"U.S. Department of State",186,32,154,0,0
-https://tokyoamericanclub.overdrive.com,"Tokyo American Club",186,18,168,0,0
+https://swarthmore.overdrive.com,"Swarthmore College",351,68,283,0,0
+https://uachsnj.libraryreserve.com,"University Academy Charter High School",346,80,266,0,0
+https://ucb.overdrive.com,"University of California Berkeley",345,117,228,0,0
+https://seafarerslibrary.overdrive.com,"The Seafarers' Library",338,125,213,0,0
+https://leeward.overdrive.com,"Leeward Community College",336,6,330,0,0
+https://icculibrary.overdrive.com,"Idaho Central Credit Union",328,181,147,0,0
+https://nmotclibrary.overdrive.com,"Navy Medicine Operational Training Center Library",326,95,229,2,0
+https://californiajewishlibraries.overdrive.com,"California Jewish Library Digital Book Consortium",322,43,279,0,0
+https://erieinsurance.libraryreserve.com,"Erie Insurance Corporate Library",319,143,176,0,0
+https://lakeareatech.overdrive.com,"Lake Area Technical Institute",318,125,193,0,0
+https://mtsu.overdrive.com,"Middle Tennessee State University",314,104,210,0,0
+https://mdtlibrary.overdrive.com,"Montana Department of Transportation Library",309,134,175,0,0
+https://uhnpatient.overdrive.com,"University Health Network",308,55,233,20,0
+https://gia.overdrive.com,"Gemological Institute of America",308,6,207,95,0
+https://marshallcenter.overdrive.com,"Marshall Center Research Library",298,3,291,4,0
+https://fba.overdrive.com,"First Baptist Church of Atlanta",293,56,170,67,0
+https://dcu.overdrive.com,"Digital Federal Credit Union",290,78,212,0,0
+https://nvclibrary.overdrive.com,"Northwest Vista College",283,16,250,17,0
+https://equityresourcelibrary.overdrive.com,"Henry Parkes Equity Resource Centre",281,0,278,3,0
+https://mi.overdrive.com,"Musicians Institute of Contemporary Music Los Angeles",279,27,252,0,0
+https://murdockma.libraryreserve.com,"Murdock Middle and High School",275,38,237,0,0
+https://fbcmedialibrary.overdrive.com,"First Baptist Church - Glen Rose",266,43,161,62,0
+https://candid.overdrive.com,"Candid",265,37,228,0,0
+https://nihlibrary.overdrive.com,"National Institutes of Health Library",264,95,169,0,0
+https://farmcredit.libraryreserve.com,"FCSAmerica Digital Library",262,152,110,0,0
+https://coa.overdrive.com,"College of Alameda",261,40,221,0,0
+https://spbc.overdrive.com,"South Park Baptist Church",260,9,251,0,0
+https://fukuiuniversity.libraryreserve.com,"福井大学附属図書館",258,0,258,0,0
+https://hccc.overdrive.com,"Hudson County Community College",258,39,202,0,17
+https://cna.overdrive.com,"CNA Corporation",250,27,223,0,0
+https://sandiegochristian.overdrive.com,"San Diego Christian College",248,0,248,0,0
+https://viken.overdrive.com,"Viken Fylkesbibliotek",247,90,157,0,0
+https://nic.overdrive.com,"National Institute of Corrections",247,48,199,0,0
+https://cppib.overdrive.com,"Canada Pension Plan Investment Board",243,5,238,0,0
+https://uofnkona.overdrive.com,"University of the Nations",240,47,193,0,0
+https://pepperdine.overdrive.com,"Pepperdine University",239,0,239,0,0
+https://dfat.overdrive.com,"Dept of Foreign Affairs and Trade - H.V. Evatt Library",231,38,193,0,0
+https://montanastatelibrary.overdrive.com,"Montana State Library",225,38,187,0,0
+https://mainehealthlrc.overdrive.com,"MaineHealth Learning Resource Center",223,41,182,0,0
+https://trinitylibrary.overdrive.com,"Trinity Washington University",221,0,221,0,0
+https://cmu.libraryreserve.com,"Carnegie Mellon University Libraries",220,0,220,0,0
+https://disneytech.overdrive.com,"DPEP Tech & Digital Knowledge Center",218,135,83,0,0
+https://imfund.libraryreserve.com,"World Bank International Monetary Fund Library Network",216,27,189,0,0
+https://cdwlearninglabelibrary.overdrive.com,"The Rapides Foundation - Community Development Works",216,10,206,0,0
+https://paclibrary.overdrive.com,"Palo Alto College",214,0,214,0,0
+https://tells.overdrive.com,"TELLS Library",210,0,210,0,0
+https://shelbyky.libraryreserve.com,"Shelby County High School",209,95,113,0,0
+https://worcesterma.libraryreserve.com,"Worcester Academy",205,30,175,0,0
+https://roberts.overdrive.com,"Roberts Wesleyan College & Northeastern Seminary",205,11,194,0,0
+https://eastmanchemical.overdrive.com,"Eastman Chemical Company",199,81,118,0,0
+https://nswdg.overdrive.com,"Naval Special Warfare Development Group",198,65,133,0,0
+https://witcc.overdrive.com,"Western Iowa Tech Community College",197,69,128,0,0
+https://cairnuniversity.overdrive.com,"Cairn University",186,9,177,0,0
 https://iohumc.overdrive.com,"Isle of Hope United Methodist Church",184,7,177,0,0
-https://hecsa.overdrive.com,"HECSA",184,22,162,0,0
-https://ak-chin.overdrive.com,"Ak-Chin Community Library",180,177,3,0,0
-https://ugc.overdrive.com,"Universidad La Gran Colombia",179,19,160,0,0
-https://columbiasc.overdrive.com,"Columbia College",177,90,87,0,0
-https://tells.overdrive.com,"TELLS Library",171,0,171,0,0
+https://lawrenceny.libraryreserve.com,"Lawrence High School",181,0,181,0,0
+https://vcc.overdrive.com,"Vancouver Community College",177,102,75,0,0
+https://rds.overdrive.com,"Royal Dublin Society",176,62,114,0,0
+https://ljla.libraryreserve.com,"LAMM Jewish Library of Australia",172,6,166,0,0
+https://commerceresearchlibrary.overdrive.com,"Commerce Research Library",172,1,171,0,0
+https://e-kbl.overdrive.com,"Kantonsbibliothek Baselland (CH)",171,48,123,0,0
 https://baypath.overdrive.com,"Bay Path University",169,1,164,4,0
-https://cloviscollegeca.overdrive.com,"Clovis Community College",162,162,0,0,0
-https://nihlibrary.overdrive.com,"National Institutes of Health Library",161,55,106,0,0
-https://foundationcenter.overdrive.com,"Foundation Center",159,0,159,0,0
+https://stanfordchildrens.overdrive.com,"Stanford Children's Health",164,7,157,0,0
+https://sumclibrary.overdrive.com,"Shandon United Methodist Church",164,48,116,0,0
+https://ccri.overdrive.com,"Community College of Rhode Island",162,28,134,0,0
+https://missouriedumo.libraryreserve.com,"MELL Professional Development",160,27,133,0,0
+https://wfp.overdrive.com,"WFP Library & Research Centre",157,0,157,0,0
 https://spfconnect.overdrive.com,"Six Point Foundation",155,60,95,0,0
-https://uofnkona.overdrive.com,"University of the Nations",152,13,139,0,0
-https://guidestone.overdrive.com,"Guidestone Financial Resources for Southern Baptist Convention",152,37,115,0,0
-https://lakeareatech.overdrive.com,"Lake Area Technical Institute",151,84,67,0,0
-https://gia.overdrive.com,"Gemological Institute of America",150,0,127,23,0
-https://mainehealthlrc.overdrive.com,"MaineHealth Learning Resource Center",143,30,113,0,0
-https://paclibrary.overdrive.com,"Palo Alto College",142,0,142,0,0
+https://lift.overdrive.com,"The Select Group",149,38,86,25,0
+https://ndsu.overdrive.com,"North Dakota State University",148,49,96,3,0
+https://epannapolis.overdrive.com,"Evangelical Presbyterian Church",145,28,117,0,0
+https://myforeverfamily.overdrive.com,"My Forever Family NSW",143,16,127,0,0
+https://lumlibrary.overdrive.com,"Appraisal Institute",139,1,138,0,0
+https://weizmann.overdrive.com,"The Weizmann Institute of Science",138,35,103,0,0
 https://firstcrc.overdrive.com,"First Christian Reformed Church",138,11,127,0,0
-https://cairnuniversity.overdrive.com,"Cairn University",138,0,138,0,0
-https://vcc.overdrive.com,"Vancouver Community College",137,68,69,0,0
-https://montanastatelibrary.overdrive.com,"Montana State Library",134,18,116,0,0
-https://disneytech.overdrive.com,"DPECP Tech Academy Research Library (Walt Disney Co)",132,107,25,0,0
-https://idfbins.overdrive.com,"Farm Bureau Mutual Insurance Company of Idaho",131,40,91,0,0
-https://stanfordchildrens.overdrive.com,"Stanford Children's Health",124,7,117,0,0
-https://lruffin-smith.overdrive.com,"Cleveland Clinic Lou Ruvo Center for Brain Health",123,0,122,1,0
-https://sumclibrary.overdrive.com,"Shandon United Methodist Church",118,35,83,0,0
-https://lift.overdrive.com,"The Select Group",115,28,61,26,0
-https://takeda.overdrive.com,"Takeda Pharmaceuticals International",111,38,73,0,0
-https://davidsonccc.overdrive.com,"Davidson County Community College",104,0,104,0,0
-https://defender.overdrive.com,"DEFENDERS",102,45,57,0,0
-https://fandm.overdrive.com,"Franklin & Marshall College",100,29,71,0,0
-https://epannapolis.overdrive.com,"Evangelical Presbyterian Church",99,13,86,0,0
-https://talc.overdrive.com,"TALC – Texas Academic Library Consortium",93,9,84,0,0
-https://smcm.overdrive.com,"St. Mary's College of Maryland",89,32,57,0,0
-https://nswdg.overdrive.com,"Naval Special Warfare Development Group",88,20,68,0,0
-https://pmi.overdrive.com,"Production Management Institute",86,1,85,0,0
-https://ccri.overdrive.com,"Community College of Rhode Island",85,20,65,0,0
+https://lruffin-smith.overdrive.com,"Cleveland Clinic Lou Ruvo Center for Brain Health",137,4,132,1,0
+https://smcm.overdrive.com,"St. Mary's College of Maryland",133,50,83,0,0
+https://nyackats.overdrive.com,"Nyack College",133,0,133,0,0
+https://nypa.overdrive.com,"New York Power Authority",132,25,107,0,0
+https://davidsonccc.overdrive.com,"Davidson County Community College",126,4,122,0,0
+https://b4church.overdrive.com,"Beaverton Foursquare Church",126,22,104,0,0
+https://ni.overdrive.com,"National Instruments Corporation",122,15,107,0,0
+https://defender.overdrive.com,"DEFENDERS",117,52,65,0,0
+https://tbcraleigh.overdrive.com,"Trinity Baptist Church - Raleigh",116,10,106,0,0
+https://lehigh.overdrive.com,"Lehigh University",116,23,93,0,0
+https://pmi.overdrive.com,"Production Management Institute",115,1,114,0,0
+https://americanfidel.libraryreserve.com,"AF eLibrary",115,54,61,0,0
+https://ssw.overdrive.com,"Seminary of the Southwest",110,1,109,0,0
+https://investorsbanklibrary.overdrive.com,"Investors Bank",110,24,86,0,0
+https://biddlelaw.overdrive.com,"University of Pennsylvania Law Library",109,15,85,9,0
+https://bibliotecafundadores.overdrive.com,"Universidad CES",109,19,90,0,0
+https://circulodeafiliadosccb.overdrive.com,"Camara de Comercio de Bogota",109,8,101,0,0
+https://mcu.overdrive.com,"Rocket Science Group",106,50,56,0,0
+https://bbna.overdrive.com,"Bloomberg Industry Group",106,10,96,0,0
+https://cairnmillar.overdrive.com,"Cairnmillar Institute",103,2,101,0,0
+https://gocclearningcommons.overdrive.com,"Glen Oaks Community College",98,6,92,0,0
+https://levine-sklutjudaiclibrary.overdrive.com,"Center For Jewish Education / Levine Sklut Judaic Library",94,12,82,0,0
+https://cmilibrary.overdrive.com,"College of the Marshall Islands",93,35,58,0,0
+https://fdot.overdrive.com,"Florida Department of Transportation",91,9,82,0,0
+https://usstratcom.overdrive.com,"US Strategic Command",90,1,89,0,0
+https://apex.overdrive.com,"APEX Group",90,84,6,0,0
+https://mdanderson.overdrive.com,"The University of Texas MD Anderson Cancer Center",85,25,60,0,0
 https://robleyrex.overdrive.com,"Robley Rex VA Medical Center",83,0,83,0,0
+https://tyndale.overdrive.com,"New Saint Andrews College",82,63,19,0,0
+https://orparc.overdrive.com,"Oregon Post Adoption Resource Center",81,14,67,0,0
 https://mercerebooks.overdrive.com,"Mercer School",81,8,73,0,0
-https://tesoro.overdrive.com,"Tesoro Refining and Marketing Company",78,28,50,0,0
-https://cmilibrary.overdrive.com,"College of the Marshall Islands",78,35,43,0,0
-https://arcadia.overdrive.com,"Arcadia",78,36,42,0,0
-https://nvclibrary.overdrive.com,"Northwest Vista College",72,5,66,1,0
-https://lumlibrary.overdrive.com,"Appraisal Institute",71,1,70,0,0
-https://nypa.overdrive.com,"New York Power Authority",70,8,62,0,0
-https://fdot.overdrive.com,"Florida Department of Transportation",70,6,64,0,0
+https://cru.overdrive.com,"CRU",78,34,44,0,0
+https://trinitycville.overdrive.com,"Trinity Presbyterian Church",77,16,61,0,0
+https://bapco.overdrive.com,"Bahrain Petroleum Company (BAPCO)",77,26,51,0,0
+https://digitalvanguardlibrary.overdrive.com,"Digital Vanguard Library",74,39,35,0,0
 https://kaia.overdrive.com,"Korea Agency for Infrastructure Technology Advancement",66,12,54,0,0
-https://mcu.overdrive.com,"Rocket Science Group",64,33,31,0,0
-https://bbna.overdrive.com,"Bloomberg BNA",64,5,59,0,0
-https://kennebunklibrary.overdrive.com,"Kennebunk Free Library",63,17,46,0,0
+https://vadoc.overdrive.com,"Virginia Department of Corrections",63,21,42,0,0
+https://nulibrary.overdrive.com,"Nazarbayev University",62,5,57,0,0
 https://lassencollege.overdrive.com,"Lassen Community College",62,9,53,0,0
-https://trinitycville.overdrive.com,"Trinity Presbyterian Church",61,13,48,0,0
-https://digitalvanguardlibrary.overdrive.com,"Digital Vanguard Library",61,27,34,0,0
-https://roberts.overdrive.com,"Roberts Wesleyan College & Northeastern Seminary",52,0,52,0,0
-https://usstratcom.overdrive.com,"US Strategic Command",43,0,43,0,0
-https://levine-sklutjudaiclibrary.overdrive.com,"Center For Jewish Education / Levine Sklut Judaic Library",33,7,26,0,0
-https://nicc.overdrive.com,"Northeast Iowa Community College",27,0,3,24,0
-https://urwelcome.overdrive.com,"URWelcome Technologies",24,7,17,0,0
-https://cairnmillar.overdrive.com,"Cairnmillar Institute",23,1,22,0,0
-https://nulibrary.overdrive.com,"Nazarbayev University",15,2,13,0,0
-https://kdicl.overdrive.com,"KDI School of Public Policy & Management",5,2,3,0,0
+https://hcu.overdrive.com,"Heritage Christian University",58,0,58,0,0
+https://oldwestburylibrary.overdrive.com,"SUNY College at Old Westbury",55,26,29,0,0
+https://mapuaulibrary.overdrive.com,"Mapua University",47,6,41,0,0
+https://secf.overdrive.com,"Southeastern Council of Foundations",44,5,39,0,0
+https://blattnerlibrary.overdrive.com,"Blattner Library",44,21,23,0,0
+https://donnellycollegelibrary.overdrive.com,"Donnelly College",40,1,39,0,0
+https://flatiron.overdrive.com,"Flatiron Health",37,7,30,0,0
+https://cesa.overdrive.com,"Colegio de Estudios Superiores de Administracion",37,0,37,0,0
+https://thetradedesk.overdrive.com,"The Trade Desk",36,13,23,0,0
+https://atlantahumane.overdrive.com,"Atlanta Humane Society",32,4,28,0,0
+https://nicc.overdrive.com,"Northeast Iowa Community College",29,1,4,24,0
+https://devereux.overdrive.com,"Devereux Foundation",26,14,11,1,0
+https://cuboulder.overdrive.com,"University of Colorado Boulder",23,2,21,0,0
+https://unisabana.overdrive.com,"Universidad de la Sabana",23,0,23,0,0
+https://1stsfgroup.overdrive.com,"1SFG (A)",21,8,13,0,0
+https://kdicl.overdrive.com,"KDI School of Public Policy & Management",18,8,10,0,0
+https://circuitboardmedics.overdrive.com,"Circuit Board Medics",11,3,8,0,0
 https://stimson.overdrive.com,"U.S. Army Medical Department Center and School",2,1,1,0,0
 https://ssecoreideation.overdrive.com,"Sydney School of Entrepreneurship",2,0,2,0,0
