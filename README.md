@@ -9,8 +9,9 @@ Only public libraries are listed.
 
 [🗺️ Libraries Map](https://ping.github.io/overdrive-libraries/)
 
-- Collections size < 50,000 - Yellow marker
-- Collections size between 50,000 and 99,999 - Teal marker
-- Collections size >= 100,000 - Pink marker
+- Collections size
+  - ![#f7f73b](https://via.placeholder.com/12/f7f73b/000000?text=+) <50,000
+  - ![#3bf1f7](https://via.placeholder.com/12/3bf1f7/000000?text=+) 50,000-99,999
+  - ![#f73bbf](https://via.placeholder.com/12/f73bbf/000000?text=+) >=100,000
 
 https://user-images.githubusercontent.com/104607/144548523-64399ffb-c708-4a6b-9126-9121dbabc737.mp4
