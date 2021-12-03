@@ -5,6 +5,7 @@ pub_static="$pub/static"
 # wipe
 rm -rf "$pub_static" && mkdir -p "$pub_static"
 # build
+cp -p libraries_branches.geojson "$pub/"
 cp -p "$src_static/favicon.ico" "$pub_static"
 sass --style=compressed --no-source-map "$src_static/styles.scss" "$pub_static/styles.min.css"
 terser --mangle --compress --comments '/^!/' "$src_static/main.js" -o "$pub_static/main.min.js"

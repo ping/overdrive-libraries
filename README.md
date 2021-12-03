@@ -9,3 +9,5 @@ Only public libraries are listed.
   - Collections size < 50,000 - Small Dark Gray marker
   - Collections size between 50,000 and 99,999 - Medium Orange marker
   - Collections size >= 100,000 - Large Dull-Red marker
+
+[Mapped](https://ping.github.io/overdrive-libraries/)
