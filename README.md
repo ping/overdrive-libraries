@@ -11,3 +11,5 @@ Only public libraries are listed.
   - Collections size >= 100,000 - Large Dull-Red marker
 
 [Libraries Map 🗺️](https://ping.github.io/overdrive-libraries/)
+
+![Libraries Map](screenshot.gif)
