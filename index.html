@@ -1,0 +1,61 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name="pinterest" content="nopin"><meta name="robots" content="noindex"><title>overdrive-libraries: Locator</title><link rel="icon" href="static/favicon.ico"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" crossorigin="anonymous"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.css" integrity="sha256-BPfK9M5v34c2XP6p0cxVz1mUQLst0gTLk0mlc7kuodA=" crossorigin="anonymous"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.1/dist/MarkerCluster.css" integrity="sha256-YU3qCpj/P06tdPBJGPax0bm6Q1wltfwjsho5TR4+TYc=" crossorigin="anonymous"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.1/dist/MarkerCluster.Default.css" integrity="sha256-YSWCMtmNZNwqex4CEw1nQhvFub2lmU7vcCKP+XVwwXA=" crossorigin="anonymous"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-extra-markers@1.2.1/dist/css/leaflet.extra-markers.min.css" integrity="sha256-7Zr0s0MoLVy6pFTRq2DKuki8xw1OzRYY1Q3S2pTDtvo=" crossorigin="anonymous"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.74.0/dist/L.Control.Locate.min.css" integrity="sha256-OC6YiSkaH/IVtTJGxI4fMQ+NZbi/aT7k5XJ8Ng3tdSU=" crossorigin="anonymous"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-control-geocoder@2.3.0/dist/Control.Geocoder.css" integrity="sha256-B4j2o1uIqjrUGgCj7CIUWs0HlH9e4FshC3L27DtLBo8=" crossorigin="anonymous"><link rel="stylesheet" href="static/styles.min.css"></head><body class="light-mode"><div id="map"></div><script id="marker-template" type="x-tmpl-mustache"><div class="library-marker marker-{{marker-size}}">
+{{#properties}}
+<h2>
+    {{#library-link}}
+    <a target="_blank" title="{{library-link}}" href="{{library-link}}">{{library-name}}</a>
+    {{/library-link}}
+
+    {{^library-link}}
+        {{library-name}}
+    {{/library-link}}
+
+</h2>
+{{/properties}}
+<p class="text-break">
+    <span class="map-link">
+    <a target="_blank" title="View on Google Maps" href="https://www.google.com/maps/?q={{geometry.coordinates.1}},{{geometry.coordinates.0}}">
+    <i class="fa fa-map-o" aria-hidden="true"></i>
+    {{properties.library-description}}</a>
+    </span>
+
+    <span class="od-link">
+        <a target="_blank" title="{{properties.overdrive-link}}" href="{{properties.overdrive-link}}">
+        {{properties.overdrive-name}} {{properties.overdrive-link}}</a>
+    </span>
+
+    <span class="od-more-link">
+    <!-- <a target="_blank" title="Search at Overdrive.com" href="https://www.overdrive.com/libraries?q={{properties.library-name}}"><i class="fa fa-search" aria-hidden="true"></i> overdrive.com</a> -->
+    <a target="_blank" class="card" title="Get a card" href="{{properties.overdrive-link}}/support/card">
+        <i class="fa fa-id-card-o" aria-hidden="true"></i> Get Card
+    </a>
+    <a target="_blank" class="directions" title="Get directions" href="https://www.google.com/maps/dir/?api=1&destination={{geometry.coordinates.1}},{{geometry.coordinates.0}}">
+        <i class="fa fa-location-arrow" aria-hidden="true"></i> Get Directions
+    </a>
+    </span>
+</p>
+{{#properties}}
+<div class="counts">
+<span class="count">
+    Total <span class="badge badge-info">{{collection-total}}</span>
+</span>
+<span class="count">
+    Ebooks <span class="badge badge-secondary">{{collection-ebooks}}</span>
+</span>
+{{#collection-audiobooks}}
+<span class="count">
+    Audiobooks <span class="badge badge-secondary">{{collection-audiobooks}}</span>
+</span>
+{{/collection-audiobooks}}
+{{#collection-magazines}}
+<span class="count">
+    Magazines <span class="badge badge-secondary">{{collection-magazines}}</span>
+</span>
+{{/collection-magazines}}
+{{#collection-videos}}
+<span class="count">
+    Videos <span class="badge badge-secondary">{{collection-videos}}</span>
+</span>
+{{/collection-videos}}
+</div>
+{{/properties}}
+</div></script><script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.js" integrity="sha256-yDc0eil8GjWFKqN1OSzHSVCiuGghTosZCcRje4tj7iQ=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.1/dist/leaflet.markercluster.js" integrity="sha256-XfyZVmG3Md1UJkjQiT8TjYeslMX7pMagFBPi1VrPUH4=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/leaflet-extra-markers@1.2.1/dist/js/leaflet.extra-markers.min.js" integrity="sha256-nm8fKiOVLndTf7KD5YEPuMSb0kv9IH7fDyZ+zlF8s/0=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.74.0/dist/L.Control.Locate.min.js" integrity="sha256-bL3FKqRiVnX0fwAJLe/dvFdUeDsqX9LDJ9w5sevEaR0=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/leaflet-control-geocoder@2.3.0/dist/Control.Geocoder.min.js" integrity="sha256-VZoQsm93bJeGTK7afAGk8xfzTU8Ad3KY6aW/4LzVoS4=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/mustache@4.0.1/mustache.min.js" integrity="sha256-JoAhdrtmvUmN+9RtRzuF66Ok9RkjWz1XuSObZ8CcwSk=" crossorigin="anonymous"></script><script src="static/main.min.js"></script></body></html>
