@@ -12,4 +12,4 @@ Only public libraries are listed.
 
 [Libraries Map 🗺️](https://ping.github.io/overdrive-libraries/)
 
-![Libraries Map](screenshot.gif)
+screenshot.mp4
