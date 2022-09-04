@@ -10,8 +10,8 @@ Only public libraries are listed.
 [🗺️ Libraries Map](https://ping.github.io/overdrive-libraries/)
 
 - Collections size
-  - ![#f7f73b](https://via.placeholder.com/12/f7f73b/000000?text=+) <50,000
-  - ![#3bf1f7](https://via.placeholder.com/12/3bf1f7/000000?text=+) 50,000-99,999
-  - ![#f73bbf](https://via.placeholder.com/12/f73bbf/000000?text=+) >=100,000
+  - ![#f7f73b](https://user-images.githubusercontent.com/104607/188298453-d59695af-69e1-4620-97a4-24afa539fa2f.png) <50,000
+  - ![#3bf1f7](https://user-images.githubusercontent.com/104607/188298469-1c9075d0-6a64-4678-a531-7fef88a0d061.png) 50,000-99,999
+  - ![#f73bbf](https://user-images.githubusercontent.com/104607/188298476-8ddcc936-022a-4bbf-bdcc-2c24e96652d0.png) >=100,000
 
 https://user-images.githubusercontent.com/104607/144548523-64399ffb-c708-4a6b-9126-9121dbabc737.mp4
