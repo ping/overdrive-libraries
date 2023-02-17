@@ -64,10 +64,10 @@ https://opensource.org/licenses/RPL-1.5
                     var markerTemplate = document.getElementById('marker-template').innerHTML;
                     ['small', 'medium', 'large'].forEach(size => {
                         var sourceData = { 'type': 'FeatureCollection' };
-                        if (size == 'all') {
+                        if (size === 'all') {
                             sourceData = data;
                         } else {
-                            sourceData['features'] = data['features'].filter(f => f['properties']['marker-size'] == size);
+                            sourceData['features'] = data['features'].filter(f => f['properties']['marker-size'] === size);
                         }
                         var iconColour = '#eeeeee';
                         var markerShape = 'circle';

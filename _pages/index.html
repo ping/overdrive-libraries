@@ -9,21 +9,24 @@
     <link rel="icon" href="static/favicon.ico">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css"
         crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.css"
-        integrity="sha256-BPfK9M5v34c2XP6p0cxVz1mUQLst0gTLk0mlc7kuodA=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.1/dist/MarkerCluster.css"
-        integrity="sha256-YU3qCpj/P06tdPBJGPax0bm6Q1wltfwjsho5TR4+TYc=" crossorigin="anonymous">
     <link rel="stylesheet"
-        href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.1/dist/MarkerCluster.Default.css"
-        integrity="sha256-YSWCMtmNZNwqex4CEw1nQhvFub2lmU7vcCKP+XVwwXA=" crossorigin="anonymous">
+          href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"
+          integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="anonymous">
     <link rel="stylesheet"
-        href="https://cdn.jsdelivr.net/npm/leaflet-extra-markers@1.2.1/dist/css/leaflet.extra-markers.min.css"
-        integrity="sha256-7Zr0s0MoLVy6pFTRq2DKuki8xw1OzRYY1Q3S2pTDtvo=" crossorigin="anonymous">
+          href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"
+          integrity="sha256-YU3qCpj/P06tdPBJGPax0bm6Q1wltfwjsho5TR4+TYc=" crossorigin="anonymous">
     <link rel="stylesheet"
-        href="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.74.0/dist/L.Control.Locate.min.css"
-        integrity="sha256-OC6YiSkaH/IVtTJGxI4fMQ+NZbi/aT7k5XJ8Ng3tdSU=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-control-geocoder@2.3.0/dist/Control.Geocoder.css"
-        integrity="sha256-B4j2o1uIqjrUGgCj7CIUWs0HlH9e4FshC3L27DtLBo8=" crossorigin="anonymous">
+          href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"
+          integrity="sha256-YSWCMtmNZNwqex4CEw1nQhvFub2lmU7vcCKP+XVwwXA=" crossorigin="anonymous">
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/leaflet-extra-markers@1.2.1/dist/css/leaflet.extra-markers.min.css"
+          integrity="sha256-7Zr0s0MoLVy6pFTRq2DKuki8xw1OzRYY1Q3S2pTDtvo=" crossorigin="anonymous">
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.79.0/dist/L.Control.Locate.min.css"
+          integrity="sha256-b1FUshftUDgzY/VtFMamPDs0o3GER52S9Tk8IK+wOoE=" crossorigin="anonymous">
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/leaflet-control-geocoder@2.4.0/dist/Control.Geocoder.css"
+          integrity="sha256-B4j2o1uIqjrUGgCj7CIUWs0HlH9e4FshC3L27DtLBo8=" crossorigin="anonymous">
     <link rel="stylesheet" href="static/styles.min.css">
 </head>
 <body class="light-mode">
@@ -81,27 +84,22 @@
     Magazines <span class="badge badge-secondary">{{collection-magazines}}</span>
 </span>
 {{/collection-magazines}}
-{{#collection-videos}}
-<span class="count">
-    Videos <span class="badge badge-secondary">{{collection-videos}}</span>
-</span>
-{{/collection-videos}}
 </div>
 {{/properties}}
 </div>
     </script>
-    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.js"
-        integrity="sha256-yDc0eil8GjWFKqN1OSzHSVCiuGghTosZCcRje4tj7iQ=" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.1/dist/leaflet.markercluster.js"
-        integrity="sha256-XfyZVmG3Md1UJkjQiT8TjYeslMX7pMagFBPi1VrPUH4=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"
+            integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"
+            integrity="sha256-Hk4dIpcqOSb0hZjgyvFOP+cEmDXUKKNE/tT542ZbNQg=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/leaflet-extra-markers@1.2.1/dist/js/leaflet.extra-markers.min.js"
-        integrity="sha256-nm8fKiOVLndTf7KD5YEPuMSb0kv9IH7fDyZ+zlF8s/0=" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.74.0/dist/L.Control.Locate.min.js"
-        integrity="sha256-bL3FKqRiVnX0fwAJLe/dvFdUeDsqX9LDJ9w5sevEaR0=" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/leaflet-control-geocoder@2.3.0/dist/Control.Geocoder.min.js"
-        integrity="sha256-VZoQsm93bJeGTK7afAGk8xfzTU8Ad3KY6aW/4LzVoS4=" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/mustache@4.0.1/mustache.min.js"
-        integrity="sha256-JoAhdrtmvUmN+9RtRzuF66Ok9RkjWz1XuSObZ8CcwSk=" crossorigin="anonymous"></script>
+            integrity="sha256-nm8fKiOVLndTf7KD5YEPuMSb0kv9IH7fDyZ+zlF8s/0=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.79.0/dist/L.Control.Locate.min.js"
+            integrity="sha256-jVdNHjjOOJMoykxLOdGxOUzGJDlmr8MM6sFF++b1/sI=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet-control-geocoder@2.4.0/dist/Control.Geocoder.min.js"
+            integrity="sha256-hLTT3z4DbZi/oBVYQReIec1PGVzetCSyKIXTqkyGlaU=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mustache@4.2.0/mustache.min.js"
+            integrity="sha256-1/0GA1EkYejtvYFoa+rSq4LfM4m5zKI13Z1bQIhI4Co=" crossorigin="anonymous"></script>
     <script src="static/main.min.js"></script>
 </body>
 </html>
