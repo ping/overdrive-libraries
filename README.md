@@ -1,10 +1,10 @@
 # overdrive-libraries
 
-A collection of information on Overdrive libraries extracted from available information online.
+A collection of information on OverDrive libraries extracted from available information online.
 
 Only public libraries are listed.
 
-- [List of Libraries (csv)](libraries.csv) - With collection size (audiobooks, ebooks)
+- [List of Libraries (csv)](libraries.csv) - With collection size (audiobooks, ebooks, magazines)
 - [Libraries Geomapped (geojson)](libraries_branches.geojson) - Libraries with branch locations extracted from [overdrive.com](https://www.overdrive.com/libraries)
 
 [🗺️ Libraries Map](https://ping.github.io/overdrive-libraries/)
