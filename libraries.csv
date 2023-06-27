@@ -65,7 +65,7 @@ St. Louis County Library,https://slcl.overdrive.com,United States,Missouri,12153
 Beehive Library Consortium,https://beehive.overdrive.com,United States,Utah,120492,66277,49493,4722
 Evansville Vanderburgh Public Library,https://evpl.overdrive.com,United States,Indiana,119250,91779,22800,4669
 Saskatchewan Library Consortium,https://saskatchewan.overdrive.com,Canada,Saskatchewan,118061,87806,25550,4705
-Santa Clara County Library,https://santaclara.overdrive.com,United States,California,117868,75725,37382,4759
+Santa Clara County Library,https://santaclara.overdrive.com,United States,California,117883,75733,37389,4759
 Surrey Libraries,https://surreyca.overdrive.com,Canada,British Columbia,117719,85832,27189,4697
 San Antonio Public Library,https://sanantonio.overdrive.com,United States,Texas,116290,78466,33151,4671
 OC Public Libraries,https://ocpl.overdrive.com,United States,California,116168,91188,20274,4703
@@ -87,7 +87,7 @@ Bridges,https://bridges.overdrive.com,United States,Iowa,102296,74775,22774,4747
 Lake County Public Library,https://lakecounty.overdrive.com,United States,Indiana,100889,71736,24441,4710
 Digital Library of Illinois,https://dlil.overdrive.com,United States,Illinois,100859,67359,28738,4762
 Hawaii State Public Library System,https://hawaii.overdrive.com,United States,Hawaii,100257,73054,22456,4745
-Gold Coast Libraries,https://goldcoast.overdrive.com,Australia,Queensland,100083,76572,18844,4667
+Gold Coast Libraries,https://goldcoast.overdrive.com,Australia,Queensland,99876,76377,18832,4667
 Westchester Library System,https://westchester.overdrive.com,United States,New York,99512,78608,16142,4761
 Arkansas Digital Library Consortium,https://adlc.overdrive.com,United States,Arkansas,99201,71085,23364,4752
 San Jose Public Library,https://sanjose.overdrive.com,United States,California,98753,71679,22318,4755
@@ -122,7 +122,7 @@ San Bernardino County Library,https://sbcldigital.overdrive.com,United States,Ca
 Knox County Public Library,https://knoxcounty.overdrive.com,United States,Tennessee,83340,61208,22131,0
 Naperville Public Library,https://naperville.overdrive.com,United States,Illinois,82830,53297,25294,4238
 District of Columbia Public Library,https://dclibrary.overdrive.com,United States,District of Columbia,82681,60186,17812,4681
-Jefferson County Library Cooperative,https://jclc.overdrive.com,United States,Alabama,82090,58041,19302,4747
+Jefferson County Library Cooperative,https://jclc.overdrive.com,United States,Alabama,82108,58051,19310,4747
 Kansas City Public Library,https://kclibrary.overdrive.com,United States,Missouri,81379,55291,26084,0
 Henrico County Public Library,https://henrico.overdrive.com,United States,Virginia,80088,63132,16955,0
 Washington Anytime Library,https://anytime.overdrive.com,United States,Washington,79467,52970,21784,4713
@@ -197,7 +197,7 @@ DeKalb County Public Library,https://dekalb.overdrive.com,United States,Georgia,
 Yakima Valley Libraries,https://yvl.overdrive.com,United States,Washington,55978,33992,17297,4686
 Greater Victoria Public Library,https://gvpl.overdrive.com,Canada,British Columbia,55844,38365,12781,4697
 eLibraries Manitoba,https://elm.overdrive.com,Canada,Manitoba,55734,43471,12263,0
-Yavapai Library Network,https://yln.overdrive.com,United States,Arizona,55501,43081,7674,4746
+Yavapai Library Network,https://yln.overdrive.com,United States,Arizona,55511,43082,7683,4746
 LYNX Library Consortium,https://id8.overdrive.com,United States,Idaho,55042,34470,15832,4739
 Idaho Falls Public Library,https://ifpl.overdrive.com,United States,Idaho,54938,34545,20393,0
 The Public Library of Youngstown and Mahoning County,https://youngstown.overdrive.com,United States,Ohio,54901,39574,15326,0
@@ -408,14 +408,14 @@ IDEA by ICfL,https://idea.overdrive.com,United States,Idaho,27383,22387,4996,0
 Leisure and Culture Dundee,https://dundeecity.overdrive.com,United Kingdom,Scotland,27238,20982,1621,4633
 Lawrence Public Library,https://lawrencepl.overdrive.com,United States,Kansas,27001,17905,9095,0
 Lincs Inspire Libraries,https://lincsinspireuk.overdrive.com,United Kingdom,England,26832,20435,1675,4721
-York County Library,https://yclibrary.overdrive.com,United States,South Carolina,26682,16283,5730,4665
+York County Library,https://yclibrary.overdrive.com,United States,South Carolina,26711,16305,5737,4665
 Hornsby Shire Library & Information Service,https://hornsby.overdrive.com,Australia,New South Wales,26636,19099,2859,4677
 Logan City Council,https://logan.overdrive.com,Australia,Queensland,26444,16728,5114,4601
 Aubora OverDrive,https://aubora.overdrive.com,Switzerland,Switzerland,26332,15658,5941,4733
 Stockton-San Joaquin County Public Library,https://ssjcpl.overdrive.com,United States,California,26249,14040,7446,4761
 Whitehorse Manningham Regional Library Corporation,https://wml.overdrive.com,Australia,Victoria,26173,24101,2071,0
 Fort Bend County Libraries,https://fortbend.overdrive.com,United States,Texas,26078,17644,8434,0
-Uji City Library,https://ujicity-library.overdrive.com,Japan,Kyoto,25908,25877,31,0
+Uji City Library,https://ujicity-library.overdrive.com,Japan,Kyoto,26054,26023,31,0
 Moonee Valley Libraries,https://mooneevalley.overdrive.com,Australia,Victoria,25890,21017,2458,2413
 Vaughan Public Libraries,https://vaughanpl.overdrive.com,Canada,Ontario,25767,14610,6443,4713
 "Bibliomation, Inc.",https://bibliomation.overdrive.com,United States,Connecticut,25707,16442,4505,4760
@@ -685,8 +685,8 @@ Sakura City Library,https://sakuradigital-library.overdrive.com,Japan,Tokyo,1182
 Zhejiang Library (浙江图书馆),https://zjlib.overdrive.com,China,China,11805,10969,836,0
 Biblioteca Pública Piloto de Medellín para América Latina,https://colecciondigital.overdrive.com,Colombia,Antioquia,11804,5528,1666,4610
 Gauteng Provincial Library Service,https://gauteng.overdrive.com,South Africa,Guateng,11798,10773,1025,0
+City of Darwin,https://cityofdarwin.overdrive.com,Australia,Northern Territory,11668,6491,463,4714
 Washington District Libraries,https://waggin.overdrive.com,United States,Pennsylvania,11659,9465,2194,0
-City of Darwin,https://cityofdarwin.overdrive.com,Australia,Northern Territory,11654,6476,464,4714
 Sanibel Public Library,https://sanibel.overdrive.com,United States,Florida,11627,6347,543,4737
 Lake Macquarie City Library,https://lakemac.overdrive.com,Australia,New South Wales,11577,5142,1683,4752
 Rafbókasafnið,https://rafbokasafnid.overdrive.com,Iceland,Iceland,11490,8293,3197,0
@@ -807,7 +807,7 @@ Listening Books,https://listening-books.overdrive.com,United Kingdom,England,772
 Nottinghamshire Libraries,https://nottinghamshire.overdrive.com,United Kingdom,England,7676,0,3069,4606
 Westleihe24,https://westleihe24.overdrive.com,Germany,North Rhine-Westphalia,7613,2341,606,4666
 Jessie F. Hallett Memorial Library,https://jessiehallett.overdrive.com,United States,Minnesota,7613,6533,1079,0
-Chiryu City Library,https://chiryucity.overdrive.com,Japan,Aichi,7499,2808,10,4681
+Chiryu City Library,https://chiryucity.overdrive.com,Japan,Aichi,7520,2829,10,4681
 Hocutt Ellington Memorial Library,https://claytonnc.overdrive.com,United States,North Carolina,7493,7027,464,0
 Newcastle Region Library,https://newcastleau.overdrive.com,Australia,New South Wales,7312,1136,1456,4719
 Stadtbibliothek Stuttgart,https://stuttgart.overdrive.com,Germany,Baden-Württemberg,7282,2055,490,4737
@@ -853,10 +853,8 @@ Chungcheongnam-do Library,https://cnelib.overdrive.com,South Korea,South Korea,6
 Central Northern Regional Library,https://cnlnsw.overdrive.com,Australia,New South Wales,6124,505,896,4722
 Richmond-Tweed Regional Library,https://rtrlnsw.overdrive.com,Australia,New South Wales,6105,729,620,4756
 Beijing Xicheng Children's Library (北京市西城区青少年儿童图书馆),https://xs.overdrive.com,China,China,6058,5700,358,0
-OverDrive Demo - Canada,https://democa.overdrive.com,United States,Ohio,6020,5284,723,0
 Greenwood County Library System,https://greenwoodsc.overdrive.com,United States,South Carolina,5990,3717,2273,0
 MidCoast Libraries,https://midcoastnsw.overdrive.com,Australia,New South Wales,5954,910,386,4657
-Stoke on Trent Library,https://stokeontrentuk.overdrive.com,United Kingdom,England,5893,0,1261,4632
 Penang Digital Library,https://penang.overdrive.com,Malaysia,Penang,5887,5720,167,0
 Northeast Alabama Community College,https://nacc.overdrive.com,United States,Alabama,5827,811,265,4751
 East Chicago Public Library,https://ecpl.overdrive.com,United States,Indiana,5819,4619,1200,0
@@ -907,7 +905,7 @@ Central Highlands Regional Council Library Services,https://chrclib.overdrive.co
 Magazines (Réseau BIBLIO),https://biblioquebec.overdrive.com,Canada,Quebec,4885,198,15,4672
 Stadtbüchereien Düsseldorf,https://duesseldorf.overdrive.com,Germany,North Rhine-Westphalia,4864,181,13,4670
 Westmeath County Library,https://westmeathie.overdrive.com,Ireland,Leinster,4856,147,117,4591
-Yarra Libraries,https://yarralibraries.overdrive.com,Australia,Victoria,4833,50,1923,2859
+Yarra Libraries,https://yarralibraries.overdrive.com,Australia,Victoria,4834,50,1924,2859
 Wrexham County Library,https://wrexhamuk.overdrive.com,United Kingdom,Wales,4822,145,12,4664
 Carmarthenshire County Council,https://carmarthenshire.overdrive.com,United Kingdom,Wales,4822,145,12,4662
 Neath Port Talbot Libraries,https://nptuk.overdrive.com,United Kingdom,Wales,4820,145,12,4662
@@ -1136,8 +1134,8 @@ Sefton Libraries,https://seftonuk.overdrive.com,United Kingdom,England,608,0,608
 Stadt- und Landesbibliothek Dortmund,https://dortmund.overdrive.com,Germany,North Rhine-Westphalia,598,50,548,0
 "Stockport Libraries, Information, Advice",https://stockportgb.overdrive.com,United Kingdom,England,581,145,436,0
 Thunder Bay Public Library,https://tbpl.overdrive.com,Canada,Ontario,557,521,35,0
+World Bank International Monetary Fund Library Network,https://librarynetwork.overdrive.com,United States,District of Columbia,511,461,50,0
 Avondale Public Library,https://avondalelibrary.overdrive.com,United States,Arizona,502,332,170,0
-World Bank International Monetary Fund Library Network,https://librarynetwork.overdrive.com,United States,District of Columbia,500,450,50,0
 Camden Council Library Service,https://camdennsw.overdrive.com,Australia,New South Wales,490,460,30,0
 Gwangjin District Public Library,https://gwangjinlib.overdrive.com,South Korea,South Korea,481,481,0,0
 North Lanarkshire Libraries,https://northlanarkshire.overdrive.com,United Kingdom,Scotland,473,0,0,472
@@ -1182,7 +1180,6 @@ MBK Ohio,https://mbkohio.overdrive.com,United States,Ohio,1,1,0,0
 Lincoln Public Library,https://lincolnpublicri.overdrive.com,,,1,0,0,0
 Beaver County Library System,https://beaverco.overdrive.com,United States,Pennsylvania,1,0,0,0
 Barrington Public Library,https://barringtonri.overdrive.com,,,1,0,0,0
-West Dunbartonshire Libraries,https://westdunbartonuk.overdrive.com,United Kingdom,Scotland,0,0,0,0
 North Smithfield Public Library,https://northsmithfield.overdrive.com,United States,Rhode Island,0,0,0,0
 Hope Library,https://hoperi.overdrive.com,United States,Rhode Island,0,0,0,0
 East Providence Public Library,https://eprovidenceri.overdrive.com,United States,Rhode Island,0,0,0,0
